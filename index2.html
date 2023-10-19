@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear Pregunta</title>
+    <style>
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Crear Pregunta</h2>
+        <label for="question">Pregunta:</label><br>
+        <textarea id="question" rows="4" cols="50"></textarea><br>
+
+        <label for="options">Opciones (separadas por saltos de línea):</label>
+        <textarea id="options" rows="4" cols="50"></textarea><br>
+
+        <button onclick="createQuestion()">Crear Pregunta</button>
+
+        <div id="result"></div>
+
+        <button onclick="addQuestion()">Agregar Otra Pregunta</button>
+    </div>
+
+    <script>
+        let questionsArray = [];
+
+        function createQuestion() {
+            const questionInput = document.getElementById("question");
+            const optionsInput = document.getElementById("options");
+
+            const question = questionInput.value;
+            const options = optionsInput.value.split('\n').map(option => option.trim());
+            const answer = options[0];
+
+            const questionObj = {
+                question: question,
+                choices: options,
+                answer: answer,
+            };
+
+            questionsArray.push(questionObj);
+
+            displayQuestions();
+        }
+
+        function displayQuestions() {
+            const resultOutput = document.getElementById("result");
+            resultOutput.innerHTML = questionsArray.map(questionObj => {
+                return `
+                    <pre>${JSON.stringify(questionObj, null, 2)}</pre>
+                    <br>
+                `;
+            }).join('');
+        }
+
+        function addQuestion() {
+            const questionInput = document.getElementById("question");
+            const optionsInput = document.getElementById("options");
+
+            questionInput.value = "";
+            optionsInput.value = "";
+        }
+    </script>
+</body>
+</html>
