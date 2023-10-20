@@ -35,7 +35,7 @@ for (const question of selectedQuestions) {
   question.choices = shuffleChoices(question);
 }
 
-console.log(selectedQuestions); 
+console.log(data); 
 
 export const questions = selectedQuestions.map(
   (question) =>

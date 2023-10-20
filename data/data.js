@@ -1907,7 +1907,415 @@ export const data = [{
       "- Aumenta el suministro de oxígeno a los tejidos."
   ],
   answer: "- Reduce la hemorragia.",
-},/*{
+},{
+  question: 'Uno de los criterios para el diagnóstico de la Diabetes Mellitus es presentar síntomas diabéticos  como ________________, ________________  y  pérdida  de  peso  no "explicada, además tener concentraciones de glucosa plasmática equivalente o mayor a ________________ en cualquier hora del día sin tomar en consideración el tiempo transcurrido desde la última comida.',
+  choices: [
+      "- poliuria – polidipsia – 200 mg/dL (11,1 mmol/L).",
+      "- policitemia – poliuria – 200 mg/dL (11,1 mmol/L).",
+      "- poliuria – polidipsia – 126 mg/dL (7,0 mmol/L).",
+      "- policitemia – poliuria – 126 mg/dL (7,0 mmol/L)."
+  ],
+  answer: "- poliuria – polidipsia – 200 mg/dL (11,1 mmol/L).",
+},
+{
+  question: "Una  mujer  en  edad  fértil  que  acude  a  la  consulta  médica,  indica  que  tiene  los siguientes  signos  y  síntomas:  retraso  de  8  días  de  su  menstruación,  náuseas  en  la mañana y vómito ocasional, turgencia mamaria y cansancio ¿A qué tipo de signos y síntomas fisiológicos de embarazo corresponden?",
+  choices: [
+      "- Signos presuntivos de embarazo.",
+      "- Signos compatibles de embarazo.",
+      "- Signos probables de embarazo.",
+      "- Signos positivos de embarazo."
+  ],
+  answer: "- Signos presuntivos de embarazo.",
+},
+{
+  question: "Dentro de la institucionalización del cuidado enfermero, surgen mujeres encargadas de  brindar  la  atención  a  los  enfermos,  entre  ellas  las  matronas  romanas.  ¿Cuál matrona se destacó en esa época?",
+  choices: [
+      "- Fabiola.",
+      "- Febe.",
+      "- Peplau.",
+      "- Henderson."
+  ],
+  answer: "- Fabiola.",
+},
+{
+  question: "Paciente de 48 años, en postoperatorio mediato de colostomía, en el examen físico se identifica: deterioro de la integridad cutánea relacionado con la irritación de la piel periestomática  por  el  líquido  intestinal.  ¿Cuál  es  la  intervención  principal  de Enfermería?",
+  choices: [
+      "- Cuidados de la piel circundante al estoma.",
+      "- Valorar las características del estoma.",
+      "- Educar sobre dieta postcolostomía.",
+      "- Controlar ingresos y egresos de líquidos."
+  ],
+  answer: "- Cuidados de la piel circundante al estoma.",
+},
+{
+  question: "Una de las recomendaciones prácticas para prevenir la Hipertensión Arterial es la actividad física. ¿Cuál es la intensidad de la actividad, el tiempo de actividad por día y la frecuencia de actividad física por semana que recomienda el Ministerio de Salud Pública?",
+  choices: [
+      "- Actividad física de moderada intensidad, de 30 minutos al día y de 5 a 7 días por semana.",
+      "- Actividad física de leve intensidad, de 30 minutos al día y de 5 a 7 días por semana.",
+      "- Actividad física de moderada intensidad, de 30 minutos al día y de 3 a 7 días por semana.",
+      "- Actividad física de leve intensidad, de 30 minutos al día y de 3 a 7 días por semana."
+  ],
+  answer: "- Actividad física de moderada intensidad, de 30 minutos al día y de 5 a 7 días por semana.",
+},
+{
+  question: "Al servicio de emergencia en el que usted labora el equipo de trabajo de Enfermería se encuentra debatiendo cuál es la mejor etiqueta diagnóstica para un paciente con dificultad respiratoria leve. A pesar de las diferencias de criterio del grupo sobre el manejo  del  paciente,  el  líder  toma  la  decisión  de  rechazar  la  opinión  de  sus compañeros  porque  él  cree  tener  la  mejor  opción  de  etiqueta  diagnóstica  para  su cuidado. ¿Qué actitud sugiere para fomentar el pensamiento crítico en esta situación?",
+  choices: [
+      "- Imparcialidad.",
+      "- Integridad.",
+      "- Independencia.",
+      "- Perseverancia."
+  ],
+  answer: "- Imparcialidad.",
+},
+{
+  question: "Paciente  con  Diabetes  tipo  1,  acude  a  la  emergencia  por  presentar  vómitos  y deposiciones diarreicas por varias ocasiones, se realiza una glicemia y se evidencia 400 mg/dL. El médico le indica iniciar el tratamiento para Cetoacidosis diabética. ¿Cuál es la intervención de enfermería prioritario en este caso?",
+  choices: [
+      "- Administrar volumen de líquidos parenterales.",
+      "- Controlar el electrolito Na en pruebas de orina.",
+      "- Registrar ingresos en la hidratación del paciente.",
+      "- Realizar un electrocardiograma y reportar alteraciones."
+  ],
+  answer: "- Administrar volumen de líquidos parenterales.",
+},
+{
+  question: "Seleccione la opción de respuesta que complete el siguiente enunciado: La producción de la hormona ________________ se da en la glándula ________________, la cual interviene en la eyección de la leche materna.",
+  choices: [
+      "- Oxitocina, neurohipófisis.",
+      "- Progesterona, hipófisis.",
+      "- Prolactina, mamaria.",
+      "- Estrógeno, cuerpo lúteo."
+  ],
+  answer: "- Oxitocina, neurohipófisis.",
+},
+{
+  question: "El cáncer de cérvix o cuello uterino en el estadio II se caracteriza por:",
+  choices: [
+      "- El carcinoma se extiende más allá del cuello, alcanzando la pared pélvica y compromete la vagina, sin llegar al tercio inferior.",
+      "- El carcinoma está estrictamente confinado al cuello, no se tiene en cuenta la extensión al cuerpo.",
+      "- El carcinoma se extiende más allá de la pelvis verdadera, compromete la mucosa de la vejiga o el recto.",
+      "- El carcinoma se extiende hasta la pared de la pelvis. El tumor comprende el tercio inferior de la vagina."
+  ],
+  answer: "- El carcinoma se extiende más allá del cuello, alcanzando la pared pélvica y compromete la vagina, sin llegar al tercio inferior.",
+},
+{
+  question: "De  acuerdo  con  el  MAIS-FCI,  cuando  se  integra  a  la  salud  desde  una  visión multidimensional y biopsicosocial tanto individual como colectiva actuando sobre los riesgos y condiciones que afectan la salud, identificando y potenciando los factores protectores de la salud articulando acciones de promoción, prevención, recuperación, rehabilitación, cuidados paliativos de las personas, familias comunidad y su entorno se refiere a:",
+  choices: [
+      "- Principios del Modelo de Atención Integral de Salud.",
+      "- Objetivo del Modelo de Atención Integral de Salud.",
+      "- Propósito del Modelo de Atención Integral de Salud.",
+      "- Objetivos estratégicos para el fortalecimiento del Modelo de Atención Integral de Salud."
+  ],
+  answer: "- Principios del Modelo de Atención Integral de Salud.",
+},
+{
+  question: `Seleccione los casos en los que el personal de salud al atender pacientes con sospecha de tuberculosis debe utilizar los respiradores N 95:
+  <br>1.  Durante  el  procedimiento  de  la  toma  de  muestra  de  esputo  y  la  atención  a afectados en habitaciones de aislamiento para tuberculosis.
+  <br>2.  Durante  las  actividades  de  limpieza  que  se  realizan  en  áreas  donde  se encuentran afectados con bacteriología positiva.
+  <br>3.  Durante la búsqueda de sintomáticos respiratorios en todas las áreas y servicios de los establecimientos de salud.
+  <br>4.  Durante la realización de broncoscopias u otros procedimientos que inducen tos o generan aerosoles.
+  <br>5.  Durante el traslado de afectados con TB bacteriología positiva (ambulancias y vehículos institucionales).
+  <br>6.  Durante la permanencia del paciente en zonas comunes de los establecimientos de salud.`,
+  choices: [
+      "- 1, 2, 4, 5",
+      "- 2, 3, 5, 6",
+      "- 1, 3, 4, 5",
+      "- 2, 4, 5, 6"
+  ],
+  answer: "- 1, 2, 4, 5",
+},
+{
+  question: "Seleccione la respuesta que corresponde a la definición de bienestar fetal:",
+  choices: [
+      "- Estado de homeostasis fetal que se traduce clínicamente en presencia de movimientos fetales, aceleraciones de la FCF y bioquímicamente en pH de cuero cabelludo > 7.10",
+      "- Sospecha o confirmación de perturbación del estado metabólico basal del feto. Disminución del intercambio materno fetal de oxígeno que se expresa con disminución de movimientos fetales, alteraciones de la FCF y acidosis fetal.",
+      "- Compromiso permanente o transitorio del bienestar fetal que se evidencia durante el trabajo de parto. Bioquímicamente se traduce en hipoxia, hipercapnia y acidosis, manifestándose clínicamente con alteraciones de la frecuencia cardíaca fetal.",
+      "- Término inespecífico e inadecuado utilizado para designar un “riesgo de pérdida o compromiso del bienestar fetal”."
+  ],
+  answer: "- Estado de homeostasis fetal que se traduce clínicamente en presencia de movimientos fetales, aceleraciones de la FCF y bioquímicamente en pH de cuero cabelludo > 7.10",
+},
+{
+  question: "¿En qué dimensión de enfermería existen problemas o situaciones cuya prescripción y tratamiento  requieren  la  colaboración  de  otros  profesionales  de  la  salud  para  un tratamiento conjunto definitivo?",
+  choices: [
+      "- Interdependiente.",
+      "- Dependiente.",
+      "- Curativa.",
+      "- Independiente."
+  ],
+  answer: "- Interdependiente.",
+},
+{
+  question: "Usted como profesional de Enfermería identifica el siguiente diagnóstico enfermero: déficit de volumen de líquidos, relacionado con pérdida activa de sangre, manifestado por disminución de la presión arterial, sequedad de mucosas orales, aumento de la frecuencia  del  pulso,  debilidad  y  sed.  En  la  planificación  de  sus  cuidados.  ¿Qué resultado esperado elige usted para la paciente según el diagnóstico enfermero citado?",
+  choices: [
+      "- Aumento de volemia.",
+      "- Termorregulación.",
+      "- Equilibrio electrolítico y ácido - base.",
+      "- Eliminación urinaria."
+  ],
+  answer: "- Aumento de volemia.",
+},
+{
+  question: "Los  siguientes  son  objetivos  relacionados  a  la  necesidad  de  cambios  de  posición, EXCEPTO:",
+  choices: [
+      "- Ejecución de procedimientos médicos.",
+      "- Mantener una buena alineación corporal.",
+      "- Evitar la aparición de isquemia.",
+      "- Mejorar la respiración y la circulación."
+  ],
+  answer: "- Ejecución de procedimientos médicos.",
+},
+{
+  question: "¿Cuál  de  los  siguientes  hitos  históricos  marcó  el  reconocimiento  de  la  enfermería como profesión y su estatus actual?",
+  choices: [
+      "- La Guerra de Crimea.",
+      "- Las cruzadas de la Edad media.",
+      "- Guerra civil española.",
+      "- Edad antigua."
+  ],
+  answer: "- La Guerra de Crimea.",
+},
+{
+  question: `Relacione el evento con su respectivo caso: 
+  <br> NOTIFICACIÓN DEL EVENTO 
+  <br>1. Cuasi eventos.
+  <br>2. Eventos adversos.
+  <br>3. Eventos centinela.
+  <hr>
+  <br>DEFINICIÓN
+  <br>a. Paciente con una vía periférica con eritema, edema, cordón venoso palpable.
+  <br>b. Paciente que le administran una medicación por una vía inadecuada y produce muerte.
+  <br>c. Identificación oportuna de paciente con homónimo que necesita ser preparado para realizar endoscopia.`,
+  choices: [
+      "- 1c, 2a, 3b",
+      "- 1b, 2c, 3a",
+      "- 1a, 2b, 3c",
+      "- 1b, 2a, 3c"
+  ],
+  answer: "- 1c, 2a, 3b",
+},
+{
+  question: "Paciente ingresa con antecedentes de insuficiencia valvular aórtica. El personal de enfermería  debe  realizar  el  examen  físico  para  determinar  algún  sonido  cardíaco anómalo  que  se  origina  a  nivel  de  la  aorta,  para  la  cual  debe  utilizar  técnicas  de auscultación de focos cardíacos. ¿Cuál es la localización de este foco cardíaco o aórtico que hace referencia el enunciado?",
+  choices: [
+      "- Segundo espacio intercostal, línea paraesternal derecha.",
+      "- Segundo espacio intercostal, línea paraesternal izquierda.",
+      "- Tercer espacio intercostal, línea paraesternal izquierda.",
+      "- Mitad inferior del esternón a lo largo de la línea paraesternal izquierda."
+  ],
+  answer: "- Segundo espacio intercostal, línea paraesternal derecha.",
+},
+{
+  question: `Relacione los tipos de control administrativo con su definición:
+  <br>
+  <br>Definición
+  <br>1. Se realizan antes que se inicie la actividad.
+  <br>2. Se concentran en lo que sucede durante el proceso de trabajo.
+  <br>3. Se implementan después que el trabajo está terminado.
+  <br>4. Opera por medio de la supervisión directa como regla y procedimiento.
+  <hr>
+  <br>Tipos
+  <br>a. Preventivos
+  <br>b. Retroalimentación
+  <br>c. Extrínseco
+  <br>d. Concurrentes`
+  ,
+  choices: [
+      "- 1a, 2d, 3b, 4c",
+      "- 1b, 2a, 3d, 4c",
+      "- 1c, 2a, 3d, 4b",
+      "- 1d, 2b, 3a, 4c"
+  ],
+  answer: "- 1a, 2d, 3b, 4c",
+},
+{
+  question: "Usted  como  profesional  de  enfermería  asiste  a  un  neonato  de  37  semanas  con padecimiento respiratorio de evolución aguda, autolimitada y benigna, provocada por el  líquido  pulmonar  fetal  luego  del  nacimiento,  que  en  condiciones  normales  es removido gracias a que el epitelio alveolar cambia de secretar cloro a absorción de sodio y las prostaglandinas dilatan los vasos linfáticos y favorecen el paso del fluido hacia  la  circulación  pulmonar  que  se  establece  a  plenitud  luego  de  la  primera respiración. ¿A qué patología del recién nacido corresponde el enunciado?",
+  choices: [
+      "- Taquipnea transitoria del RN.",
+      "- Síndrome de Dificultad Respiratoria (SDR).",
+      "- Enfermedad de membrana hialina (EMH).",
+      "- Hipertensión pulmonar persistente (HPP)."
+  ],
+  answer: "- Taquipnea transitoria del RN.",
+},
+{
+  question: "Al centro de salud llega un adulto joven de 33 años, quien es traído por su esposa en \ncontra de su voluntad, debido a que presenta ideas suicidas y manifiesta que escucha \nvoces y en varias ocasiones demuestra estados depresivos desde aproximadamente 24 \ndías. ¿Qué tipo de valoración de enfermería es la más adecuada para este caso?",
+  choices: [
+      "- Valoración urgente.",
+      "- Valoración céfalo-caudal.",
+      "- Valoración repetida.",
+      "- Valoración por sistemas."
+  ],
+  answer: "- Valoración urgente.",
+},
+{
+  question: "Relacione las alteraciones de la frecuencia respiratoria con sus características.\t\t\nAlteraciones\tCaracterísticas\n1. Hiperpnea\ta. Aumento gradual seguido de una disminución gradual con periodo de apnea.\n2. Cheyne-Stokes\tb. Respiraciones de igual profundidad seguidas por un periodo de apnea.\n3. Biot\tc. Movimientos respiratorios rápidos y profundos. Se produce por alteraciones metabólicas.\n",
+  choices: [
+      "- 1c, 2a, 3b.",
+      "- 1a, 2b, 3c.",
+      "- 1b, 2c, 3a.",
+      "- 1c, 2b, 3a."
+  ],
+  answer: "- 1c, 2a, 3b.",
+},
+{
+  question: `La hiperbilirrubinemia es una patología que los recién nacidos desarrollan durante las primeras semanas de vida, entre las causas hemolíticas tenemos:
+  <br>a.  Enfermedad hemolítica ABO.
+  <br>b.  Incompatibilidad RH.
+  <br>c.  Hipoglicemia.
+  <br>d.  Sepsis.
+  <br>e.  STORCH.
+  <br>f.  Diabetes gestacional.`,
+  choices: [
+      "- a, b, d, e",
+      "- a, b, c, d",
+      "- b, c, d, e",
+      "- b, d, e, f"
+  ],
+  answer: "- a, b, d, e",
+},
+{
+  question: `Usted  atiende  mujer  que  cursa  embarazo  de  primer  trimestre.  Seleccione  las recomendaciones que se deben informar:
+  <br>1.  Calcular la fecha probable de parto por F.U.M.
+  <br>2.  Tamizaje de prueba tiroidea.
+  <br>3.  Solicitar grupo sanguíneo y factor Rh, biometría hemática y VDRL.
+  <br>4.  Controlar y registrar presión arterial.
+  <br>5.  Descartar incompatibilidad de grupo y factor Rh.
+  <br>6.  Medir y registrar el peso.`,
+  choices: [
+      "- 3, 4, 5",
+      "- 1, 2, 6",
+      "- 1, 4, 6",
+      "- 1, 2, 3"
+  ],
+  answer: "- 3, 4, 5",
+},
+{
+  question: "Al valorar un paciente con trauma craneoencefálico, usted observa que no abre los ojos   bajo   ningún   estímulo,   al   preguntar   su   nombre   responde   con   palabras inapropiadas y al evaluar la respuesta motora observa una flexión anormal. ¿Qué puntuación tiene este paciente aplicando la Escala del Coma de Glasgow?",
+  choices: [
+      "- 7",
+      "- 8",
+      "- 9",
+      "- 6"
+  ],
+  answer: "- 7",
+},
+{
+  question: "Una mujer nulípara, gestante de 38 semanas con los siguientes síntomas: hace 2 horas le  salió  de  su  vagina  una  secreción  mucosa,  sanguinolenta,  abundante,  en  forma espontánea,  después  de  lo  cual  ha  tenido  unas  contracciones  uterinas  que  ha  ido registrando  en  las  últimas  horas  de  una  duración  de  30  a  40  segundos  con  una frecuencia de cada 20 minutos. ¿En qué etapa del parto se encuentra la paciente?",
+  choices: [
+      "- Primera.",
+      "- Segunda.",
+      "- Tercera.",
+      "- Cuarta."
+  ],
+  answer: "- Primera.",
+},
+{
+  question: "Paciente  de  85  años  con  diagnóstico  de  cáncer  de  próstata  a  la  valoración  médica evidencia complicaciones en el cuadro clínico por posible metástasis lo cual implica un manejo  terapéutico  a  base  de  quimioterapia,  por  las  complicaciones  que  puedan presentarse durante el procedimiento, indica que debe conversar con sus familiares.\n¿Cuál es el derecho que se encuentra vulnerado?",
+  choices: [
+      "- Derecho a decidir.",
+      "- Derecho a la información.",
+      "- Derecho a no ser discriminado.",
+      "- Derecho a la confidencialidad."
+  ],
+  answer: "- Derecho a decidir.",
+},
+{
+  question: "¿Qué entiende como GÉNERO?",
+  choices: [
+      "- Es el conjunto de características que tienen mujeres y hombres, las cuales están basadas en factores/construcciones sociales.",
+      "- Es el conjunto de creencias y costumbres sobre las preferencias sexuales, que tienen que ver con la formación que los individuos reciban.",
+      "- Se refiere a las características con las que vienen hombres y mujeres determinados biológicamente.",
+      "- Tiene relación con la naturaleza biológica y los hábitos que las personas adquieran a lo largo de su vida."
+  ],
+  answer: "- Es el conjunto de características que tienen mujeres y hombres, las cuales están basadas en factores/construcciones sociales.",
+},
+{
+  question: `Relacione los tipos de dolor genitourinario con sus características:
+  <br>Dolor
+  <br>1. Prostático
+  <br>2. Vesical
+  <br>Características
+  <br>a. Se localiza en la región suprapúbica.
+  <br>b. Se caracteriza por ser un dolor continuo sordo que puede ser intenso con la micción y grave cuando hay acúmulo de orina.
+  <br>c. Se localiza en el perineo y recto.
+  <br>d. Se caracteriza por un malestar vago, sensación de plenitud del perineo y dolor dorsal vago.`,
+  choices: [
+      "- 1cd, 2ab.",
+      "- 1ab, 2cd.",
+      "- 1ac, 2bd.",
+      "- 1bc, 2ad."
+  ],
+  answer: "- 1cd, 2ab.",
+},
+{
+  question: "¿En el recién nacido de hasta 48 horas, que catéter se debe utilizar?",
+  choices: [
+      "- Catéter umbilical.",
+      "- Catéter percutáneo.",
+      "- Catéter central.",
+      "- Catéter intraóseo."
+  ],
+  answer: "- Catéter umbilical.",
+},
+{
+  question: "Paciente con diagnóstico de Shock Hipovolémico, en las intervenciones de enfermería debe  monitorizar  su  estado  hemodinámico  para  obtener  una  perfusión  tisular adecuada;  durante  los  cuidados  se  determina  con  prioridad  establecer  el  gasto cardíaco. ¿Cómo se calcula este parámetro hemodinámico?",
+  choices: [
+      "- Volumen Sistólico por la frecuencia cardíaca.",
+      "- Presión sistólica menos la presión diastólica.",
+      "- Dos presiones diastólicas más una sistólica divida para tres.",
+      "- Presión arterial media menos la presión intracraneal."
+  ],
+  answer: "- Volumen Sistólico por la frecuencia cardíaca.",
+},
+{
+  question: "El  recién  nacido  cuando  tiene  signos  y  síntomas  de  dificultad  respiratoria,  la enfermera/o,  valora  el  funcionamiento  del  sistema  respiratorio  a  través  de  la aplicación del Test de Silverman. Identifique que parámetros valora este test:",
+  choices: [
+      "- Aleteo nasal, quejido espiratorio, movimientos toraco-abdominal, tiraje intercostal y retracción xifoidea.",
+      "- Coloración de la piel, respiración diafragmática, aleteo nasal, quejido espiratorio, tono muscular y tiraje intercostal.",
+      "- Respiración torácica, disnea, respuesta motora, tiraje intercostal, retracción xifoidea, y aleteo nasal.",
+      "- Respiración abdominal, tono muscular, movimientos toraco-abdominal y tiraje intercostal."
+  ],
+  answer: "- Aleteo nasal, quejido espiratorio, movimientos toraco-abdominal, tiraje intercostal y retracción xifoidea.",
+},
+{
+  question: "Indique la solución cristaloide que restaura el volumen intravascular y neutraliza la acidosis.",
+  choices: [
+      "- Lactato de Ringer.",
+      "- Solución salina al 3 %",
+      "- Solución salina al 0.9 %",
+      "- Albúmina."
+  ],
+  answer: "- Lactato de Ringer.",
+},
+{
+  question: "Paciente de 22 años acude acompañado de sus padres, para ser intervenido de una herniorrafía  inguinal.  Como  parte  del  cuidado  enfermero  usted  debe  recolectar información para realizar el proceso de atención de enfermería. ¿Cuál es la principal fuente de información en este caso?",
+  choices: [
+      "- El paciente.",
+      "- La familia.",
+      "- Historia clínica.",
+      "- Exámenes de laboratorio."
+  ],
+  answer: "- El paciente.",
+},
+{
+  question: "Señale  la  opción  de  respuesta  que  contiene  3  métodos  anticonceptivos  que  tienen efecto anovulatorio:",
+  choices: [
+      "- Pastillas, parches, inyecciones.",
+      "- Parches, inyecciones, ligadura.",
+      "- Píldora, dispositivo intrauterino DIU, inyecciones.",
+      "- Método de Billings, método del ritmo y parches."
+  ],
+  answer: "- Pastillas, parches, inyecciones.",
+},
+{
+  question: "¿Cuál es la dosis en la administración de mantenimiento del sulfato de magnesio en la preeclampsia para prevención de eclampsia?",
+  choices: [
+      "-  50 ml/h",
+      "- 90 ml/h",
+      "- 80 ml/h",
+      "- 70 ml/h"
+  ],
+  answer: "-  50 ml/h",
+}
+/*{
     question: ,
     choices: [
       
