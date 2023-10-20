@@ -52,6 +52,7 @@
 
         function displayQuestions() {
             const resultOutput = document.getElementById("result");
+            console.log(questionsArray)
             resultOutput.innerHTML = questionsArray.map(questionObj => {
                 return `
                     <pre>${JSON.stringify(questionObj, null, 2)}</pre>
