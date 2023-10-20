@@ -43,12 +43,12 @@ export class UI {
    */
   buttonNextQuestion (callback) {
     const buttonNextQuestion = document.createElement("button");
+    const buttonContainer = document.getElementById("buttonContainer");
+    var element = document.getElementById("correctAnswer");
     buttonNextQuestion.id = "buttonNextQuestion";
     buttonNextQuestion.innerText = "Siguiente";
     buttonNextQuestion.addEventListener("click", () => callback());
-    const buttonContainer = document.getElementById("buttonContainer");
     buttonContainer.innerHTML = "";
-    var element = document.getElementById("correctAnswer");
     element.innerHTML = "";
     buttonContainer.appendChild(buttonNextQuestion);
   }

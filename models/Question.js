@@ -17,12 +17,15 @@ class Question {
    * @returns {boolean} returns if the choice is correct
    */
   correctAnswer(choice) {
+    var element = document.getElementById("correctAnswer");
     if (choice === this.answer){
+      element.innerHTML = `
+      Respuesta correcta
+      <hr>`;
       return true;
     }else{
-      var element = document.getElementById("correctAnswer");
       element.innerHTML = `
-      Respuesta correcta: ${this.answer}
+      Respuesta erronea, la opcion correcta es: <hr>${this.answer}
       <hr>`;
     }
 
