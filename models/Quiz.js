@@ -29,6 +29,10 @@ export class Quiz {
     if (this.getQuestionIndex().correctAnswer(answer)) {
       this.score++;
     }
+  }
+
+  nextQuestion () {
     this.questionIndex++;
+    console.log("hola")
   }
 }

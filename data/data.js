@@ -612,23 +612,39 @@ export const data = [{
       "- 6 gotas."
     ],
     answer: "- 7 gotas."
-  }
-  
-  /*
-  {
-    question: ,
-    choices: [
-      
+  },{
+    "question": "¿Cuáles son los escenarios de atención indicados en el componente de provisión de \nservicios de salud del Sistema Nacional de Salud?\nAtención pre hospitalaria.\nAtención individual.\nAtención familiar.\nAtención extramural.\nAtención a la comunidad.\nAtención al ambiente o entorno natural.",
+    "choices": [
+      "- 2, 3, 5, 6",
+      "- 1, 2, 4, 6",
+      "- 2, 3, 4, 5",
+      "- 3, 4, 5, 6"
     ],
-    answer: ,
-  } ,
+    "answer": "- 2, 3, 5, 6"
+  },
   {
-    question: ,
+    question: `A usted, como enfermero/a del Centro de Salud tipo C, le han asignado la actividad de educación  en  salud  hacia  la  comunidad.  Para  lograr  aprendizajes  significativos requiere el uso de técnicas pedagógicas activas individuales y grupales. Relacione las técnicas con sus respectivas metodologías:
+    <br><hr>
+    TECNICAS PEDAGÓGICAS.	<br>
+    <br>1. Individuales.	
+    <br>2. Grupales.	
+    <hr>
+    METODOLOGÍAS DIDÁCTICAS.<br>
+    <br>a. Preguntas abiertas o cerradas.
+    <br>b. Tormenta de ideas.
+	  <br>c. Mesa redonda.
+	  <br>d. Información con réplica.
+	  <br>e. Juego de roles
+	  <br>f. Demostraciones.
+  `,
     choices: [
-      
+      "- 1adf, 2bce",
+      "- 1bce, 2adf",
+      "- 1cde, 2abf",
+      "- 1def, 2abc",
     ],
-    answer: ,
-  } ,
+    answer: "- 1adf, 2bce",
+  } /*,
   {
     question: ,
     choices: [
