@@ -28,7 +28,7 @@ function shuffleChoices(question) {
 }
 
 // Seleccionar 50 preguntas al azar
-const selectedQuestions = selectRandomQuestions(data, 3);
+const selectedQuestions = selectRandomQuestions(data, 100);
 
 // Mezclar las opciones de respuesta en cada pregunta
 for (const question of selectedQuestions) {
