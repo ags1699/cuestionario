@@ -4573,6 +4573,3318 @@ export const data = [{
             "- Jeringa de 500 U/ml con aguja calibre 25."
         ],
         answer: "- Jeringa de 0.5 ml con aguja calibre 31.",
-    }
+    },
+    {
+      question: `Relacione los tipos de cianosis con sus características
+      <br>Riesgo
+      <br>1. Central
+      <br>2. Periférica
+      <hr>
+      <br>Factores
+      <br>a. No se observa a nivel bucal ni de mucosas.
+      <br>b. La sangre que sale del corazón es de color azul debido a un trastorno en la saturación arterial de oxígeno.
+      <br>c. Se observa una coloración azulada y violácea en la piel, labios, mucosas y lecho ungueal.
+      <br>d. La coloración azulada y violácea característica se encuentra en la piel de manos y pies y en los lechos ungueales. La piel suele estar fría y húmeda.`,
+      choices: [
+          "- 1bc, 2ad.",
+          "- 1ac, 2bd.",
+          "- 1ab, 2cd.",
+          "- 1cd, 2ab."
+      ],
+      answer: "- 1bc, 2ad."
+  },
+  {
+      question: "Los  siguientes  enunciados  tienen  relación  con  la  ictericia  fisiológica  en  el  recién nacido. EXCEPTO:",
+      choices: [
+          "- El abandono definitivo de lactancia materna es idóneo para disminuir la ictericia.",
+          "- El meconio contiene abundante bilirrubina.",
+          "- El mayor consumo de leche y agua incrementa el nivel sérico de bilirrubina.",
+          "- En el aumento de bilirrubina en el recién nacido está indicado el uso de fototerapia."
+      ],
+      answer: "- El abandono definitivo de lactancia materna es idóneo para disminuir la ictericia."
+  },
+  {
+      question: "Identifique la opción correcta sobre el manejo de electrolitos concentrados:",
+      choices: [
+          "- Verificar que estén rotulados con etiqueta roja.",
+          "- Almacenar el sobrante en cada servicio.",
+          "- Administrar mediante microgotero.",
+          "- Administrar sin previa dilución."
+      ],
+      answer: "- Verificar que estén rotulados con etiqueta roja."
+  },
+  {
+      question: `Seleccione los factores de riesgo en la Aspergilosis:
+      <br>1.  Neutropenia, enfermedad de injerto versus huésped.
+      <br>2.  Hepatogenia, virulencia, agente.
+      <br>3.  Trasplante hematopoyético alergénico.
+      <br>4.  Lesiones cercanas a grandes vasos.
+      <br>5.  Trasplante de órganos sólidos, endocarditis.
+      <br>6.  Infección a citomegalovirus, colonización previa.
+      <br>7.  Micosis pulmonar, dolor abdominal.
+      <br>8.  Erosión pleural, compromiso del SNC.`,
+      choices: [
+          "- 1, 3, 5, 6",
+          "- 1, 2, 4, 7",
+          "- 2, 4, 6, 8",
+          "- 2, 4, 8, 7"
+      ],
+      answer: "- 1, 3, 5, 6"
+  },
+  {
+      question: "Las  siguientes  son  herramientas  de  diagnóstico  y  monitoreo  de  las  condiciones  de salud, diagnóstico de salud, ASIS; EXCEPTO:",
+      choices: [
+          "- Ficha familiar.",
+          "- Diagnóstico dinámico.",
+          "- Mapa parlante.",
+          "- Sala situacional."
+      ],
+      answer: "- Ficha familiar."
+  },
+  {
+      question: "Familia con APGAR de 18 puntos. ¿A qué clasificación corresponde?",
+      choices: [
+          "- Buena función familiar.",
+          "- Disfunción leve.",
+          "- Disfunción moderada.",
+          "- Disfunción severa."
+      ],
+      answer: "- Buena función familiar."
+  },
+  {
+      question: "Un niño de 2 años 3 meses vive a 2800 metros sobre el nivel del mar, al realizar la prueba de hemoglobina tiene una concentración de 13 g/dl. ¿Cuál es la concentración real de hemoglobina, de acuerdo a los ajustes, en función de la altitud sobre el nivel del mar?",
+      choices: [
+          "- 11.7 g/dl",
+          "- 12.5 g/dl",
+          "- 12.8 g/dl",
+          "- 11.1 g/dl"
+      ],
+      answer: "- 11.7 g/dl"
+  },
+  {
+      question: "En  la  sala  de  Urgencia  Obstétrica,  usted  atiende  a  una  mujer  de  20  años  con  un embarazo  de  30  semanas  que  presenta  tensión  arterial  de  160/110  mm  Hg,  visión borrosa y confusión. Luego de aplicar la herramienta SCORE MAMÁ, activa clave azul. De acuerdo al protocolo para preeclampsia y de acuerdo con la prescripción médica ¿Qué dosis de sulfato de magnesio administra para la impregnación?",
+      choices: [
+          "- 4 gr IV diluido en 80 ml de solución isotónica (SS 0.9%) en 20 minutos.",
+          "- 6 gr IV diluido en 80 ml de solución isotónica (SS 0.9%) en 20 minutos.",
+          "- 2 gr / hora diluido en 80 ml de solución isotónica (SS 0.9%) en infusión continua.",
+          "- 2 gr IV diluido en 80 ml de solución isotónica (SS 0.9%) en bolo en 20 minutos."
+      ],
+      answer: "- 4 gr IV diluido en 80 ml de solución isotónica (SS 0.9%) en 20 minutos."
+  },
+  {
+      question: "El niño NN requiere micronebulización con salbutamol 1 miligramo en set. ¿Cuál es la dosis a administrar en gotas?",
+      choices: [
+          "- 4 gotas.",
+          "- 2 gotas.",
+          "- 3 gotas.",
+          "- 5 gotas."
+      ],
+      answer: "- 4 gotas."
+  },
+  {
+      question: `Señale  los  pasos  que  el  profesional  enfermero  debe  seguir  para  dar  atención  a  un usuario:
+      <br>1.  Llenado de la ficha familiar.
+      <br>2.  Captación del individuo.
+      <br>3.  Admisión integral.
+      <br>4.  Formular plan de atención.
+      <br>5.  Atención integral.
+      <br>6.  Monitoreo familiar.`,
+      choices: [
+          "- 2, 3, 5",
+          "- 1, 2, 5",
+          "- 2, 4, 6",
+          "- 1, 3, 4"
+      ],
+      answer: "- 2, 3, 5"
+  },
+  {
+      question: "Paciente  con  antecedentes  de  sobredosis  de  sedantes,  con  manifestaciones  de obnubilación,  taquicardia  e  hipertensión  arterial.  Se  realiza  Gasometría  Arterial cuyos resultados son: pH. 7.28, PaCO2. 54 mmHg, PaO2. 83 mmHg, H2CO3. 25 mEq\n/l ¿Qué trastorno se pone de manifiesto?",
+      choices: [
+          "- Acidosis respiratoria.",
+          "- Alcalosis respiratoria.",
+          "- Acidosis metabólica.",
+          "- Alcalosis metabólica."
+      ],
+      answer: "- Acidosis respiratoria."
+  },
+  {
+      question: "La  unidad  de  salud  llevó  a  cabo  un  estudio  de  casos  sobre  las  enfermedades crónicas  existentes  en  la  comunidad.  Los  resultados  demuestran  que  el  20%  de  la población padece Diabetes Mellitus tipo II y el 15% Hipertensión Arterial Crónica. En  base  a  los  datos  mencionados  se  realiza  seguimiento  y  control  continuo  a  los pacientes a través de visitas domiciliarias, para la vigilancia, control y cumplimiento estricto  del  tratamiento  farmacológico  y  no  farmacológico  en  la  prevención  de complicaciones. ¿Qué tipo de prevención de salud está aplicando en la comunidad?",
+      choices: [
+          "- Prevención secundaria.",
+          "- Prevención primaria.",
+          "- Prevención terciaria.",
+          "- Promoción de la salud."
+      ],
+      answer: "- Prevención secundaria."
+  },
+  {
+      question: `Ordene en forma secuencial los cuidados de enfermería a un recién nacido que está recibiendo nutrición enteral por sonda nasogástrica.
+      <br>1.  Posición del recién nacido.
+      <br>2.  Lavado de manos.
+      <br>3.  Prevención de exclusión de la sonda.
+      <br>4.  Higiene Oral.
+      <br>5.  Manejo de la fórmula enteral en caso de no contar con leche materna.`,
+      choices: [
+          "- 2, 1, 4, 5, 3",
+          "- 2, 4, 1, 5, 3",
+          "- 1, 3, 4, 2, 5",
+          "- 1, 2, 3, 4, 5"
+      ],
+      answer: "- 2, 1, 4, 5, 3"
+  },
+  {
+      question: "Un  profesional  de  enfermería  del  primer  nivel  de  atención  debe  realizar  el procesamiento y el análisis de los datos recolectados con respecto a las enfermedades de notificación obligatoria. ¿Qué criterio básico de calidad del dato corresponde con la interpretación correcta de cada variable?",
+      choices: [
+          "- Consistencia.",
+          "- Integralidad.",
+          "- Oportunidad.",
+          "- Exactitud."
+      ],
+      answer: "- Consistencia."
+  },
+  {
+      question: "El  Modelo  de  Atención  Integral  de  Salud  (MAIS)  implementa  herramientas metodológicas  para  el  diagnóstico  y  monitoreo  de  las  condiciones  de  salud  de  la población de un determinado espacio territorial en un momento dado. ¿Cuáles son las herramientas de diagnóstico y monitoreo del MAIS?",
+      choices: [
+          "- ASIS, diagnóstico dinámico, mapa parlante, sala situacional.",
+          "- Comité de salud, diagnóstico situacional, visita domiciliaria.",
+          "- Ficha familiar, comité de salud, sala situacional.",
+          "- Trabajo extramural, unidades móviles, trabajo intramural."
+      ],
+      answer: "- ASIS, diagnóstico dinámico, mapa parlante, sala situacional."
+  },
+  {
+      question: "Con relación a los cuidados para el manejo adecuado de las náuseas y vómitos en personas en la fase final de la vida. ¿Cuál de las siguientes recomendaciones permite disminuir estas molestias?",
+      choices: [
+          "- Iniciar el día con alimentos secos como tostadas o galletas de sal.",
+          "- Brindar infusiones durante las comidas.",
+          "- Preferir dieta líquida, fraccionada.",
+          "- Suministrar bebidas de canela, menta, laurel y jengibre."
+      ],
+      answer: "- Iniciar el día con alimentos secos como tostadas o galletas de sal."
+  },
+  {
+      question: "Una señora acude al centro de salud con su hijo de 10 m 15 días de edad, por control de niño sano, sus signos vitales son:   temperatura 37.3 ºC; frecuencia cardiaca: 120\n/min; presión arterial; 90/62 mmHg; frecuencia respiratoria 40/min, al observar el carnet    de    vacunación,    verifica    que    tiene    administrada    las    siguientes vacunas:  pentavalente  3  dosis,  Polio  0  dosis,  Neumococo  3  dosis  y  Rotavirus  2 dosis.  ¿Qué acción de enfermería aplicaría en este caso?",
+      choices: [
+          "- Administrar la 1° dosis de fIPV.",
+          "- Administrar la dosis completa de 0,5ml de fIPV IM.",
+          "- Administrar la 1° dosis de bOPV.",
+          "- Administrar la 1° dosis de bOPV y la 2°a las 2 semanas."
+      ],
+      answer: "- Administrar la 1° dosis de fIPV."
+  },
+  {
+      question: "Las  complicaciones  que  pueden  presentar  en  el  puerperio  son  la  hemorragia  y  el shock hipovolémico, frente a esto los cuidados de enfermería que se deben realizar y que irán encaminados a vigilar para prevenirlos son: la monitorización de constantes vitales, administración de fármacos, palpación del fondo uterino, control de diuresis, valoración  de  las  mamas  y  la  aparición  de  loquios.  ¿A  qué  clase  de  puerperio corresponden estos cuidados de enfermería?",
+      choices: [
+          "- Puerperio inmediato.",
+          "- Puerperio mediato.",
+          "- Puerperio tardío.",
+          "- Reacción psicológica."
+      ],
+      answer: "- Puerperio inmediato."
+  },
+  {
+      question: "Al realizar una visita domiciliaria se encuentra con una familia conformada por los dos padres y sus tres hijos: Juan de 5 años, Alberto de 15 y María de 20 años quién en ese momento se encontraba de visita con su pequeño hijo. Señale como clasificaría a esta familia de acuerdo a la etapa del ciclo vital familiar por el que atraviesa:",
+      choices: [
+          "- Familia en contracción.",
+          "- Familia en formación.",
+          "- Familia en extensión.",
+          "- Familia en disolución."
+      ],
+      answer: "- Familia en contracción."
+  },
+  {
+      question: "Con  el  objetivo  de  contribuir  a  reducir  la  morbilidad  y  mortalidad  infantil  de  las enfermedades  prevenibles  por  vacunación,  el  Ministerio  de  Salud  Pública  da prioridad a la entrega de los diferentes esquemas de vacunación a la población más vulnerable de acuerdo a criterios de riesgo definidos. ¿Qué principio de la Estrategia Nacional  de  Inmunizaciones  (ENI)  se  pone  de  manifiesto  en  la  mencionada afirmación?",
+      choices: [
+          "- Equidad social.",
+          "- Oportunidad y Sustentabilidad.",
+          "- Calidad.",
+          "- Participación social."
+      ],
+      answer: "- Equidad social."
+  },
+  {
+      question: "Mujer de 17 años, acude a un centro de salud solicitando información. Refiere haber tenido  su  primera  relación  sexual  sin  protección  hace  24  horas.  Usted  como profesional de Enfermería proporciona información y asesoría sobre salud sexual y reproductiva,  considerando  a  esta  persona  como  un  igual,  comprendiendo  su condición  de  vida,  sus  derechos,  cualidades,  actitudes  y  opiniones.  ¿Cuál  es  el principio de asesoría en salud sexual y reproductiva que está aplicando en este caso?",
+      choices: [
+          "- Respeto.",
+          "- Confidencialidad.",
+          "- Calidad.",
+          "- Autonomía."
+      ],
+      answer: "- Respeto."
+  },
+  {
+      question: "Paciente  de  1  mes,  acude  con  su  madre  al  control  de  niño  sano  para  valorar  su crecimiento y desarrollo. Durante el examen físico se mantiene alerta, activo y sin alteraciones. Como parte de la valoración es necesario tomar signos vitales. ¿Cuál es el valor normal de la frecuencia cardíaca en esta edad del paciente?",
+      choices: [
+          "- 100-190",
+          "- 60-100",
+          "- 98-140",
+          "- 80-120"
+      ],
+      answer: "- 100-190"
+  },
+  {
+      question: "Paciente ingresa a emergencia producto de un accidente de tránsito, en la evaluación primaria se determina un Glasgow de 10/15, disnea, diaforesis, aleteo nasal, un patrón respiratorio  anormal,  para  su  manejo  solicitan  una  gasometría  arterial  y  los resultados encontrados son valores de PO2 40mmHg hipoxemia, PaCO2 de 50 mmHg hipercapnia; por consiguiente, se identifica un deterioro en la ventilación perfusión.¿Cuál es la etiqueta diagnóstica de enfermería a la que hace referencia el enunciado?",
+      choices: [
+          "- Deterioro del intercambio de gases.",
+          "- Deterioro de la ventilación espontánea.",
+          "- Patrón respiratorio ineficaz.",
+          "- Riesgo de perfusión tisular cerebral ineficaz.",
+          ""
+      ],
+      answer: "- Deterioro del intercambio de gases."
+  },
+  {
+      question: "Seleccione  el  problema  de  salud  mental  del  adulto  mayor  que  corresponde  al Síndrome clínico caracterizado por irritabilidad, ansiedad, anhedonia, alteraciones en el sueño y el apetito.",
+      choices: [
+          "- Depresión.",
+          "- Demencia.",
+          "- Delirio.",
+          "- Alzheimer."
+      ],
+      answer: "- Depresión."
+  },
+  {
+      question: "Paciente  adulta  mayor  con  antecedentes  de  infecciones  del  tracto  urinario  por repetidas  ocasiones,  acude  al  hospital  por  presentar:  hematuria,  incontinencia urinaria; el médico para su diagnóstico solicita un estudio que le permita evaluar el reflujo vesicoureteral y lesión vesical. ¿Cuál es el estudio diagnóstico que le permita evaluar estas alteraciones?",
+      choices: [
+          "- Cistografía.",
+          "- Pielografía.",
+          "- Gammagrafía.",
+          "- Urografía."
+      ],
+      answer: "- Cistografía."
+  },
+  {
+      question: "Al controlar los signos vitales, usted encuentra que el paciente NN de 35 años tiene: de pulso 39 por minuto, frecuencia respiratoria de 26 por minuto, temperatura rectal\n37.5 grados centígrados y una tensión arterial de 115/70. ¿Cuáles son las constantes vitales del paciente, de acuerdo al enunciado?",
+      choices: [
+          "- Normotérmico, normotenso, taquipneico, bradicárdico.",
+          "- Hipotenso, bradicárdico, normotérmico, taquipnéico.",
+          "- Normotenso, hipertérmico, bradipneico, taquicárdico.",
+          "- Hipertenso, bradipneico, bradicárdico, hipertérmico."
+      ],
+      answer: "- Normotérmico, normotenso, taquipneico, bradicárdico."
+  },
+  {
+      question: "En  el  centro  de  salud  se  ha  identificado  un  incremento  de  problemas  de  salud prevenibles. Como profesional de enfermería va a realizar un programa educativo para  la  promoción  de  la  salud,  utilizando  la  técnica  que,  desde  la  acción-reflexión- acción,  analiza  una  problemática  de  salud  que  afecta  a  la  comunidad,  para  la construcción colectiva de conocimientos que combinan teoría y práctica y dan lugar a aprendizajes significativos. ¿Cuál es la técnica de aprendizaje cooperativo descrita?",
+      choices: [
+          "- Talleres.",
+          "- Murgas por la salud.",
+          "- Casa abierta.",
+          "- Ferias de la salud."
+      ],
+      answer: "- Talleres."
+  },
+  {
+      question: "El personal de salud debe identificar el modo de transmisión de enfermedades infecto contagiosas  y  los  tipos  de  aislamiento  para  reducir  el  riesgo  de  transmisión.  ¿Qué patología es transmitida por gotas?",
+      choices: [
+          "- Neumonía.",
+          "- Tuberculosis.",
+          "- Rubeola.",
+          "- Sarampión."
+      ],
+      answer: "- Neumonía."
+  },
+  {
+      question: "Usted como coordinador de enfermería ha detectado que existen algunas diferencias en realizar ciertos procedimientos por el personal a su cargo, para poder solucionar este tema de gestión ha resuelto iniciar un estudio de tiempos y movimientos, como técnica administrativa básica, lo que al terminar podrá decir que toda tarea puede reducirse a movimientos elementales y de esta forma optimizar esfuerzos. ¿Qué autor menciona dicho enfoque?",
+      choices: [
+          "- Frank Gilbreth.",
+          "- Frederick Taylor.",
+          "- Elton Mayo.",
+          "- Douglas McGregor."
+      ],
+      answer: "- Frank Gilbreth."
+  },
+  {
+      question: "Paciente que permanece encamado con movilidad muy limitada, al examen físico se observa  herida  en  región  sacra  de  espesor  completo  que  se  extiende  al  tejido subcutáneo  y  necrosis.  ¿A  qué  etapa  en  la  evolución  de  las  úlceras  por  presión corresponde el caso?",
+      choices: [
+          "- Etapa III",
+          "- Etapa I",
+          "- Etapa II",
+          "- Etapa IV"
+      ],
+      answer: "- Etapa III"
+  },
+  {
+      question: `Seleccione las manifestaciones clínicas y cambios en el electrocardiograma del infarto agudo de miocardio.
+      <br>1.  Dolor torácico de inicio súbito.
+      <br>2.  Edema en extremidades inferiores.
+      <br>3.  Elevación del segmento ST.
+      <br>4.  Disnea paroxística nocturna.
+      <br>5.  Elevación de la onda T.
+      <br>6.  Piel húmeda, diaforética y pálida.`,
+      choices: [
+          "- 1, 3, 6",
+          "- 2, 4, 5",
+          "- 1, 3, 4",
+          "- 2, 5, 6"
+      ],
+      answer: "- 1, 3, 6"
+  },
+  {
+      question: "Con relación a la osteoporosis, complete el siguiente enunciado: La osteoporosis primaria puede aparecer en la __________________, la osteoporosis secundaria se asocia a factores como __________________ y __________________.",
+      choices: [
+          "- Postmenopausia - uso de corticosteroides - enfermedad celíaca",
+          "- Senectud - edad del paciente - aumento en la ingestión de calcio",
+          "- Pubertad - consumo de calcio - ejercicio de soporte de peso",
+          "- Senectud - uso de anticonvulsivos - aumento en la ingestión de calcio"
+      ],
+      answer: "- Postmenopausia - uso de corticosteroides - enfermedad celíaca"
+  },
+  {
+      question: "Paciente  con  antecedentes  de  Artritis  Reumatoidea  diagnosticada  hace  2  semanas, acude al centro de salud por presenta dolor a nivel de articulaciones, refiere además quemazón,  hormigueo  y  sensibilidad  al  frío  en  sus  extremidades  inferiores.  De acuerdo  a  la  valoración  de  enfermería.  ¿Cuál  es  el  tipo  de  dolor  que  presenta  el paciente?",
+      choices: [
+          "- Dolor somático.",
+          "- Dolor neuropático.",
+          "- Dolor continuo.",
+          "- Dolor irruptivo."
+      ],
+      answer: "- Dolor somático."
+  },
+  {
+      question: "¿Cuál de los elementos es una habilidad del pensamiento crítico para la aplicación del Proceso de Atención de Enfermería?",
+      choices: [
+          "- Uso del conocimiento.",
+          "- Perseverancia.",
+          "- Independencia.",
+          "- Confianza."
+      ],
+      answer: "- Uso del conocimiento."
+  },
+  {
+      question: "Mujer de 54 años, atendida en emergencia por dolor torácico de 1 hora de evolución. A  la  valoración:  paciente  álgica,  presenta  disnea,  temor,  ansiedad,  TA=  150/ 90mmHg, FC= 110X’, FR= 32 X’, SaO2= 93 % con O2 3 litros x’. Se le realiza un electrocardiograma  en  el  que  se  aprecian  cambios  en  el  segmento  ST.  ¿Cuál  es  la intervención de enfermería prioritaria en este caso?",
+      choices: [
+          "-  Aliviar el dolor.",
+          "- Monitorizar signos vitales.",
+          "- Mantener al paciente en decúbito dorsal.",
+          "- Controlar ingesta y excreta."
+      ],
+      answer: "-  Aliviar el dolor."
+  },
+  {
+      question: "En  el  examen  físico  de  enfermería  usted  observa  a  un  paciente  que  presenta  los siguientes   signos   y   síntomas:   congestión   pulmonar,   alteraciones   del   patrón respiratorio, anasarca, ortopnea y aumento de la presión venosa central. ¿Cuál es la categoría diagnóstica según NANDA que corresponde a este caso?",
+      choices: [
+          "- Exceso de volumen de líquidos.",
+          "- Riesgo de déficit de volumen de líquidos.",
+          "- Déficit de volumen de líquidos.",
+          "- Disposición para mejorar el equilibrio de líquidos."
+      ],
+      answer: "- Exceso de volumen de líquidos."
+  },
+  {
+      question: "¿A qué se refiere el enfoque de participación y ciudadanía en salud, con relación a los derechos sexuales y reproductivos?",
+      choices: [
+          "- Las personas asumen la responsabilidad de su salud como sujetos de derecho, ya que sin su participación no es posible generar condiciones saludables. Son ellos, quienes deben conocer, acordar, ejecutar y evaluar conjuntamente con el equipo de salud las intervenciones del modelo de atención.",
+          "- La salud como un derecho garantizado solamente por el Estado, está vinculada a múltiples factores sociales, económicos, políticos y culturales que determinan la calidad de vida y las posibilidades de desarrollo sustentable de mujeres y hombres que habitan en el Ecuador.",
+          "- El ejercicio pleno de los derechos sexuales y derechos reproductivos pertenece a cada individuo, a lo largo del ciclo vital, y no debe ser afectado por las inequidades económicas, de género, sociales y étnica.",
+          "- Las personas en el Ecuador, tienen derecho de elegir la cantidad de hijos que desean tener, derecho a elegir sus métodos anticonceptivos y de esta manera planificar."
+      ],
+      answer: "- Las personas asumen la responsabilidad de su salud como sujetos de derecho, ya que sin su participación no es posible generar condiciones saludables. Son ellos, quienes deben conocer, acordar, ejecutar y evaluar conjuntamente con el equipo de salud las intervenciones del modelo de atención."
+  },
+  {
+      question: `Seleccione las prácticas seguras asistenciales para la atención de salud:
+      <br>1.  Control de abreviaturas peligrosas.
+      <br>2.  Programa de mantenimiento de equipos médicos.
+      <br>3.  Conciliación de medicamentos.
+      <br>4.  Notificación de eventos relacionados con la seguridad.
+      <br>5.  Administración correcta de medicamentos.
+      <br>6.  Manejo correcto de bombas de infusión.`,
+      choices: [
+          "- 1, 3, 5",
+          "- 2, 3, 4",
+          "- 3, 5, 6",
+          "- 4, 5, 6",
+          "",
+          ""
+      ],
+      answer: "- 1, 3, 5"
+  },
+  {
+      question: "¿Cuál de las siguientes herramientas evalúa el funcionamiento de la familia?",
+      choices: [
+          "- Apgar familiar.",
+          "- Familiograma.",
+          "- Mapeo de Actores.",
+          "- Ecomapa."
+      ],
+      answer: "- Apgar familiar."
+  },
+  {
+      question: "En  la  preparación  del  paciente  para  un  Electroencefalograma  (EEG),  usted  como profesional de enfermería debe realizar las siguientes intervenciones, EXCEPTO:",
+      choices: [
+          "- Interrumpir la medicación anticonvulsivante.",
+          "- Privar al paciente del sueño la noche anterior.",
+          "- Suspender bebidas estimulantes previo al examen.",
+          "- Mantener el cabello limpio y seco."
+      ],
+      answer: "- Interrumpir la medicación anticonvulsivante."
+  },
+  {
+      question: "¿Cuáles  son  los  componentes  del  Modelo  de  Atención  Integral  y  Comunitario  e Intercultural MAIS - FCI?",
+      choices: [
+          "- Provisión de servicios, organización, gestión y financiamiento.",
+          "- La universalidad, integralidad, equidad y continuidad.",
+          "- Atención individual, familiar, a la comunidad y al ambiente.",
+          "- Niñez, adolescencia, adultos/as y adulto mayor."
+      ],
+      answer: "- Provisión de servicios, organización, gestión y financiamiento."
+  },
+  {
+      question: "Paciente acude al Centro de Salud por presentar dificultad para dormir, manifiesta que no puede descansar por problemas emocionales los cuales interfieren su estilo de vida. ¿Cuál es la teorizante que se pone de manifiesto?",
+      choices: [
+          "- Virginia Henderson.",
+          "- Nola Pender.",
+          "- Martha Rogers.",
+          "- Callista Roy."
+      ],
+      answer: "- Virginia Henderson."
+  },
+  {
+      question: "De las siguientes teorías, indique la que está relacionada con la hipótesis en que el envejecimiento ocurre porque un grupo de átomos inestables son el producto de la oxidación  de  ciertos  componentes  orgánicos,  que  trae  como  resultado  cambios bioquímicos en las células que no pueden regenerarse.",
+      choices: [
+          "- Teoría de los radicales libres.",
+          "- Teoría inmunitaria.",
+          "- Teoría genética.",
+          "- Teoría del desgaste."
+      ],
+      answer: "- Teoría de los radicales libres."
+  },
+  {
+      question: "El  campo  de  acción  de  los  equipos  de  salud  tiene  varios  niveles,  uno  de  ellos  es identificar  quien  requiere  de  atención  y  decidir  la  acción  inmediata  a  realizar, atenderlo o referirlo a otro nivel. ¿De qué nivel dentro del campo de acción estamos hablando?",
+      choices: [
+          "- Nivel de enfermedad.",
+          "- Nivel epidemiológico.",
+          "- Nivel familiar y comunitario.",
+          "-  Nivel social."
+      ],
+      answer: "- Nivel de enfermedad."
+  },
+  {
+      question: "Paciente  con  antecedentes  de  TB  Pulmonar,  acude  al  Centro  de  Salud  por  sus exámenes  de  control,  en  los  resultados  se  observa  una  resistencia  simultánea  a  la Isoniacida y Rifampicina. ¿Cuál es el tipo de resistencia que presenta el paciente?",
+      choices: [
+          "- Multidrogorresistencia.",
+          "- Monorresistencia.",
+          "- Polirresistencia.",
+          "- Extensamente resistente."
+      ],
+      answer: "- Multidrogorresistencia."
+  },
+  {
+      question: "Usted realiza una visita domiciliaria, y durante la valoración detecta un paciente que presenta los siguientes síntomas:  depresión, miedo a su alrededor y a sus familiares, incapacidad de afrontar problemas de la vida diaria y como consecuencia hostilidad y violencia. Para su intervención debe basar su actuación en un modelo de enfermería.\n¿Cuál es la teorizante que utilizaría en este caso?",
+      choices: [
+          "- Hildegard Peplau.",
+          "- Jean Watson.",
+          "- Virginia Henderson.",
+          "- Dorothea Orem."
+      ],
+      answer: "- Hildegard Peplau."
+  },
+  {
+      question: "Con  relación  a  las  vías  de  administración  de  medicamentos  complete  el  siguiente enunciado: La vía __________________ se utiliza para __________________. La aguja entra en la piel con un ángulo de __________________.",
+      choices: [
+          "- Intradérmica – hacer pruebas de alergia – 5°- 15°",
+          "- Subcutánea – realizar pruebas de alergia – 45° o 90°",
+          "- Intradérmica – administrar insulina – 45°o 90°",
+          "- Subcutánea – administrar heparina – 5°- 15°"
+      ],
+      answer: "- Intradérmica – hacer pruebas de alergia – 5°- 15°"
+  },
+  {
+      question: "Indique.  ¿A  qué  principio  del  Modelo  de  Atención  Integral  de  Salud,  se  refiere  el seguimiento al estado de salud de las personas; las familias, el control de los riesgos y factores determinantes para la salud y su entorno; atención de cualquier episodio de enfermedad específica hasta su resolución o rehabilitación?",
+      choices: [
+          "- Continuidad.",
+          "- Integralidad.",
+          "- Equidad.",
+          "- Universalidad."
+      ],
+      answer: "- Continuidad."
+  },
+  {
+      question: "Paciente ingresa al servicio de Ginecología con diagnóstico de Pielonefritis, el médico para su tratamiento le pide administrar Ciprofloxacina 400 mg intravenosa cada 12 horas. Usted como personal de enfermería debe conocer del medicamento para evitar efectos adversos. ¿A qué grupo farmacológico pertenece este medicamento?",
+      choices: [
+          "- Fluoroquinolona.",
+          "- Macrólidos.",
+          "- Aminoglucósidos.",
+          "- Cefalosporina."
+      ],
+      answer: "- Fluoroquinolona."
+  },
+  {
+      question: "¿Cuál  es  una  medida  de  control  administrativo  que  aplica  para  la  prevención  de tuberculosis en el primer nivel de atención?\t",
+      choices: [
+          "- En el momento de ingreso al establecimiento de salud, realizar el triaje de los usuarios con tos.",
+          "- Minimizar el uso de procedimientos que induzcan la tos en afectados con TB bacteriológicamente positiva.",
+          "- Uso de respiradores N95 durante la toma de muestras de esputo o en el traslado de afectados con TB bacteriología positiva.",
+          "- Entrevista con los contactos para el oportuno registro y control dentro de las 72 horas de iniciado un tratamiento antituberculoso."
+      ],
+      answer: "- En el momento de ingreso al establecimiento de salud, realizar el triaje de los usuarios con tos."
+  },
+  {
+      question: "¿Cuál es el método de esterilización que utiliza una autoclave?",
+      choices: [
+          "- Calor húmedo.",
+          "- Radiación.",
+          "- Gas.",
+          "- Óxido de etileno.",
+          ""
+      ],
+      answer: "- Calor húmedo."
+  },
+  {
+      question: "Ingresa al centro de salud un niño de 2 años con piel pálida, taquicardia, mucosas orales  secas,  turgencia  de  la  piel  disminuida,  madre  refiere  que  ha  disminuido  la eliminación de orina. ¿Cuál es el grado de deshidratación del niño?",
+      choices: [
+          "- Leve.",
+          "- Moderado.",
+          "- Grave.",
+          "- Agudo."
+      ],
+      answer: "- Leve."
+  },
+  {
+      question: "Mujer de 21 años se encuentra embarazada y reporta tener múltiples parejas sexuales por el trabajo que realiza, al momento acude al servicio de ginecología para realizarse control de su embarazo. Al iniciar la preparación, paciente desconoce la fecha de su última menstruación, se toma los signos vitales, su talla es de 1m 45cm se reporta una estatura baja, el índice de masa corporal es menor a 18.5 kg/m2, lo que se considera peso  bajo  para  edad  gestacional.  ¿En  qué  factor  de  riesgo  clasificaría  a  este embarazo?",
+      choices: [
+          "- Factores de riesgo no modificables.",
+          "- Factores de riesgo modificables.",
+          "- Factores de dominio modificables.",
+          "- Factores de riesgo sociales no modificables."
+      ],
+      answer: "- Factores de riesgo no modificables."
+  },
+  {
+      question: "El profesional de enfermería del centro de salud al realizar trabajo comunitario ha podido  analizar  algunos  riesgos  de  salud  en  los  habitantes  de  la  comunidad. Encontró:  desnutrición,  antecedentes  de  enfermedades  prevalentes  de  la  infancia, enfermedad  crónica  en  la  madre  o  en  el  lactante,  enfermedades  diarreicas  y respiratorias  frecuentes  en  el  lactante,  dificultades  o  rechazo  a  la  lactancia  o alimentación. ¿A qué tipo riesgo de salud se refiere el enunciado?",
+      choices: [
+          "- Riesgos Biológicos.",
+          "- Riesgos socioeconómicos.",
+          "- Riesgos de Prestaciones.",
+          "- Riesgos en el ciclo de vida."
+      ],
+      answer: "- Riesgos Biológicos."
+  },
+  {
+      question: "Seleccione los cuidados de enfermería específicos en pacientes que reciben medicación diurética:",
+      choices: [
+          "- Vigilar signos de desequilibrio electrolítico e hipotensión postural.",
+          "- Vigilar presencia de disnea y edema periférico.",
+          "- Vigilar la presencia de latido cardíaco irregular y edema.",
+          "- Vigilar la presencia de lipotimias, náuseas y vómitos."
+      ],
+      answer: "- Vigilar signos de desequilibrio electrolítico e hipotensión postural."
+  },
+  {
+      question: "¿En qué momentos se aplica la lista de verificación de cirugía segura?",
+      choices: [
+          "- Entrada, pausa y salida.",
+          "- Antes, durante y después.",
+          "- Inicio, pausa y fin.",
+          "- Pre, trans y post."
+      ],
+      answer: "- Entrada, pausa y salida."
+  },
+  {
+      question: "Con relación a  los cuidados de enfermería en la obtención de una muestra de sangre capilar para la medición de la glicemia, señale el enunciado correcto.",
+      choices: [
+          "- Pedir al paciente que se lave las manos con agua tibia y jabón previo a la punción.",
+          "- Presionar fuertemente el dedo puncionado para obtener la muestra de sangre.",
+          "- En los adultos se debe obtener la muestra capilar de los extremos de los dedos.",
+          "- Antes de tomada la muestra aplicar presión en el sitio de punción con una torunda con alcohol."
+      ],
+      answer: "- Pedir al paciente que se lave las manos con agua tibia y jabón previo a la punción."
+  },
+  {
+      question: "¿Qué debe hacer el profesional en enfermería para mantener una temperatura óptima en el recién nacido?",
+      choices: [
+          "- Mantener al niño en un ambiente térmico neutro.",
+          "- Colocar al recién nacido en un colchón térmico a temperatura ambiente.",
+          "- Aplicar mecanismos de conducción, convección, radiación y difusión.",
+          "- Estimular en el recién nacido la termogénesis por escalofrío."
+      ],
+      answer: "- Mantener al niño en un ambiente térmico neutro."
+  },
+  {
+      question: "Paciente de 55 años de sexo masculino, acude al área de emergencia por presentar: anorexia, sudoración nocturna y baja de peso además de tos productiva, con 1 mes de evolución, con antecedentes de diagnóstico de tuberculosis, drogorresistente hace 5 años. Recibe tratamiento de tuberculosis primera fase. Sus signos vitales son:  T: 40 ºC;  FC:  95/min;  TA:  110/90mmHg;  FR  22/min;  Sat.02:  94%.   En  el  examen  de laboratorio complementario se diagnostica tuberculosis, en la tomografía de tórax se observan condensaciones con excavaciones, post-primaria. Además, en la prueba de fármaco presenta resistencia a fluoroquinolona y a los tres medicamentos inyectables de segunda línea. ¿Cuál es el tipo de resistencia de los medicamentos, basado en este caso?",
+      choices: [
+          "- Extensamente resistente (XDR).",
+          "- Monorresistencia.",
+          "- Multidrogorresistencia (MDR).",
+          "- Polirresistencia."
+      ],
+      answer: "- Extensamente resistente (XDR)."
+  },
+  {
+      question: "Para calentar a un recién nacido hipotérmico, se debe ajustar la temperatura de la incubadora por encima de la temperatura axilar del RN, en un máximo de:",
+      choices: [
+          "- 1 ºC",
+          "- 1.5 ºC",
+          "-  2 ºC",
+          "-  2.5 ºC"
+      ],
+      answer: "- 1 ºC"
+  },
+  {
+      question: "Los parámetros que evalúa el Test de Apgar son:",
+      choices: [
+          "- Frecuencia cardíaca, esfuerzo espiratorio, tono muscular, color de la piel e irritabilidad refleja.",
+          "- Aleteo nasal, quejido espiratorio, tiraje intercostal, retracción esternal y disociación toraco- abdominal.",
+          "- Forma de la oreja, tamaño de la glándula mamaria, forma del pezón, textura de la piel y pliegues plantares.",
+          "- Comportamiento, prominencia de cejas, saturación de oxígeno mínimo y frecuencia cardíaca máxima."
+      ],
+      answer: "- Frecuencia cardíaca, esfuerzo espiratorio, tono muscular, color de la piel e irritabilidad refleja."
+  },{
+    question: `Relacione los modelos conceptuales con sus teorizantes
+    <br>Teorizantes
+    <br>1. Dorothea Orem
+    <br>2. Hildegard Peplau
+    <br>3. Nola Pender
+    <br>4. Virginia Henderson
+    <hr>
+    <br>Modelo conceptual
+    <br>a. Modelo de relaciones interpersonales.
+    <br>b. Déficit de autocuidado.
+    <br>c. Necesidades humanas.
+    <br>d. Modelo de la promoción de la salud.`,
+    choices: [
+        "- 1b, 2a, 3d, 4c.",
+        "- 1c, 2a, 3d, 4b.",
+        "- 1b, 2d, 3a, 4c.",
+        "- 1a, 2b, 3c, 4d."
+    ],
+    answer: "- 1b, 2a, 3d, 4c.",
+},
+{
+    question: "¿Cuál es el método anticonceptivo recomendado para una mujer de 28 años, con 8 semanas postparto y lactancia materna exclusiva?",
+    choices: [
+        "- Amenorrea de la lactancia.",
+        "- Método del moco cervical o Billings.",
+        "- Anticonceptivos orales combinados.",
+        "- Dispositivo intrauterino de cobre."
+    ],
+    answer: "- Amenorrea de la lactancia.",
+},
+{
+    question: "¿Cuál  es  la  autora  cuya  teoría  tiene  como  objetivo  identificar  modos  adaptativos fisiológicos, psicológicos, sociológicos y de dependencia-independencia en el paciente?",
+    choices: [
+        "- Callista Roy.",
+        "- Hildegard Peplau.",
+        "- Madeleine Leininger.",
+        "- Dorothea Orem."
+    ],
+    answer: "- Callista Roy.",
+},
+{
+    question: `Ordene  las  etapas  del  Proceso  de  Atención  de  Enfermería  (PAE)  como  método científico de la profesión:
+    <br>1.  Evaluación.
+    <br>2.  Valoración.
+    <br>3.  Planificación.
+    <br>4.  Diagnóstico.
+    <br>5.  Ejecución.`,
+    choices: [
+        "- 2, 4, 3, 5, 1",
+        "- 1, 2, 4, 3, 5",
+        "- 2, 3, 4, 5, 1",
+        "-  1, 3, 2, 4, 5"
+    ],
+    answer: "- 2, 4, 3, 5, 1",
+},
+{
+    question: "Profesional en enfermería de cuidado directo acaba de tener un altercado con auxiliar de enfermería del servicio. ¿A quién debe acudir para resolver el problema?",
+    choices: [
+        "- Al enfermero líder del servicio.",
+        "- Al coordinador de enfermería del hospital.",
+        "- Al coordinador de talento humano.",
+        "- Al director del hospital."
+    ],
+    answer: "- Al enfermero líder del servicio.",
+},
+{
+    question: "¿Cuál es el trastorno endócrino - metabólico que aparece como consecuencia de la destrucción total e irreversible de las células beta del páncreas, provocando un déficit total de insulina?",
+    choices: [
+        "- Diabetes Mellitus tipo I",
+        "- Diabetes Mellitus tipo II",
+        "- Diabetes Mellitus asociada a pancreatitis.",
+        "- Diabetes gestacional."
+    ],
+    answer: "- Diabetes Mellitus tipo I",
+},
+{
+    question: `Según la normativa del MSP, seleccione las actividades que se realizan en el cuidado del recién nacido en alojamiento conjunto:
+    <br>1.  Alimentación inicial-lactancia materna.
+    <br>2.  Preparación del personal y equipos.
+    <br>3.  Profilaxis ocular.
+    <br>4.  Profilaxis con vitamina K.
+    <br>5.  Recepción del Recién nacido.
+    <br>6.  Examen físico.`,
+    choices: [
+        "- 1, 3, 4, 6",
+        "- 1, 2, 3, 5",
+        "- 1, 4, 5, 6",
+        "- 2, 3, 4, 6"
+    ],
+    answer: "- 1, 3, 4, 6",
+},
+{
+    question: "Como profesional de enfermería en el área de Urgencias, atiende a un paciente con problemas  respiratorios,  la  prescripción  médica  indica  administrar  oxígeno  por cánula nasal 4 litros por minuto. ¿Qué concentración de FIO2 está administrando con el volumen y dispositivo del caso?",
+    choices: [
+        "- 36%",
+        "- 32%",
+        "- 40%",
+        "- 24%"
+    ],
+    answer: "- 36%",
+},
+{
+    question: "Paciente con antecedentes de diabetes, acude al hospital por presentar un cuadro de deshidratación  con  presencia  de  náuseas  y  vómito  por  varias  ocasiones.  Para  el diagnóstico se requiere la medición de gases en sangre arterial, donde se reporta una acidosis metabólica. ¿Qué valores determina esta alteración?",
+    choices: [
+        "- PH=7,15, PaCO2= 20, HCO3= 14",
+        "- PH=7,56, PaCO2= 45, HCO3= 27",
+        "- PH= 7,50, PaCO2= 24, HCO3= 10",
+        "- PH = 7,10, PaCO2 = 50, HCO3 = 28"
+    ],
+    answer: "- PH=7,15, PaCO2= 20, HCO3= 14",
+},
+{
+    question: "Se  programa  cirugía    de  colecistectomía  en  paciente  masculino  de  47  años,  con antecedentes patológicos personales de HIV en tratamiento con su TARGA habitual, ingesta y abuso de alcohol hace 3 años. SV: PA: 100/70mmHg; FC: 76lpm; Fr: 22rpm; T°:36,7°C; IMC: 32. En el transoperatorio se presenta complicación en la respiración, provocando  disminución  en  la  función  ventilatoria.  ¿Qué  factor  considera  como principal causa de complicación durante el transoperatorio?",
+    choices: [
+        "- Aumento del peso corporal del paciente.",
+        "- Paciente con antecedentes de inmunodepresión.",
+        "- Disminución del peso corporal del paciente.",
+        "- Hábitos de ingesta de alcohol del paciente."
+    ],
+    answer: "- Aumento del peso corporal del paciente.",
+},{
+  question: `Relacione las zonas elegidas para la medición de la temperatura con las ventajas:
+  <br>ZONA PARA MEDIR LA TEMPERATURA
+  <br>1. Oral.
+  <br>2. Membrana Timpánica.
+  <br>3. Rectal.
+  <br>4. Axilar.
+  <br>
+  <hr>
+  <br>VENTAJAS
+  <br>a. Segura, utilizada en recién nacidos y pacientes inconscientes.
+  <br>b. Fiable, a menudo es causa de ansiedad en el paciente.
+  <br>c. Lectura central precisa, medición rápida.
+  <br>d. Accesible, cómoda para el paciente.`,
+  choices: [
+      "- 1d, 2c, 3b, 4a.",
+      "- 1a, 2b, 3c, 4d.",
+      "- 1c, 2b, 3d, 4a.",
+      "- 1a, 2c, 3d, 4b."
+  ],
+  answer: "- 1d, 2c, 3b, 4a."
+},
+{
+  question: `Paciente hospitalizado de 58 años, con diagnóstico de cáncer gástrico en fase II-III,
+  tiene indicación de tratamiento con morfina de 2.5 a 5.0 mg IV cada 4 horas. Ha recibido 2.5 mg IV hace 4 horas por un dolor puntuado como 3 en una escala de 0 a 10. Ahora, está viendo la televisión y recibe una visita de sus familiares. Cuando le preguntan por su dolor, le da una puntuación de 5. Sus constantes vitales están estables. ¿Qué intervención de enfermería es la más apropiada?`,
+  choices: [
+      "- Administrar morfina, 5,0 mg IV, y volver a valorar a los 20 minutos.",
+      "- Administrar morfina,3,5 mg IV, y pedirle que continúe mirando la televisión porque sirve de distracción para su dolor.",
+      "- Administrar 2,5 mg de morfina IV para evitar que se convierta en un adicto.",
+      "- No administrar nada en ese momento porque no tiene signos de dolor."
+  ],
+  answer: "- Administrar morfina, 5,0 mg IV, y volver a valorar a los 20 minutos."
+},
+{
+  question: "¿Cuáles son los métodos válidos y recomendables para el control del bienestar fetal durante el parto?",
+  choices: [
+      "- Monitorización fetal electrónica continua y auscultación fetal intermitente.",
+      "- Seguimiento del peso y talla de la embarazada desde el segundo trimestre.",
+      "- Registro de las maniobras de Leopold y registro en la historia clínica perinatal.",
+      "- Índice de bishop favorable según el resultado procesado."
+  ],
+  answer: "- Monitorización fetal electrónica continua y auscultación fetal intermitente."
+},
+{
+  question: "Para  participar  con  acciones  que  contribuyan  a  la  satisfacción  de  necesidades  y solución  de  problemas  inherentes  al  equilibrio  hidroelectrolítico,  el  personal  de enfermería realiza los siguientes cuidados: observar la alimentación, vigilar ingesta de líquidos,   estado   de   piel   y   mucosas,   eliminación   urinaria   e   intestinal   y   sus alteraciones, y control de signos vitales. ¿Qué acción aplicaría para el control de la ingesta y excreción de líquidos?",
+  choices: [
+      "- Medir los líquidos que egresan de cualquier parte del organismo.",
+      "- Medir los líquidos que ingresan al organismo solamente administrados por vía oral.",
+      "- Hacer balance correspondiente en 6 horas, anotando horario de inicio y final.",
+      "- Medir los líquidos que ingresan al organismo por vía parenteral."
+  ],
+  answer: "- Medir los líquidos que egresan de cualquier parte del organismo."
+},
+{
+  question: "En el puerperio encontramos diferentes subclasificaciones. ¿A qué etapa corresponde el tiempo que comprende desde el segundo día del nacimiento hasta los 10 días de postparto?",
+  choices: [
+      "- Puerperio mediato.",
+      "- Puerperio inmediato.",
+      "- Puerperio normal.",
+      "- Puerperio tardío."
+  ],
+  answer: "- Puerperio mediato."
+},
+{
+  question: `Relacione el objetivo con el principio de salud reproductiva que corresponda:
+  Objetivos:
+  1. Mejorar la calidad de vida de la población.
+  2. Lograr la igualdad entre los géneros y empoderar a todas las mujeres.
+  Principios:
+  a. Desarrollo sustentable basado en equidad social e igualdad de género.
+  b. Garantizar la confidencialidad de todos los servicios de salud y del equipo de salud.
+  c. Respeto los principios de bioética  respetando los principios, autonomía  no maleficencia, beneficencia y justicia.
+  d. Fortalecer y consolidar la salud intercultural, incorporando la medicina ancestral.`,
+  choices: [
+      "- 1ac, 2bd",
+      "- 1ab, 2cd",
+      "- 1dc, 2ba",
+      "- 1cb, 2ad"
+  ],
+  answer: "- 1ac, 2bd"
+},
+{
+  question: "En relación al aislamiento de contacto, complete el siguiente enunciado: Las precauciones de contacto se aplican cuando se sospeche o se tenga constancia de haber estado expuesto a patógenos que liberan esporas y en particular a brotes de _______________.   Como   medida   de   protección   se   recomienda   el   uso   de _______________ y la utilización de _______________.",
+  choices: [
+      "- C. difficile – bata y guantes – material clínico de uso individual.",
+      "- C. difficile – guantes y mascarilla quirúrgica - material clínico de uso individual.",
+      "- Micoplasma - guantes y mascarilla N95 - material clínico de uso individual.",
+      "- Micoplasma – bata y mascarilla quirúrgica - material clínico de uso individual."
+  ],
+  answer: "- C. difficile – bata y guantes – material clínico de uso individual."
+},
+{
+  question: "Como profesional de enfermería del servicio de Pediatría, usted debe administrar una inyección intramuscular con un medicamento de origen biológico a un lactante. ¿Cuál es el sitio de administración?",
+  choices: [
+      "- Vasto lateral.",
+      "- Ventroglúteo.",
+      "- Deltoides.",
+      "- Glúteo mayor."
+  ],
+  answer: "- Vasto lateral."
+},
+{
+  question: `Seleccione las ventajas de la leche materna para el sistema inmunológico del recién nacido.
+  <br>1.  Favorece la mielinización.
+  <br>2.  Estimula la producción de leucocitos granulocitos y macrófagos.
+  <br>3.  Aumenta la presencia de oligosacáridos.
+  <br>4.  Aumenta la Somatostatina GI.
+  <br>5.  Mejora la composición de las membranas celulares del cerebro.
+  <br>6.  Aumenta los ácidos grasos de la cadena polinsaturados.`,
+  choices: [
+      "- 2, 3, 6",
+      "- 1, 2, 3",
+      "- 2, 4, 5",
+      "- 3, 5, 6"
+  ],
+  answer: "- 2, 3, 6"
+},
+{
+  question: "Como licenciado en enfermería realiza la visita domiciliaria a una familia en etapa de contracción, donde ambos cónyuges son adultos mayores con dependencia funcional.¿Qué actividad prioritaria se realiza teniendo en cuenta los factores de riesgo?",
+  choices: [
+      "- Planificar un plan rutinario de ejercicios.",
+      "- Orientar una dieta hipercalórica y fraccionada.",
+      "- Facilitar silla de ruedas y cuidadores.",
+      "- Garantizar reposo minimizando las actividades."
+  ],
+  answer: "- Planificar un plan rutinario de ejercicios."
+},
+{
+  question: "En  el  servicio  de  emergencias,  usted  atiende  a  un  paciente  con  antecedentes  de Insuficiencia Cardíaca que recibe tratamiento con Digoxina y que presenta cuadro de náuseas,  vómitos,  malestar  general,  cambios  electrocardiográficos  y  niveles  séricos superiores  a  los  niveles  terapéuticos.  ¿Cuál  de  los  siguientes  efectos  adversos  del medicamento corresponde a este caso?",
+  choices: [
+      "- Reacción tóxica.",
+      "- Efecto colateral.",
+      "- Reacción alérgica.",
+      "- Idiosincrasia."
+  ],
+  answer: "- Reacción tóxica."
+},
+{
+  question: "A la valoración de enfermería usted identifica un paciente adulto mayor que presenta pérdida de firmeza en la piel, disminución de la capacidad visual y deterioro celular, lo  que  afecta  su  salud  y  bienestar.  ¿Cuál  es  la  teoría  de  envejecimiento  que  hace referencia el enunciado?",
+  choices: [
+      "- Teoría estocástica.",
+      "- Teoría no estocástica.",
+      "- Teoría de la desvinculación.",
+      "- Teoría de la actividad."
+  ],
+  answer: "- Teoría estocástica."
+},
+{
+  question: `La  cetoacidosis  diabética  es  un  efecto  de  un  déficit  de  insulina  disponible  en  el organismo,  que  produce  trastornos  del  metabolismo  de  carbohidratos  proteínas  y lípidos. Seleccione las principales manifestaciones clínicas de esta entidad:
+  <br>1.  Hiperglicemia
+  <br>2.  Pérdida de peso
+  <br>3.  Poliuria
+  <br>4.  Polidipsia
+  <br>5.  Deshidratación con pérdida de electrólitos
+  <br>6.  Polifagia
+  <br>7.  Acidosis`,
+  choices: [
+      "- 1, 5, 7",
+      "- 1, 6, 7",
+      "- 1, 4, 6",
+      "- 2, 6, 7"
+  ],
+  answer: "- 1, 5, 7"
+},
+{
+  question: "Los enemas de limpieza tienen como objetivo eliminar las heces, para lo cual se usan varias soluciones. ¿Qué tipo de solución actúa mediante la extracción del líquido del espacio intersticial hacia el colon?",
+  choices: [
+      "- Hipertónica.",
+      "- Hipotónica.",
+      "- Isotónica.",
+      "- Espuma."
+  ],
+  answer: "- Hipertónica."
+},
+{
+  question: `Seleccione las manifestaciones clínicas de la neumonía:
+  <br>1.  Dolor torácico.
+  <br>2.  Tos con expectoración por más de 15 días.
+  <br>3.  Taquipnea.
+  <br>4.  Sudoración nocturna.
+  <br>5.  Uso de músculos accesorios en la respiración.
+  <br>6.  Secreción nasal purulenta.`,
+  choices: [
+      "- 1, 3, 5",
+      "- 2, 4, 6",
+      "- 1, 2, 4",
+      "- 3, 5, 6",
+      ],
+  answer: "- 1, 3, 5"
+},
+{
+  question: "Entre  los  exámenes  de  laboratorio  que  se  realizan  a  un  paciente  con  cáncer  se encuentran los bio marcadores, el CA 125 es un bio marcador para el diagnóstico de cáncer de:",
+  choices: [
+      "- Ovario.",
+      "- Próstata.",
+      "- Testículo.",
+      "- Tiroides."
+  ],
+  answer: "- Ovario."
+},
+{
+  question: "El ESAMyN es la Normativa Sanitaria para la Certificación de Establecimientos de Salud como Amigos de la Madre y del Niño, se implementa con el fin de disminuir la mortalidad y morbilidad materna y neonatal a través de: la atención adecuada a la gestante,  el  parto  humanizado,  y  el  apoyo,  protección  y  fomento  de  la  lactancia materna, consta de cuatro componentes y 24 pasos. ¿Cuál de los pasos corresponde al componente (B)?",
+  choices: [
+      "- Captar y controlar a madres embarazadas y asegurar el tratamiento de las mujeres en riesgo.",
+      "- Capacitar y dar a conocer la norma en el establecimiento de salud.",
+      "- Garantizar un ambiente acogedor y el respeto de práctica interculturales.",
+      "- Permitir el acompañamiento por una persona de  elección de la madre antes, durante y después del parto."
+  ],
+  answer: "- Captar y controlar a madres embarazadas y asegurar el tratamiento de las mujeres en riesgo."
+},
+{
+  question: `Seleccione los mecanismos a través de los cuales se fomenta los entornos saludables en el desarrollo comunitario:
+  <br>1.  Educación para la salud y participación social.
+  <br>2.  Escuelas promotoras de salud.
+  <br>3.  Elaboración del Análisis Comunitario de Salud.
+  <br>4.  Salud ambiental.
+  <br>5.  Vigilancia y control de riesgos.
+  <br>6.  Elaboración, negociación y ejecución de proyectos.`,
+  choices: [
+      "- 1, 2, 4, 5",
+      "- 2, 3, 5, 6",
+      "- 1, 2, 3, 5",
+      "- 2, 4, 5, 6"
+  ],
+  answer: "- 1, 2, 4, 5"
+},
+{
+  question: "¿Cuál es el parto que se presenta de manera espontánea, con bajo riesgo desde el comienzo hasta el alumbramiento y el producto se obtiene sin complicaciones?\t",
+  choices: [
+      "- Parto eutócico.",
+      "- Parto inducido.",
+      "- Parto inmaduro.",
+      "- Parto a término."
+  ],
+  answer: "- Parto eutócico."
+},
+{
+  question: "En el SCORE mamá está indicado el uso de un medicamento en caso de toxicidad por sulfato  de  magnesio.  ¿Cuál  es  el  medicamento,  concentración,  dosis,  tiempo  y  vía correcta de administrar?",
+  choices: [
+      "- Gluconato de calcio al 10 %, 1 g por vía intravenosa en 10 minutos.",
+      "- Gluconato de calcio al 10 %, 4 g por vía intravenosa en 20 minutos.",
+      "- Gluconato de calcio al 10 %, 2 g por vía intravenosa en 10 minutos.",
+      "- Gluconato de calcio al 20 %, 2 g por vía intravenosa en 20 minutos."
+  ],
+  answer: "- Gluconato de calcio al 10 %, 1 g por vía intravenosa en 10 minutos."
+},
+{
+  question: "La  toma  de  decisiones  se  define  como  la  selección  de  un  curso  de  acciones  entre alternativas, es decir, que existe un plan, un compromiso de recursos de dirección. De las siguientes opciones todas se refieren al proceso de toma de decisiones, EXCEPTO:",
+  choices: [
+      "- Emprender acciones correctivas.",
+      "- Identificar y definir el problema.",
+      "- Generar y evaluar alternativas de solución.",
+      "- Elegir una solución e implementarla.",
+  ],
+  answer: "- Emprender acciones correctivas."
+},
+{
+  question: "En un sector de una comunidad, por razones de trabajo minero, existe alta migración de un grupo étnico y usted debe atender a esa comunidad. ¿Cuál sería el objetivo prioritario del plan operativo tomando en cuenta el enfoque intercultural?",
+  choices: [
+      "- Reconocer e incorporar los conocimientos y las prácticas de salud ancestrales en el plan.",
+      "- Reconocer las necesidades de salud del grupo étnico de acuerdo con sus costumbres.",
+      "- Particularizar los servicios de atención de salud a los grupos de riesgo para mejorar el acceso a los servicios.",
+      "- Mejorar las relaciones entre proveedores de salud y usuarios con distintas demandas de atención de salud."
+  ],
+  answer: "- Reconocer e incorporar los conocimientos y las prácticas de salud ancestrales en el plan."
+},
+{
+  question: "Con relación a los cuidados de enfermería en la aspiración de secreciones por tubo endotraqueal sistema abierto, a pacientes adultos. ¿Cuál es el enunciado correcto?",
+  choices: [
+      "- Si el paciente está inconsciente, colocarlo en decúbito lateral mirando hacia el profesional de enfermería.",
+      "- Hipoventilar al paciente antes de cada aspiración usando la mano no dominante.",
+      "- Aspirar en forma rutinaria de 3 - 5 veces por turno, para disminuir la tos, la cual es dolorosa.",
+      "- Aspirar por un tiempo de 5 segundos en cada ocasión mediante la oclusión intermitente del catéter."
+  ],
+  answer: "- Si el paciente está inconsciente, colocarlo en decúbito lateral mirando hacia el profesional de enfermería."
+},
+{
+  question: "¿Cuáles  son  los  cambios  esperados  que  pueden  observarse  conforme  avanza  la enfermedad de Alzheimer?",
+  choices: [
+      "- Incapacidad para nombrar los objetos, apraxia y alexia.",
+      "- Rigidez – Bradicinesia – Inestabilidad Postural.",
+      "- Labilidad emocional, sialorrea y disfagia.",
+      "- Marcha festinante, disminución de la sensibilidad y déficit motor."
+  ],
+  answer: "- Incapacidad para nombrar los objetos, apraxia y alexia."
+},
+{
+  question: "La Epidemiologia Comunitaria en el Modelo de Atención Integral de Salud y en la Red Pública Integral de Salud, es una concepción metodológica y una herramienta para el análisis de la realidad y la transformación de esta, con la participación de la comunidad, constituyéndose en un elemento clave para la implementación del Modelo de Atención. ¿Cuál de las siguientes corresponde a sus características?",
+  choices: [
+      "- Los datos epidemiológicos se convierten en elementos fundamentales para el diálogo en y con las comunidades.",
+      "- Fortalecimiento de conocimientos y experiencia en temas de participación y comunicación social, al mismo tiempo que en promoción, prevención y atención de los problemas de salud.",
+      "- El establecimiento de mecanismos de referencia y contrarreferencia.",
+      "- La responsabilidad para que cada distrito revise sus objetivos y metas en función de intervención."
+  ],
+  answer: "- Los datos epidemiológicos se convierten en elementos fundamentales para el diálogo en y con las comunidades."
+},
+{
+  question: "La  demencia  y  el  delirio  son  dos  situaciones  que  pueden  presentarse  en  el  adulto mayor. ¿Cuál de las siguientes afirmaciones corresponden a la demencia?",
+  choices: [
+      "- Se pierde en sitios que le eran familiares.",
+      "- Tiene períodos de lucidez y desorientación.",
+      "- Se produce por toxicidad por fármacos.",
+      "- Existe una alteración cognitiva preexistente."
+  ],
+  answer: "- Se pierde en sitios que le eran familiares."
+},
+{
+  question: "¿A qué aislamiento corresponde un paciente que llega al servicio con diagnóstico de celulitis?",
+  choices: [
+      "- Aislamiento por contacto.",
+      "- Aislamiento por aire.",
+      "- Aislamiento por gotas.",
+      "- Aislamiento estándar."
+  ],
+  answer: "- Aislamiento por contacto."
+},
+{
+  question: "Según la Ley Orgánica de Salud. Señale a que se refiere el Art.6:",
+  choices: [
+      "- Es responsabilidad del Ministerio de Salud Pública diseñar e implementar programas de atención integral y de calidad a las personas durante todas las etapas de la vida.",
+      "- Quienes forman parte del sistema nacional de salud aplicaran las políticas, programas y normas de atención integral y de calidad, que incluye acciones de promoción, prevención, recuperación, rehabilitación y cuidados paliativos de la salud individual y colectiva.",
+      "- La atención integral y el control de enfermedades no transmisible crónico-degenerativas, congénitas, hereditarias y de los problemas declarados prioritarios para la salud pública.",
+      "- Se reconoce y garantizara a las personas: el derecho a tomar decisiones libres, informadas, voluntarias y responsables sobre su sexualidad y su vida y orientación sexual."
+  ],
+  answer: "- Es responsabilidad del Ministerio de Salud Pública diseñar e implementar programas de atención integral y de calidad a las personas durante todas las etapas de la vida."
+},
+{
+  question: "En algunas ocasiones se debe suspender la lactancia materna exclusiva e incluso se debe  promover  la  alimentación  artificial,  como  en  el  caso  de  que  la  madre  tome algunos  fármacos,  por  las  consecuencias  que  pueden  derivarse  para  el  niño.  ¿Qué fármacos están contraindicados en la lactancia materna?",
+  choices: [
+      "- Citostáticos, cloranfenicol, litio.",
+      "- Paracetamol, Naproxeno, Piroxicam.",
+      "- Enalapril, Nifedipina, Hidralazina.",
+      "- Tetraciclina, Eritromicina, Azitromicina."
+  ],
+  answer: "- Citostáticos, cloranfenicol, litio."
+},
+{
+  question: "Paciente  que  durante  su  turno  presenta  deterioro  neurológico,  al  preguntarle  su nombre  responde  con  palabras  inapropiadas,  sus  extremidades  se  mantienen  en extensión y a la apertura ocular solo al llamado. De acuerdo a la escala de Glasgow, usted debe reportar al paciente con esta alteración en su estado de conciencia. ¿Cuál es la puntuación que alcanza el paciente?",
+  choices: [
+      "- Glasgow 8/15",
+      "- Glasgow 9/15",
+      "- Glasgow 10/15",
+      "- Glasgow 7/15"
+  ],
+  answer: "- Glasgow 8/15"
+},
+{
+  question: "¿En cuál de las situaciones que se presentan se debe evitar de manera absoluta el uso de tocolíticos para prolongar el embarazo?",
+  choices: [
+      "- Hemorragia severa materna.",
+      "- Estado hipertensivo del embarazo no complicado.",
+      "- Restricción de crecimiento fetal, sin alteración de la vitalidad.",
+      "- Rotura prematura de membranas."
+  ],
+  answer: "- Hemorragia severa materna."
+},
+{
+  question: "¿Cuál es una de las recomendaciones para la toma de la tensión arterial en el control prenatal?",
+  choices: [
+      "- Para la toma de la TA diastólica debe utilizar el 5° ruido de Korotkoff.",
+      "- La toma debe realizarse con la paciente de pie con el brazo a la altura del corazón.",
+      "- La toma debe realizarse con manguito que cubra 3.5 veces la circunferencia del brazo.",
+      "- Para la confirmación de la hipertensión severa debe repetirse la toma después de 30 minutos."
+  ],
+  answer: "- Para la toma de la TA diastólica debe utilizar el 5° ruido de Korotkoff."
+},
+{
+  question: "En el Tamizaje Metabólico Neonatal que se aplica en el país, qué patologías pueden detectarse?",
+  choices: [
+      "- Hipotiroidismo, fenilcetonuria, hiperplasia suprarrenal, galactosemia.",
+      "- Hipertiroidismo, hipoglicemia, encefalopatía viral, hiperglicemia.",
+      "- Colelitiasis, insuficiencia renal, hipertiroidismo, hepatitis crónica.",
+      "- Meningitis viral, infección de vías urinarias, hipertensión, convulsiones."
+  ],
+  answer: "- Hipotiroidismo, fenilcetonuria, hiperplasia suprarrenal, galactosemia."
+},
+{
+  question: "¿Qué medidas se deben tomar de acuerdo con las precauciones basadas en la forma de trasmisión por vía aérea?",
+  choices: [
+      "- Mantener una habitación individual con presión negativa; uso de la mascarilla de alta eficiencia (N95).",
+      "- Dentro de la habitación no tocar los materiales sin guantes; uso de la mascarilla quirúrgica.",
+      "- Uso de mandil para entrar en contacto con el paciente; uso de la mascarilla de alta eficiencia (N95).",
+      "- Asignar en lo posible estetoscopio y tensiómetro para el paciente; uso de mascarilla de alta eficiencia (N95)."
+  ],
+  answer: "- Mantener una habitación individual con presión negativa; uso de la mascarilla de alta eficiencia (N95)."
+},
+{
+  question: "Complete el siguiente enunciado: La hepatitis A se transmite a través de la vía  _______________, el período de incubación del virus varía de _______________ días y dentro de las manifestaciones se encuentra la _______________.",
+  choices: [
+      "- fecal oral - 15 a 45 - ictericia.",
+      "- parenteral - 15 a 45 - leucopenia.",
+      "- fecal oral - 7 a 45 días - leucopenia.",
+      "- parenteral - 15 a 30 días - ictericia."
+  ],
+  answer: "- fecal oral - 15 a 45 - ictericia."
+},
+{
+  question: "De  los  siguientes.  ¿Cuál  es  un  cuidado  de  enfermería  específico  para  un  neonato prematuro que nace con 2300 g y 36 semanas de gestación con hipotermia y dificultad respiratoria?",
+  choices: [
+      "- Estabilizar la temperatura secando al recién nacido y colocándolo en la incubadora.",
+      "- Fluidoterapia intensiva.",
+      "- Mantener luz intensa para observar estrictamente al recién nacido.",
+      "- Alimentación con leche hipercalórica artificial para aumentar el crecimiento y desarrollo del recién nacido."
+  ],
+  answer: "- Estabilizar la temperatura secando al recién nacido y colocándolo en la incubadora."
+},
+{
+  question: "Un  niño  con  escoliosis  necesita  utilizar  corsés  para  disminuir  la  progresión  de  su enfermedad. ¿Cuántas horas al día debería llevarlo?",
+  choices: [
+      "- 23",
+      "- 8",
+      "- 12",
+      "- 16"
+  ],
+  answer: "- 23"
+},
+{
+  question: "¿Cuál es la posición correcta para la colocación de un enema evacuante?",
+  choices: [
+      "- Sims.",
+      "- Trendelenburg.",
+      "- Decúbito ventral.",
+      "- Rossier."
+  ],
+  answer: "- Sims."
+},
+{
+  question: "¿Cuál es la definición de Enfermería según Dorotea Orem?",
+  choices: [
+      "- La Enfermería es el arte de actuar por la persona incapacitada, ayudarla a actuar por sí misma o ayudarla a aprender a actuar por sí misma.",
+      "- Lo fundamental de la enfermería es situar al paciente en el mejor estado posible para que la naturaleza actúe sobre el mismo.",
+      "- La función propia de la Enfermería es asistir al individuo, sano o enfermo en la realización de actividades que contribuyan a la salud o a su recuperación.",
+      "- La Enfermería es un servicio al individuo y a la familia."
+  ],
+  answer: "- La Enfermería es el arte de actuar por la persona incapacitada, ayudarla a actuar por sí misma o ayudarla a aprender a actuar por sí misma."
+},
+{
+  question: "Al realizar la valoración de enfermería a un paciente con fracturas costales tras sufrir un accidente de tránsito presenta: disnea, deformidad en la pared torácica, uso de los músculos accesorios para respirar, falta de aliento y aleteo nasal. ¿A qué diagnóstico enfermero corresponde este caso?",
+  choices: [
+      "- Patrón respiratorio ineficaz.",
+      "- Deterioro del intercambio de gases.",
+      "- Limpieza ineficaz de las vías aéreas.",
+      "- Deterioro de la ventilación espontánea.",
+  ],
+  answer: "- Patrón respiratorio ineficaz."
+},
+{
+  question: "Los cambios en la actitud y marcha de la embarazada está dado por la ganancia de peso  del  útero  y  su  contenido,  las  mamas,  aumento  en  el  volumen  sanguíneo  y  el líquido  extracelular  –  extravascular  y  los  cambios  metabólicos  que  conllevan  el incremento de agua y depósitos de grasa y proteínas. ¿Cuáles son los cambios a nivel del sistema músculo esquelético presentes en la mujer embarazada?",
+  choices: [
+      "\"- Lordosis lumbosacra.",
+      "- Escoliosis idiopática.",
+      "- Escoliosis congénita.",
+      "- Desviación de la última vértebra lumbar."
+  ],
+  answer: "\"- Lordosis lumbosacra."
+},
+{
+  question: "Las siguientes son complicaciones del tercer trimestre del embarazo. EXCEPTO:",
+  choices: [
+      "- Preeclampsia leve.",
+      "- Amenaza de aborto.",
+      "- Embarazo ectópico.",
+      "- Enfermedad del trofoblasto."
+  ],
+  answer: "- Preeclampsia leve."
+},
+{
+  question: "Paciente de 58 años que acude a la consulta por presentar cuadro clínico de 72 horas de evolución caracterizado oliguria, hipervolemia y leve edema bi-maleolar bilateral que cede con cambios posicionales; el personal de enfermería valora los signos vitales encontrando  una  presión  arterial  de  160/90  mmHg  y  al  analizar  el  resultado  del examen de orina se reflejan Proteínas= +, Hematíes= campo lleno. ¿Qué síndrome clínico presenta el usuario?",
+  choices: [
+      "- Síndrome nefrítico.",
+      "- Síndrome nefrótico.",
+      "- Síndrome de insuficiencia renal aguda.",
+      "- Síndrome de insuficiencia renal crónica."
+  ],
+  answer: "- Síndrome nefrítico."
+},
+{
+  question: "¿Cuál  es  la  manifestación  que  pueden  presentar  comúnmente  los  recién  nacidos diagnosticados con Fenilcetonuria?",
+  choices: [
+      "- Alteraciones mentales.",
+      "- Alteraciones del crecimiento.",
+      "- Alteraciones en su desarrollo.",
+      "- Alteraciones en su lenguaje."
+  ],
+  answer: "- Alteraciones mentales."
+},
+{
+  question: `Según prescripción médica le piden administrar Morfina 10 mg intravenoso. Ordene los cuidados de enfermería que se debe tomar en cuenta en la administración.
+  <br>1.  Diluir el medicamento antes de la administración.
+  <br>2.  Controlar el patrón respiratorio.
+  <br>3.  Valorar la acción analgésica del fármaco.
+  <br>4.  Controlar la velocidad en la administración del fármaco.
+  <br>5.  Controlar náuseas y vómitos por efectos adversos.`,
+  choices: [
+      "- 2, 1, 4, 5, 3",
+      "- 1, 2, 3, 5, 4",
+      "- 3, 4, 5, 1, 2",
+      "- 2, 1, 3, 4, 5"
+  ],
+  answer: "- 2, 1, 4, 5, 3"
+},
+{
+  question: "La colecistitis aguda es una inflamación de la vesícula biliar cuya causa primordial es la obstrucción del conducto cístico por un cálculo impactado. Los signos y síntomas principales son:",
+  choices: [
+      "- Dolor en el hipocondrio derecho del abdomen, náuseas y vómito.",
+      "- Dolor en el cuadrante superior derecho del abdomen, hematemesis y melenas.",
+      "- Acidez, regurgitación o vómito, disfagia y llenura.",
+      "- Acidez, epigastralgia, pirosis y regurgitación."
+  ],
+  answer: "- Dolor en el hipocondrio derecho del abdomen, náuseas y vómito."
+},
+{
+  question: `Seleccione los criterios de complejidad que usted como profesional de enfermería de APS debe considerar para la atención de salud como gestor de casos:
+  <br>1.  Niños con patologías respiratorias leves.
+  <br>2.  Precisan cuidados a domicilio tras el alta hospitalaria.
+  <br>3.  Con morbilidad de bajo riesgo.
+  <br>4.  Pluripatológicos y con deterioro funcional.
+  <br>5.  Situaciones familiares con déficit de apoyo.
+  <br>6.  Control prenatal en curso adecuado.
+  <br>7.  En etapa final de la enfermedad.`,
+  choices: [
+      "- 2, 4, 5, 7",
+      "- 1, 3, 4, 6",
+      "- 2, 5, 6, 7",
+      "- 1, 2, 4, 6"
+  ],
+  answer: "- 2, 4, 5, 7"
+},
+{
+  question: "Cuando  los  receptores  cutáneos  de  un  recién  nacido  perciben  una  baja  en  la temperatura    ambiente,    el    sistema    nervioso    simpático    se    activa    y    se produce    calor    utilizando    las    reservas    del    tejido    adiposo    pardo,    este mecanismo se conoce como:",
+  choices: [
+      "- Lipólisis de grasa.",
+      "- Conducción.",
+      "- Evaporación.",
+      "- Convección."
+  ],
+  answer: "- Lipólisis de grasa."
+},{
+        question: "El profesional enfermero debe realizar en su actividad administrativa el cálculo de materiales y equipos que debe utilizar en la aplicación de procedimientos de enfermería en el área hospitalaria. ¿Qué factores influyen en la dotación efectiva de materiales y equipos?",
+        choices: [
+            "- Curva estándar de consumo, porcentaje de ocupación, frecuencia de tratamientos.",
+            "- Actividades, estrategias, diagnóstico situacional, planificación de consumos.",
+            "- Liderazgo, toma de decisiones, motivación continua, coordinación de actividades.",
+            "- Programación de necesidades, selección de insumos, almacenamiento y distribución."
+        ],
+        answer: "- Curva estándar de consumo, porcentaje de ocupación, frecuencia de tratamientos."
+    },
+    {
+        question: `Relacione  las  complicaciones  de  las  intervenciones  coronarias  percutáneas  con  las acciones de enfermería:
+        <br>Complicaciones
+        <br>1. Isquemia del miocardio
+        <br>2. Hemorragia y formación de hematoma
+        <br>3. Insuficiencia renal aguda
+        <br>4. Hematoma retroperitoneal
+        <hr>
+        <br>Acciones de enfermería
+        <br>a. Suspender el anticoagulante y notificar.
+        <br>b. Aportar hidratación adecuada.
+        <br>c. Aplicar comprensión manual.
+        <br>d. Administrar oxígeno y nitroglicerina.`,
+        choices: [
+            "- 1d, 2c, 3b, 4a",
+            "- 1b, 2a, 3c, 4d",
+            "- 1a, 2b, 3d, 4c",
+            "- 1c, 2d, 3a, 4b"
+        ],
+        answer: "- 1d, 2c, 3b, 4a"
+    },
+    {
+        question: "Como profesional de enfermería, es necesario que usted conozca los tipos de prácticas seguras  en  la  atención  de  salud.  Las  prácticas  establecidas  para  la  seguridad  del paciente-usuario   son:   prácticas   seguras   administrativas,   prácticas   seguras asistenciales,    prácticas    seguras    administrativas    -    asistenciales.    ¿Cuál    es el procedimiento que se relaciona a la práctica segura administrativa?",
+        choices: [
+            "- Identificación correcta del paciente.",
+            "- Manejo adecuado de medicamentos de alto riesgo.",
+            "- Conciliación de medicamentos.",
+            "- Notificación de eventos relacionados con la seguridad del paciente."
+        ],
+        answer: "- Identificación correcta del paciente."
+    },
+    {
+        question: "Para la prevención de venas varicosas en un paciente sin otras complicaciones. ¿Cuál es la recomendación en relación a la actividad física?",
+        choices: [
+            "- Caminar un promedio de 1.6 a 3.2 km al día.",
+            "- Utilizar calcetines apretados en el extremo superior.",
+            "- Cruzar las piernas en los muslos.",
+            "- Mantenerse de pie por períodos prolongados."
+        ],
+        answer: "- Caminar un promedio de 1.6 a 3.2 km al día."
+    },
+    {
+        question: "Paciente de 75 años, que acude a su Centro de Salud para consulta sistemática de Geriatría. Al realizar la valoración de enfermería, se observa una respiración regular en profundidad y ritmo, con una frecuencia entre 12 y 18 veces por minuto, excepto por suspiros ocasionales. ¿Cuál de los siguientes patrones respiratorios es el descrito en este caso?",
+        choices: [
+            "- Respiración eupnéica.",
+            "- Respiración de Biot.",
+            "- Respiración de Cheyne-Stokes.",
+            "- Respiración de Kussmaul."
+        ],
+        answer: "- Respiración eupnéica."
+    },
+    {
+        question: "Paciente  con  dificultad  respiratoria,  a  su  llegada  al  servicio  presenta  confusión, mareo,  parestesias  periféricas  y  calambres.  Para  el  diagnóstico  se  requiere  la medición  de  gases  en  sangre  arterial,  donde  se  reporta  una  alcalosis  respiratoria.\n¿Qué valores determinan esta alteración?",
+        choices: [
+            "- PH= 7,50, PaCO2= 24, HCO3= 10",
+            "- PH=7,15, PaCO2= 20, HCO3= 14",
+            "- PH=7, 56, PaCO2= 45, HCO3= 28",
+            "- PH = 7,10, PaCO2 = 50, HCO3 = 28"
+        ],
+        answer: "- PH= 7,50, PaCO2= 24, HCO3= 10"
+    },
+    {
+        question: "¿Qué intervención de enfermería se proporciona a una gestante en labor de parto, cuando la cardiotocografía muestra una frecuencia cardiaca fetal de 170 latidos por minuto?",
+        choices: [
+            "- Administrar oxígeno.",
+            "- Acelerar la infusión de oxitocina.",
+            "- Colocar la paciente en decúbito lateral derecho.",
+            "- Restringir la administración de líquidos intravenosos."
+        ],
+        answer: "- Administrar oxígeno."
+    },
+    {
+        question: `Relacione los procedimientos a realizar, de acuerdo con la pirámide sobre el uso de guantes de la Organización Mundial de la Salud (OMS).
+        <br>Pirámide del uso de guantes
+        <br>1. Guantes estériles
+        <br>2. Guantes de manejo
+        <hr>
+        <br>Procedimiento
+        <br>a. Contacto con membrana mucosa o piel dañada.
+        <br>b. Procedimientos radiológicos invasivos.
+        <br>c. Inserción y retirada de dispositivos intravenosos.
+        <br>d. Accesos vasculares y procedimientos vasculares.`,
+
+        choices: [
+            "- 1bd, 2ac",
+            "- 1ab, 2cd",
+            "- 1cd, 2ab",
+            "- 1ad, 2bc"
+        ],
+        answer: "- 1bd, 2ac"
+    },
+    {
+        question: "¿Cuáles son las características clínicas típicas de la fibrosis quística de un niño menor de 2 años?",
+        choices: [
+            "- Retraso ponderoestatural, esteatorrea, infecciones respiratorias de repetición e insuficiencia respiratoria.",
+            "- Íleo meconial e ictericia prolongada.",
+            "- Neumonías de repetición, bronquiectasias y pólipos.",
+            "- EPOC, bronquiectasias, esterilidad, diabetes mellitus, pancreatitis y litiasis biliar."
+        ],
+        answer: "- Retraso ponderoestatural, esteatorrea, infecciones respiratorias de repetición e insuficiencia respiratoria."
+    },
+    {
+        question: "La enfermera circulante debe realizar el chequeo de la Lista de Verificación de la Seguridad Quirúrgica. ¿Qué acción constituye un paso esencial en la fase de entrada?",
+        choices: [
+            "- Confirmar la identidad del paciente, consentimiento informado, procedimiento y sitio quirúrgico.",
+            "- Comprobar que todos los miembros del equipo se hayan presentado por su nombre y función.",
+            "- Comprobar si existen dudas o problemas relacionados con el instrumental quirúrgico y el equipo.",
+            "- Confirmar verbalmente con el equipo el nombre del procedimiento realizado."
+        ],
+        answer: "- Confirmar la identidad del paciente, consentimiento informado, procedimiento y sitio quirúrgico."
+    },
+    {
+        question: "Paciente de 60 años sin antecedentes personales, acude a la consulta por presentar palpitaciones, mareos y desmayos de origen desconocido, para el manejo del paciente es necesario realizar un procedimiento que permita evaluar la actividad eléctrica del corazón durante las actividades de la vida diaria. ¿Cuál es la prueba diagnóstica que le permite evaluar esta alteración?",
+        choices: [
+            "- Monitor Holter.",
+            "- Electrocardiograma.",
+            "- Estudio electrofisiológico.",
+            "- Cateterismo cardiaco."
+        ],
+        answer: "- Monitor Holter."
+    },
+    {
+        question: `Paciente que durante el periodo de alumbramiento, empieza con signos y síntomas de hemorragia post parto inmediato, sangrado vaginal de 700 ml, causada por atonía uterina.  En  ese  momento  el  médico  solicita  la  intervención  del  equipo  de  salud. ¿Cuáles  son  las  acciones  secuenciales  para  controlar  el  sangrado  vaginal  de  la paciente, en orden de importancia?
+        <br>1.  Reanimación de la paciente.
+        <br>2.  Monitorización de la paciente.
+        <br>3.  Comunicación al equipo competente.
+        <br>4.  Implementación de medidas.`,
+        choices: [
+            "- 3, 1, 2, 4",
+            "- 1, 2, 3, 4",
+            "- 2, 3, 4, 1",
+            "- 4, 3, 2, 1"
+        ],
+        answer: "- 3, 1, 2, 4"
+    },{
+      question: "El profesional enfermero debe realizar en su actividad administrativa el cálculo de materiales y equipos que debe utilizar en la aplicación de procedimientos de enfermería en el área hospitalaria. ¿Qué factores influyen en la dotación efectiva de materiales y equipos?",
+      choices: [
+          "- Curva estándar de consumo, porcentaje de ocupación, frecuencia de tratamientos.",
+          "- Actividades, estrategias, diagnóstico situacional, planificación de consumos.",
+          "- Liderazgo, toma de decisiones, motivación continua, coordinación de actividades.",
+          "- Programación de necesidades, selección de insumos, almacenamiento y distribución."
+      ],
+      answer: "- Curva estándar de consumo, porcentaje de ocupación, frecuencia de tratamientos."
+  },
+  {
+      question: `Relacione  las  complicaciones  de  las  intervenciones  coronarias  percutáneas  con  las acciones de enfermería:
+      <br>Complicaciones
+      <br>1. Isquemia del miocardio
+      <br>2. Hemorragia y formación de hematoma
+      <br>3. Insuficiencia renal aguda
+      <br>4. Hematoma retroperitoneal
+      <hr>
+      <br>Acciones de enfermería
+      <br>a. Suspender el anticoagulante y notificar.
+      <br>b. Aportar hidratación adecuada.
+      <br>c. Aplicar comprensión manual.
+      <br>d. Administrar oxígeno y nitroglicerina.`,
+      choices: [
+          "- 1d, 2c, 3b, 4a",
+          "- 1b, 2a, 3c, 4d",
+          "- 1a, 2b, 3d, 4c",
+          "- 1c, 2d, 3a, 4b"
+      ],
+      answer: "- 1d, 2c, 3b, 4a"
+  },
+  {
+      question: "Como profesional de enfermería, es necesario que usted conozca los tipos de prácticas seguras  en  la  atención  de  salud.  Las  prácticas  establecidas  para  la  seguridad  del paciente-usuario   son:   prácticas   seguras   administrativas,   prácticas   seguras asistenciales,    prácticas    seguras    administrativas    -    asistenciales.    ¿Cuál    es el procedimiento que se relaciona a la práctica segura administrativa?",
+      choices: [
+          "- Identificación correcta del paciente.",
+          "- Manejo adecuado de medicamentos de alto riesgo.",
+          "- Conciliación de medicamentos.",
+          "- Notificación de eventos relacionados con la seguridad del paciente."
+      ],
+      answer: "- Identificación correcta del paciente."
+  },
+  {
+      question: "Para la prevención de venas varicosas en un paciente sin otras complicaciones. ¿Cuál es la recomendación en relación a la actividad física?",
+      choices: [
+          "- Caminar un promedio de 1.6 a 3.2 km al día.",
+          "- Utilizar calcetines apretados en el extremo superior.",
+          "- Cruzar las piernas en los muslos.",
+          "- Mantenerse de pie por períodos prolongados."
+      ],
+      answer: "- Caminar un promedio de 1.6 a 3.2 km al día."
+  },
+  {
+      question: "Paciente de 75 años, que acude a su Centro de Salud para consulta sistemática de Geriatría. Al realizar la valoración de enfermería, se observa una respiración regular en profundidad y ritmo, con una frecuencia entre 12 y 18 veces por minuto, excepto por suspiros ocasionales. ¿Cuál de los siguientes patrones respiratorios es el descrito en este caso?",
+      choices: [
+          "- Respiración eupnéica.",
+          "- Respiración de Biot.",
+          "- Respiración de Cheyne-Stokes.",
+          "- Respiración de Kussmaul."
+      ],
+      answer: "- Respiración eupnéica."
+  },
+  {
+      question: "Paciente  con  dificultad  respiratoria,  a  su  llegada  al  servicio  presenta  confusión, mareo,  parestesias  periféricas  y  calambres.  Para  el  diagnóstico  se  requiere  la medición  de  gases  en  sangre  arterial,  donde  se  reporta  una  alcalosis  respiratoria.\n¿Qué valores determinan esta alteración?",
+      choices: [
+          "- PH= 7,50, PaCO2= 24, HCO3= 10",
+          "- PH=7,15, PaCO2= 20, HCO3= 14",
+          "- PH=7, 56, PaCO2= 45, HCO3= 28",
+          "- PH = 7,10, PaCO2 = 50, HCO3 = 28"
+      ],
+      answer: "- PH= 7,50, PaCO2= 24, HCO3= 10"
+  },
+  {
+      question: "¿Qué intervención de enfermería se proporciona a una gestante en labor de parto, cuando la cardiotocografía muestra una frecuencia cardiaca fetal de 170 latidos por minuto?",
+      choices: [
+          "- Administrar oxígeno.",
+          "- Acelerar la infusión de oxitocina.",
+          "- Colocar la paciente en decúbito lateral derecho.",
+          "- Restringir la administración de líquidos intravenosos."
+      ],
+      answer: "- Administrar oxígeno."
+  },
+  {
+      question: `Relacione los procedimientos a realizar, de acuerdo con la pirámide sobre el uso de guantes de la Organización Mundial de la Salud (OMS).
+      <br>Pirámide del uso de guantes
+      <br>1. Guantes estériles
+      <br>2. Guantes de manejo
+      <hr>
+      <br>Procedimiento
+      <br>a. Contacto con membrana mucosa o piel dañada.
+      <br>b. Procedimientos radiológicos invasivos.
+      <br>c. Inserción y retirada de dispositivos intravenosos.
+      <br>d. Accesos vasculares y procedimientos vasculares.`,
+
+      choices: [
+          "- 1bd, 2ac",
+          "- 1ab, 2cd",
+          "- 1cd, 2ab",
+          "- 1ad, 2bc"
+      ],
+      answer: "- 1bd, 2ac"
+  },
+  {
+      question: "¿Cuáles son las características clínicas típicas de la fibrosis quística de un niño menor de 2 años?",
+      choices: [
+          "- Retraso ponderoestatural, esteatorrea, infecciones respiratorias de repetición e insuficiencia respiratoria.",
+          "- Íleo meconial e ictericia prolongada.",
+          "- Neumonías de repetición, bronquiectasias y pólipos.",
+          "- EPOC, bronquiectasias, esterilidad, diabetes mellitus, pancreatitis y litiasis biliar."
+      ],
+      answer: "- Retraso ponderoestatural, esteatorrea, infecciones respiratorias de repetición e insuficiencia respiratoria."
+  },
+  {
+      question: "La enfermera circulante debe realizar el chequeo de la Lista de Verificación de la Seguridad Quirúrgica. ¿Qué acción constituye un paso esencial en la fase de entrada?",
+      choices: [
+          "- Confirmar la identidad del paciente, consentimiento informado, procedimiento y sitio quirúrgico.",
+          "- Comprobar que todos los miembros del equipo se hayan presentado por su nombre y función.",
+          "- Comprobar si existen dudas o problemas relacionados con el instrumental quirúrgico y el equipo.",
+          "- Confirmar verbalmente con el equipo el nombre del procedimiento realizado."
+      ],
+      answer: "- Confirmar la identidad del paciente, consentimiento informado, procedimiento y sitio quirúrgico."
+  },
+  {
+      question: "Paciente de 60 años sin antecedentes personales, acude a la consulta por presentar palpitaciones, mareos y desmayos de origen desconocido, para el manejo del paciente es necesario realizar un procedimiento que permita evaluar la actividad eléctrica del corazón durante las actividades de la vida diaria. ¿Cuál es la prueba diagnóstica que le permite evaluar esta alteración?",
+      choices: [
+          "- Monitor Holter.",
+          "- Electrocardiograma.",
+          "- Estudio electrofisiológico.",
+          "- Cateterismo cardiaco."
+      ],
+      answer: "- Monitor Holter."
+  },
+  {
+      question: `Paciente que durante el periodo de alumbramiento, empieza con signos y síntomas de hemorragia post parto inmediato, sangrado vaginal de 700 ml, causada por atonía uterina.  En  ese  momento  el  médico  solicita  la  intervención  del  equipo  de  salud. ¿Cuáles  son  las  acciones  secuenciales  para  controlar  el  sangrado  vaginal  de  la paciente, en orden de importancia?
+      <br>1.  Reanimación de la paciente.
+      <br>2.  Monitorización de la paciente.
+      <br>3.  Comunicación al equipo competente.
+      <br>4.  Implementación de medidas.`,
+      choices: [
+          "- 3, 1, 2, 4",
+          "- 1, 2, 3, 4",
+          "- 2, 3, 4, 1",
+          "- 4, 3, 2, 1"
+      ],
+      answer: "- 3, 1, 2, 4"
+  },{
+    question: "Recién nacido pretérmino de 36SG, sexo masculino, pequeño para la edad gestacional, obtenido mediante parto eutócico, APGAR 8 al minuto, rosado, llanto fuerte. Se lo mantiene  en  observación  con  control  térmico  y  luego  de  5  horas  de  vida  presenta temblores  finos  en  miembros  inferiores,  acompañado  de  taquipnea,  uno  de  los antecedentes  maternos,  es  diabetes  gestacional.  ¿Qué  patología  metabólica  se relaciona este caso clínico?",
+    choices: [
+        "- Hipoglicemia.",
+        "- Hiperglicemia.",
+        "- Hipocalcemia.",
+        "- Hipotiroidismo congénito."
+    ],
+    answer: "- Hipoglicemia."
+},
+{
+    question: "En una casa de salud se produce un parto prematuro moderado. De acuerdo con la Guía de práctica clínica del Ministerio de Salud Pública del Ecuador. ¿A qué edad gestacional pertenece esta clasificación?",
+    choices: [
+        "- 32 a 33 semanas 6 días de gestación.",
+        "- 34 a 36 semanas 6 días de gestación.",
+        "- 28 a 31 semanas 6 días de gestación.",
+        "- Menor o igual a 27 semanas 6 días de gestación."
+    ],
+    answer: "- 32 a 33 semanas 6 días de gestación."
+},
+{
+    question: "¿Cuál es la localización del dolor abdominal como consecuencia del engrosamiento de la vesícula biliar en un paciente con Dengue?",
+    choices: [
+        "- Dolor hipocondrial derecho.",
+        "- Dolor epigástrico.",
+        "- Dolor abdominal difuso.",
+        "- Dolor hipocondrial izquierdo."
+    ],
+    answer: "- Dolor hipocondrial derecho."
+},
+{
+    question: "En  el  tratamiento  del  dolor  oncológico  en  adultos,  de  acuerdo  con  la  escalera analgésica de la Organización Mundial de la Salud modificada. ¿En qué caso se utiliza tramadol?",
+    choices: [
+        "- Escala visual análoga 5-6",
+        "- Escala visual análoga 1-4",
+        "- Escala visual análoga 7-9",
+        "- Escala visual análoga 10"
+    ],
+    answer: "- Escala visual análoga 5-6"
+},
+{
+    question: "Gestante  de  21  semanas  de  gestación  acude  al  servicio  de  Gíneco-obstetricia  con tensión arterial sistólica mayor a 140 y menor 160 mmHg, tensión diastólica mayor a 90 y menor 110 mmHg acompañado de proteinuria positiva en 24 horas. Sin criterios de gravedad ni afectación de órganos blandos. ¿A qué criterio de la clasificación de los trastornos hipertensivos del embarazo corresponde?",
+    choices: [
+        "- Preeclampsia leve.",
+        "- Preeclampsia severa.",
+        "- Hipertensión gestacional.",
+        "- Eclampsia."
+    ],
+    answer: "- Preeclampsia leve."
+},
+{
+    question: "La  verificación  de  seguridad  quirúrgica  es  una  de  las  funciones  del  enfermero circulante. ¿En qué momentos debe realizarse esta verificación?",
+    choices: [
+        "- Antes de la inducción de la anestesia, antes de la incisión cutánea y antes de que el paciente salga del quirófano.",
+        "- Antes de que el paciente entre al quirófano, antes de iniciar la preparación del campo quirúrgico y antes de que el paciente se recupere de la anestesia.",
+        "- Antes de realizar la incisión cutánea, antes de que el paciente se recupere de la anestesia y antes de que el paciente se traslade a recuperación.",
+        "- Cuando el enfermero circulante disponga de tiempo para poder realizar la verificación."
+    ],
+    answer: "- Antes de la inducción de la anestesia, antes de la incisión cutánea y antes de que el paciente salga del quirófano."
+},
+{
+    question: "Mujer gestante de 25 años, acude por primera vez al Centro de Salud para el control prenatal.  Se  dirige  al  área  de  estadística  para  la  apertura  de  la  historia  clínica, durante la atención, el personal de enfermería prepara y educa sobre la importancia del uso del carnet prenatal como un documento que propicia el control de seguimiento durante el embarazo. ¿Cuáles son los datos que registra el personal de enfermería en el carnet prenatal?",
+    choices: [
+        "- Datos generales de la mujer embarazada, registro de valores de presión arterial, peso, talla y vacuna antitetánica si tiene o no.",
+        "- Registro de valores  de presión arterial, peso, talla, índice de masa corporal y  vacuna antitetánica si tiene o no.",
+        "- Datos generales de la mujer, registro de presión arterial, índice de masa corporal y vacuna antitetánica si tiene o no.",
+        "- Datos generales de la mujer embarazada, toma de peso, talla, índice de masa corporal y vacuna antitetánica si tiene o no."
+    ],
+    answer: "- Datos generales de la mujer embarazada, registro de valores de presión arterial, peso, talla y vacuna antitetánica si tiene o no."
+},
+{
+    question: "Paciente   varón   de   75   años,   hospitalizado   en   neurología   desde   hace   6   días, diagnosticado   de   hipertensión   arterial   y   accidente   cerebrovascular,   presenta hemiplejia  derecha.  Hace  2  días  sufre  una  caída  al  trasladarle  a  exámenes radiológicos. Para brindar medidas de confort como el baño, es necesario valorar el riego de caídas del paciente. ¿Qué escala utiliza para valorar este riesgo?",
+    choices: [
+        "- Escala de Morse.",
+        "- Escala de Braden.",
+        "- Escala de Norton.",
+        "- Escala de Yesavage."
+    ],
+    answer: "- Escala de Morse."
+},
+{
+    question: "¿Cuáles son las características del exantema de la enfermedad de Kawasaki?",
+    choices: [
+        "- Maculopápulas, morbiliforme, urticariforme.",
+        "- Maculopapular, descendente, confluente.",
+        "- Maculopápulas en el tronco.",
+        "- Niño abofeteado, maculopápulas en el tronco."
+    ],
+    answer: "- Maculopápulas, morbiliforme, urticariforme."
+},
+{
+    question: `Seleccione las pruebas estadísticas descriptivas utilizadas para la tabulación y análisis de datos cuantitativos obtenidos de una investigación:
+    <br>1.  Regresión lineal.
+    <br>2.  Chi cuadrado.
+    <br>3.  Moda.
+    <br>4.  Prueba T.
+    <br>5.  Mediana.
+    <br>6.  Desviación estándar.
+    <br>7.  Varianza.
+    <br>8.  Correlación.`,
+    choices: [
+        "- 3, 5, 6, 7",
+        "- 3, 4, 5, 8",
+        "- 1, 2, 7, 8",
+        "- 1, 3, 5, 7"
+    ],
+    answer: "- 3, 5, 6, 7"
+},
+{
+    question: "De  los  siguientes  enunciados,  señale  en  qué  situación  se  utiliza  el  monitoreo electrónico fetal:",
+    choices: [
+        "- Presencia de líquido amniótico teñido de meconio.",
+        "- Contracciones rítmicas, regulares e intensas.",
+        "- Presencia en fase activa prolongada.",
+        "- Período expulsivo."
+    ],
+    answer: "- Presencia de líquido amniótico teñido de meconio."
+},
+{
+    question: "Una  gestante  portadora  de  cerclaje,  con  antecedentes  de  insuficiencia  cervical, pretende   incorporarse   a   la   práctica   de   ejercicios   físicos   del   programa   de Psicoprofilaxis  Obstétrica.  ¿Cuál  es  la  condición  clínica  que  usted  explicaría  a  la paciente?",
+    choices: [
+        "- Contraindicación absoluta para la práctica de ejercicios físicos.",
+        "- Contraindicación relativa para la práctica de ejercicios físicos.",
+        "- Motivo para la interrupción de los ejercicios físicos.",
+        "- Situación a tener presente una vez iniciada la práctica de ejercicios físicos."
+    ],
+    answer: "- Contraindicación absoluta para la práctica de ejercicios físicos."
+},
+{
+    question: "¿Cuáles son los conceptos descritos por Florence Nightingale en la teoría del entorno, que se deben manejar en la atención a pacientes?",
+    choices: [
+        "- Ventilación, temperatura, silencio, dieta e higiene.",
+        "- Temperatura, confort, silencio, dieta y desinfección.",
+        "- Desinfección, esterilización, descanso, temperatura y dieta.",
+        "- Silencio, climatización, energía, dieta y temperatura."
+    ],
+    answer: "- Ventilación, temperatura, silencio, dieta e higiene."
+},
+{
+    question: "Señale el diagnóstico de enfermería que corresponde a la definición operacional: La inspiración y/o espiración que no proporcionan ventilación adecuada.",
+    choices: [
+        "- Patrón respiratorio ineficaz.",
+        "- Deterioro del intercambio de gases.",
+        "- Limpieza ineficaz de la vía aérea.",
+        "- Estado respiratorio: ventilación."
+    ],
+    answer: "- Patrón respiratorio ineficaz."
+},
+{
+    question: "Paciente  de  50  años,  se  encuentra  en  recuperación  postanestésica  luego  de  una laparotomía exploratoria, con hidratación parenteral, insiste en levantarse para ir al baño. De acuerdo con la escala de riesgo de caída de Morse. ¿Cuál es el riesgo de caída en este paciente?",
+    choices: [
+        "- Medio.",
+        "- No tiene riesgo.",
+        "- Bajo.",
+        "- Alto."
+    ],
+    answer: "- Medio."
+},
+{
+    question: "Paciente   masculino   de   45   años,   que   presenta   una   úlcera   duodenal.   ¿Qué características clínicas presenta esta patología?",
+    choices: [
+        "- El dolor ocurre cuando el estómago está vacío.",
+        "- Existe una secreción normal o baja de ácido clorhídrico.",
+        "- Se presentan flatulencias.",
+        "- Es improbable que la úlcera se perfore."
+    ],
+    answer: "- El dolor ocurre cuando el estómago está vacío."
+},
+{
+    question: "En la hipótesis: el aumento de número de divorcios de parejas cuyas edades fluctúan entre los 18 y 25 años será de entre 10 y 12%, dentro de cinco años en las principales ciudades del Ecuador, tomado como base los datos de años anteriores. ¿De acuerdo con lo antes descrito, identifique a qué tipo de la hipótesis hace referencia?",
+    choices: [
+        "- Hipótesis predictivas.",
+        "- Hipótesis correlacional.",
+        "- Hipótesis causales.",
+        "- Hipótesis alternativas."
+    ],
+    answer: "- Hipótesis predictivas."
+},
+{
+    question: `Seleccione los propósitos de la comunicación con relación a la función administrativa de dirección:
+    <br>1.  Promover conductas cooperativas.
+    <br>2.  Mantener congruencia entre el contenido y la intención de los mensajes.
+    <br>3.  Alcanzar la eficiencia.
+    <br>4.  Elegir el método de comunicación adecuado.
+    <br>5.  Establecer los sistemas de comunicación.
+    <br>6.  Ejercer la dirección.`,
+    choices: [
+        "- 1, 3, 6",
+        "- 2, 4, 5",
+        "- 1, 4, 6",
+        "- 2, 3, 5"
+    ],
+    answer: "- 1, 3, 6"
+},
+{
+    question: "Mujer  de  60  años,  acude  a  consulta  externa,  manifiesta  que  tras  haber  iniciado tratamiento  para  la  hipertensión  arterial,  con  fármaco  que  no  especifica,  presenta edema de miembros inferiores. ¿Cuál de los siguientes medicamentos, produce este efecto secundario?",
+    choices: [
+        "- Amlodipino.",
+        "- Enalapril.",
+        "- Labetalol.",
+        "- Losartán."
+    ],
+    answer: "- Amlodipino."
+},
+{
+    question: "La  definición:  La  diferenciación  o  cambio  progresivo  de  órganos  y  tejidos  con adquisición y perfeccionamiento en sus funciones. Corresponde a:",
+    choices: [
+        "- Desarrollo.",
+        "- Crecimiento.",
+        "- Maduración.",
+        "- Percentiles."
+    ],
+    answer: "- Desarrollo."
+},
+{
+    question: "La norma de atención a la adolescente embarazada que se refiere a proporcionar un horario  de  atención  que  favorezca  la  concurrencia  al  control  prenatal,  es  una característica:",
+    choices: [
+        "- Afectiva.",
+        "- Precoz.",
+        "- Periódico.",
+        "- Integral."
+    ],
+    answer: "- Afectiva."
+},
+{
+    question: "Seleccione las fases del proceso general de investigación:\t\t\n1.  Utilización de fuentes primarias.\n2.  Formulación del problema.\n3.  Tipo de investigación.\n4.  Recolectar datos empíricos.\n5.  Población del estudio.\n6.  Muestra del estudio.\n7.  Consentimiento informado.",
+    choices: [
+        "- 1, 3, 5, 6",
+        "- 2, 4, 5, 7",
+        "- 1, 4, 5, 7",
+        "- 2, 3, 4, 6"
+    ],
+    answer: "- 1, 3, 5, 6"
+},
+{
+    question: "Personal de enfermería con experiencia de 2 años, planifica sus intervenciones con base  a  protocolos,  sin  embargo,  identifica  que  existe  limitaciones  para  cumplir  las actividades,  por  lo  que  coordina  y  diseña  planes  de  mejora  para  el  cuidado  del paciente. De acuerdo a la teoría de Patricia Benner. ¿Cuál es el nivel de experiencia que demuestra el profesional?",
+    choices: [
+        "- Competente.",
+        "- Experta.",
+        "- Eficiente.",
+        "- Principiante."
+    ],
+    answer: "- Competente."
+},
+{
+    question: `Seleccione  las  manifestaciones  clínicas  de  la  Enfermedad  Pulmonar  Obstructiva Crónica:
+    <br>1.  Fiebre con escalofríos.
+    <br>2.  Disnea de esfuerzo.
+    <br>3.  Tos con hemoptisis.
+    <br>4.  Tos crónica.
+    <br>5.  Dolor torácico pleurítico.
+    <br>6.  Producción de esputo.`,
+    choices: [
+        "- 2, 4, 6",
+        "- 1, 3, 5",
+        "- 1, 2, 4",
+        "- 3, 5, 6"
+    ],
+    answer: "- 2, 4, 6"
+},
+{
+    question: "Usted como líder de servicio de Urgencias, al presentarse algún evento adverso realiza la  notificación,  independientemente  de  su  tipología  y  gravedad.  ¿Cuál  es  la característica, de los sistemas de notificación de eventos adversos, que está aplicando?",
+    choices: [
+        "- Capacidad de respuesta.",
+        "- Orientación sistémica.",
+        "- Análisis por expertos.",
+        "- Independiente."
+    ],
+    answer: "- Capacidad de respuesta."
+},
+{
+    question: "Como  parte  de  las  medidas  para  el  control  del  tabaquismo.  ¿Qué  intervención  se realiza para cumplir con el monitoreo?",
+    choices: [
+        "- Vigilar el consumo de tabaco y las políticas de prevención.",
+        "- Proteger a la población de la exposición al humo de tabaco.",
+        "- Ofrecer ayuda para poder dejar de consumir tabaco.",
+        "- Hacer cumplir las prohibiciones sobre publicidad, promoción y patrocinio."
+    ],
+    answer: "- Vigilar el consumo de tabaco y las políticas de prevención."
+},
+{
+    question: "Paciente femenina de 56 años es ingresada en el servicio de Medicina Interna con sospecha  de  insuficiencia  renal  aguda;  al  realizarle  exámenes  de  laboratorio  se observa: creatinina de 0.8mg/dL, sodio de 135 mEqL, potasio de 6 mEqL, BUN 8mg\n/dl.  Para  la  confirmación  de  su  diagnóstico,  el  médico  solicita  un  estudio  que  le permita visualizar cortes transversales del riñón y de las vías urinarias, así como la presencia de masas y alteraciones en tejidos blandos. ¿Cuál es el estudio diagnóstico de imagen que permita evaluar estas alteraciones?",
+    choices: [
+        "- Tomografía.",
+        "- Gammagrafía.",
+        "- Urografía.",
+        "- Cistografía."
+    ],
+    answer: "- Tomografía."
+},
+{
+    question: "Al  educar  al  paciente  diabético  sobre  un  programa  de  ejercicios.  ¿Cuál  es  la orientación correcta?",
+    choices: [
+        "- Evitar el ejercicio en presencia de calor o frío extremos.",
+        "- Reforzar la rutina de ejercicio si la glucosa es mayor de 250 mg/dl.",
+        "- Realizar el ejercicio de manera esporádica antes que diaria.",
+        "- Evitar ejercicio de resistencia como levantamiento de pesas."
+    ],
+    answer: "- Evitar el ejercicio en presencia de calor o frío extremos."
+},
+{
+    question: "Un  grupo  de  profesionales  de  enfermería  en  un  servicio  de  salud,  mantienen  un ambiente  de  trabajo  respetuoso  y  de  colaboración.  ¿A  qué  elemento  del  Código Deontológico   del   Consejo   Internacional   de   Enfermeras   (CIE),   se   refiere   el comportamiento de este grupo?",
+    choices: [
+        "- La enfermera y sus compañeras de trabajo.",
+        "- La enfermera y las personas.",
+        "- La enfermera y la práctica.",
+        "- La enfermera y la profesión."
+    ],
+    answer: "- La enfermera y sus compañeras de trabajo."
+},
+{
+    question: "¿Cuáles son los efectos secundarios de la fototerapia en niños?",
+    choices: [
+        "- Deposiciones líquidas y verdosas, aumento de las pérdidas insensibles, síndrome del niño bronceado y enfriamiento.",
+        "- Deposiciones blandas y amarillas, disminución de las pérdidas insensibles y sobrecalentamiento.",
+        "- Deposiciones líquidas y verdosas, disminución de las pérdidas insensibles, síndrome del niño bronceado y enfriamiento.",
+        "- Deposiciones blandas y amarillas, aumento de las pérdidas insensibles y sobrecalentamiento."
+    ],
+    answer: "- Deposiciones líquidas y verdosas, aumento de las pérdidas insensibles, síndrome del niño bronceado y enfriamiento."
+},
+{
+    question: "Cuál  de  las  siguientes  opciones  corresponde  con  las  manifestaciones  clínicas  de  la cetoacidosis diabética:",
+    choices: [
+        "- Hiperglucemia - deshidratación - acidosis metabólica.",
+        "- Hipoglucemia - deshidratación - acidosis metabólica",
+        "- Normoglucemia - sobrehidratación - alcalosis metabólica.",
+        "- Hipoglucemia - deshidratación - alcalosis metabólica."
+    ],
+    answer: "- Hiperglucemia - deshidratación - acidosis metabólica."
+},
+{
+    question: "Usted  como  líder  de  enfermería  del  servicio  de  consulta  externa,  debe  efectuar  el cálculo de personal de enfermería para la atención directa a pacientes de este servicio. Teniendo presente que la categoría de tratamiento es de cuidados mínimos. ¿Cuáles son las horas necesarias de atención de enfermería directa en 24 horas de acuerdo a los indicadores por categoría de tratamiento?",
+    choices: [
+        "- 1 a 2 horas.",
+        "- 5 a 6 horas.",
+        "- 3 a 4 horas.",
+        "- 7 a 8 horas."
+    ],
+    answer: "- 1 a 2 horas."
+},{
+    question: "Según las modalidades de atención de los equipos integrales de salud. ¿Cómo se clasifica a la atención médica y transporte que se presta a enfermos o accidentados fuera del hospital?",
+    choices: [
+      "Atención prehospitalaria.",
+      "Atención en establecimientos móviles de salud.",
+      "Atención extramural o comunitaria.",
+      "Atención intramural o en un establecimiento de salud."
+    ],
+    answer: "Atención prehospitalaria."
+  },
+  {
+    question: "De los siguientes. ¿Cuál es un cuidado específico del enfermero/a neonatólogo en el recién nacido con Ictericia Fisiológica?",
+    choices: [
+      "Colocar compresa húmeda con solución bidestilada en los genitales externos del recién nacido masculino.",
+      "Colocar al recién nacido solamente en posición prono, para evitar la posible broncoaspiración.",
+      "Introducir solución glucosada en la alimentación al recién nacido favoreciendo la expulsión de la bilirrubina por el intestino a través de las heces fecales.",
+      "Cubrir totalmente la piel del recién nacido con aceite mineral para evitar la descamación de la piel."
+    ],
+    answer: "Colocar compresa húmeda con solución bidestilada en los genitales externos del recién nacido masculino."
+  },
+  {
+    question: `Seleccione las manifestaciones clínicas de la cirrosis hepática:
+      <br>1. Arañas vasculares.,
+      <br>2. Dolor abdominal grave.,
+      <br>3. Eritema palmar.,
+      <br>4. Náusea y vómito.,
+      <br>5. Ascitis.,
+      <br>6. Disminución de la peristalsis.`,
+    choices: [
+      "- 1, 3, 5 ",
+      "- 2, 3, 4 ",
+      "- 2, 4, 6 ",
+      "- 1, 5, 6 "
+    ],
+    answer: "- 1, 3, 5 "
+  },
+  {
+    question: "La normativa de la Autoridad Sanitaria es uno de los factores que influyen en la conformación del Equipo de Atención Integral de Salud. ¿Qué condición se incluye en este factor?",
+    choices: [
+      "Tipología de la unidad.",
+      "Ubicación rural o urbana.",
+      "Concentración/dispersión de la población.",
+      "Condiciones de acceso geográfico."
+    ],
+    answer: "Tipología de la unidad."
+  }, 
+  {
+      question: "Paciente de 57 años ingresa a emergencia luego de sufrir caída de una altura de 2 metros. A la valoración, tiene apertura ocular al llamado, al preguntarle su nombre la respuesta es confusa y localiza el dolor. De acuerdo a la escala de Glasgow. ¿Cuál es la puntuación que alcanza el paciente?",
+      choices: [
+          "- Glasgow 12/15",
+          "- Glasgow 14/15",
+          "- Glasgow 11/15",
+          "- Glasgow 10/15"
+      ],
+      answer: "- Glasgow 12/15"
+  },
+  {
+      question: `Seleccione  los  criterios  para  predecir  la  gravedad  de  la  pancreatitis  dentro  de  las siguientes 48h luego de la admisión hospitalaria.
+      <br>1.  Descenso del hematocrito mayor del 10 %
+      <br>2.  Hemoglobina de 13 mg/dL
+      <br>3.  PO2 menos de 60 mm Hg
+      <br>4.  Calcio sérico mayor de 10 mg/dL
+      <br>5.  PO2 mayor de 75mm Hg
+      <br>6.  Nitrógeno ureico en sangre mayor de 5mg/dL`,
+      choices: [
+          "- 1, 3, 6",
+          "- 2, 4, 6",
+          "- 1, 2, 5",
+          "- 3, 4, 5"
+      ],
+      answer: "- 1, 3, 6"
+  },{
+          question: "¿Cuál  es  el  principal  cuidado  de  enfermería  que  se  debe  realizar  al  administrar gluconato de calcio por vía intravenosa?",
+          choices: [
+              "- Valorar con frecuencia infiltración por el riesgo de extravasación, celulitis o necrosis.",
+              "- Administrar directo el medicamento para evitar las complicaciones como arritmias.",
+              "- Educar al paciente sobre la ingesta de alimentos con vitamina D para mejorar la absorción.",
+              "- Valorar los niveles de electrolitos para evaluar la presencia de hipocalcemia."
+          ],
+          answer: "- Valorar con frecuencia infiltración por el riesgo de extravasación, celulitis o necrosis."
+      },
+      {
+          question: "Al realizar la medición de la temperatura oral a un paciente, usted debe cerciorarse que este no haya ingerido alimentos, líquidos calientes o fríos, o haya fumado en un espacio de tiempo de:",
+          choices: [
+              "- 30 minutos.",
+              "- 20 minutos.",
+              "- 10 minutos.",
+              "- 15 minutos."
+          ],
+          answer: "- 30 minutos."
+      },
+      {
+          question: `Seleccione   los   objetivos   específicos   de   atención   de   los   profesionales   en enfermería gestores de casos en la atención primaria en salud:
+          <br>1.  Mantener  y  mejorar  la  calidad  de  vida  relacionada  con  la  salud  de  las cuidadoras principales de los pacientes.
+          <br>2.  Mantener y mejorar la calidad de vida relacionada con la salud de toda persona incapacitada y/o de riesgo.
+          <br>3.  Elaborar Guías de Práctica Clínica que ayuden en la coordinación entre niveles.
+          <br>4.  Facilitar la mejora de la atención domiciliaria al equipo de atención primaria.
+          <br>5.  Garantizar el uso adecuado del material de ayudas técnicas para el cuidado.
+          <br>6.  Evaluar y retroalimentar continuamente en los diferentes niveles asistenciales.`,
+          choices: [
+              "- 1, 2, 4, 5",
+              "- 2, 3, 5, 6",
+              "- 1, 3, 4, 5",
+              "- 2, 4, 5, 6"
+          ],
+          answer: "- 1, 2, 4, 5"
+      },
+      {
+          question: "¿Cuáles  son  los  escenarios  de  atención  en  salud,  según  lo  establecido  en  el  MAIS  - FCI? Señale la respuesta correcta:",
+          choices: [
+              "- Individual, Familiar, Comunidad, Atención al ambiente y  entorno natural.",
+              "- Individual, Grupal, Familiar, Comunidad, Institucional",
+              "- Individual, Familiar, Comunitario.",
+              "- Individual, Familiar, Sectorial,  Comunidad."
+          ],
+          answer: "- Individual, Familiar, Comunidad, Atención al ambiente y  entorno natural."
+      },
+      {
+          question: "De acuerdo con el MAIS ¿Cuál es el criterio que clasifica a la familia según los riesgos de salud?",
+          choices: [
+              "- Epidemiológico.",
+              "- Socioeconómico.",
+              "- Demográfico.",
+              "- Administrativo."
+          ],
+          answer: "- Epidemiológico."
+      },
+      {
+          question: "El  desarrollo  de  hipertensión  se  debe  a  una  combinación  de  factores  de  riesgo modificables o ambientales y no modificables o genéticos. ¿Cuáles son los principales factores de riesgo modificables?",
+          choices: [
+              "- Actividad y tabaquismo.",
+              "- Diabetes Mellitus tipo 2.",
+              "- Edad de la persona.",
+              "- Raza y sexo."
+          ],
+          answer: "- Actividad y tabaquismo."
+      },
+      {
+          question: "¿Cuáles son las unidades operativas que pertenecen al primer nivel de atención del Sistema Nacional de Salud?",
+          choices: [
+              "- Puestos de salud, Consultorio General, CS Tipo A, CS Tipo B, CS Tipo C.",
+              "- Puestos de salud, CS Tipo A, CS Tipo B, CS Tipo C.",
+              "- Consultorio General, CS Tipo A, CS Tipo B, CS Tipo C.",
+              "- Puestos de salud, Consultorio General, CS Tipo A, CS Tipo B, CS Tipo C y Hospital Básico."
+          ],
+          answer: "- Puestos de salud, Consultorio General, CS Tipo A, CS Tipo B, CS Tipo C."
+      },
+      {
+          question: "Cuando una mujer gestante se acerca a su consulta prenatal y usted procede a pesar a la paciente para la respectiva consulta médica, el IMC tiene un valor entre 25 - 29.9, señale en qué estado nutricional se encuentra:",
+          choices: [
+              "- Sobre peso.",
+              "- Bajo peso.",
+              "- Peso normal.",
+              "- Obesidad."
+          ],
+          answer: "- Sobre peso."
+      },
+      {
+          question: "En la visita domiciliaria de enfermería detecta un grupo de pacientes con hábitos de tabaquismo,  como  parte  de  su  trabajo,  sus  pacientes  establecen  un  compromiso individual y grupal por modificar este hábito. ¿Cuál de las siguientes tiene mayor aplicabilidad en la situación antes expuesta?",
+          choices: [
+              "- Teoría de Nola J. Pender.",
+              "- Teoría de Hidelgard E. Peplau.",
+              "- Filosofía de Florence Nightingale.",
+              "- Filosofía de Virginia Henderson."
+          ],
+          answer: "- Teoría de Nola J. Pender."
+      },
+      {
+          question: `Relacione el tipo de vacuna con la edad, dosis, vía de administración:
+          <br> Tipo de vacuna
+          <br> 1. Rotavirus
+          <br> 2. fIPV
+          <br> 3. Pentavalente
+          <br> 4. Neumococo conjugada
+          <hr>
+          <br>Edad, total dosis, vías de administración, dosis recomendada
+          <br>a. 2, 4, 6 meses; 3 dosis; intramuscular; 0.5ml
+          <br>b. 2, 4, 6 meses; 3 dosis; intramuscular, 0.5ml
+          <br>c. 2, 4 meses; 2 dosis; oral; 1.5 ml
+          <br>d. 2, 4 meses; 2 dosis; intradérmica, 0.1 mL`,
+
+          choices: [
+              "- 1c, 2d, 3a, 4b",
+              "- 1a, 2c, 3b, 4d",
+              "- 1b, 2a, 3c, 4d",
+              "- 1c, 2b, 3d, 4a"
+          ],
+          answer: "- 1c, 2d, 3a, 4b"
+      },
+      {
+          question: "Como  enfermera/o  de  la  comunidad,  usted  atiende  un  paciente  con  Tuberculosis Pulmonar. Como dato significativo de su historia psicosocial se destacan las malas condiciones socioeconómicas del paciente. ¿En cuál de las filosofías, teorías o modelos de Enfermería, se destaca este factor dentro del entorno como supuesto principal?",
+          choices: [
+              "- Filosofía de Florence Nightingale.",
+              "- Filosofía de Virginia Henderson.",
+              "- Teoría de Hidelgard E. Peplau.",
+              "- Teoría de Nola J. Pender."
+          ],
+          answer: "- Filosofía de Florence Nightingale."
+      },
+      {
+          question: "Paciente con diagnóstico de embarazo de 36 semanas más preeclampsia severa, más amenaza de parto pretérmino, se encuentra incómoda y no soporta estar decúbito lateral izquierdo como se le recomienda, a la valoración no se perciben movimientos fetales  y  la  paciente  manifiesta  la  misma  preocupación,  se  registra  una  frecuencia cardíaca fetal de 123 latidos por minuto, pero el último control reporta 145 latidos por minuto; pese al tratamiento con nifedipino la cefalea persiste y le fastidia un ruido insoportable  que  no  alivia.  ¿Cuál  es  la  alteración  en  el  patrón  de  la  frecuencia cardíaca fetal?",
+          choices: [
+              "- Desaceleración tardía.",
+              "- Desaceleración variable.",
+              "- Variabilidad.",
+              "- Desaceleración precoz."
+          ],
+          answer: "- Desaceleración tardía."
+      },
+      {
+          question: "Identifique los criterios del Dengue Grave:",
+          choices: [
+              "- Choque, disnea y alteración del nivel de conciencia.",
+              "- Fiebre, exantemas y leucopenia.",
+              "- Artralgia, vómitos y prueba de torniquete positiva.",
+              "- Dolor abdominal intenso, sangrado de mucosas y hepatomegalia."
+          ],
+          answer: "- Choque, disnea y alteración del nivel de conciencia."
+      },
+      {
+          question: "¿Cuál de los siguientes medicamentos empleados en el tratamiento de los trastornos tiroideos, es considerado un medicamento LASA (Like alike - Sound alike)?",
+          choices: [
+              "- Metimazol.",
+              "- Liotironina.",
+              "- Levotiroxina.",
+              "- Propiltiuracilo."
+          ],
+          answer: "- Metimazol."
+      },
+      {
+          question: "Paciente  hospitalizado  en  el  servicio  de  Neurocirugía  con  diagnóstico  de  Trauma Craneoencefálico severo. A la valoración de enfermería usted observa que el paciente se encuentra somnoliento, y en la monitorización se determina presión intracraneal elevada,  para  el  tratamiento  el  médico  le  prescribe  administrar  una  solución hipertónica. ¿Cuál es la solución que usted prepararía?",
+          choices: [
+              "- Solución Salina al 9%",
+              "- Solución Salina al 0.9%",
+              "- Solución de Lactato Ringer",
+              "- Solución Salina al 0.45"
+          ],
+          answer: "- Solución Salina al 9%"
+      },
+      {
+          question: "En un hospital de II nivel, los resultados de las encuestas aplicadas a los pacientes indican insatisfacción en la atención de enfermería. ¿Qué acción debe desarrollar el líder del servicio para mejorar la satisfacción del cliente?",
+          choices: [
+              "- Realizar un proceso de mejora continua, para cambiar la percepción de los pacientes.",
+              "- Mantener el sistema actual de trabajo y esperar nueva información.",
+              "- Aplicar sanciones de acuerdo con el reglamento institucional al personal de enfermería por los resultados obtenidos.",
+              "- Cambiar de servicios al personal de enfermería."
+          ],
+          answer: "- Realizar un proceso de mejora continua, para cambiar la percepción de los pacientes."
+      },
+      {
+          question: "Como profesional de enfermería del servicio de cirugía, usted atiende un paciente que se encuentra inmóvil por temor a que su herida quirúrgica se abra, atendiendo que en una ocasión su papá fue operado y presentó esa complicación. ¿Cuál de los siguientes criterios debe ser priorizado en la valoración?",
+          choices: [
+              "- Posibilidad real de dehiscencia de herida.",
+              "- Riesgo de movilidad postoperatoria limitada.",
+              "- Ajuste emocional del paciente a la cirugía.",
+              "- Antecedentes familiares de la complicación."
+          ],
+          answer: "- Posibilidad real de dehiscencia de herida."
+      },
+      {
+          question: "Adulto   mayor   hospitalizado   con   diagnóstico   de   Neumonía,   al   realizar   la monitorización   usted   identifica   que   el   paciente   presenta   alteraciones   como hipotensión e hipotermia, los resultados de los exámenes de laboratorio revelan una hemoglobina  de  8  mg/dL.  ¿Cuál  de  los  siguientes  métodos  proporciona  datos inexactos?",
+          choices: [
+              "- Oximetría de pulso.",
+              "- Gasometría arterial.",
+              "- Gasometría venosa.",
+              "- Capnografía."
+          ],
+          answer: "- Oximetría de pulso."
+      },
+      {
+          question: "¿Con qué tipo de variables se trabaja en una investigación para clasificar el dolor en pacientes posquirúrgicos y establecer una constante de intensidad con ordenamiento jerárquico en subclases, con intervalos graduales o no; como leve, moderado y grave, se entiende que leve es menos intenso que moderado y que grave, sin que se pueda distinguir con claridad la distancia entre cada una de las intensidades del dolor?",
+          choices: [
+              "- Variables ordinales.",
+              "- Variables numéricas continuas.",
+              "- Variables nominales.",
+              "- Variables de razón."
+          ],
+          answer: "- Variables ordinales."
+      },
+      {
+          question: "¿Cuál  de  las  siguientes  opciones  corresponden  a  las  características  clínicas  de  la Glomerulonefritis?",
+          choices: [
+              "- Hematuria – Edema- Hipertensión arterial.",
+              "- Hiperalbuminemia – Hipolipidemia – Hipotensión arterial.",
+              "- Deshidratación – Poliuria – Hipertensión arterial.",
+              "- Hipotensión arterial- Hematuria- Hiperalbuminemia."
+          ],
+          answer: "- Hematuria – Edema- Hipertensión arterial."
+      },
+      {
+          question: "En los enfoques de los Derechos Sexuales y Reproductivos en el Ecuador. ¿Cuál de ellos  proponen  la  modificación  de  las  relaciones  económicas,  políticas,  sociales  y culturales entre hombres y mujeres de manera que exista igualdad en el ejercicio de derechos, en el acceso a beneficios, recursos y oportunidades?",
+          choices: [
+              "- Enfoque de género.",
+              "- Enfoque de igualdad.",
+              "- Enfoque de interculturalidad.",
+              "- Enfoque de sexualidad integral."
+          ],
+          answer: "- Enfoque de género."
+      },
+      {
+          question: "Paciente de 70 años permanece en reposo absoluto por diagnóstico de prótesis total de cadera, al realizar medidas de higiene y confort se observa en región sacra una úlcera de presión grado III. ¿Cuál es la principal característica que presenta este estadio?",
+          choices: [
+              "- Pérdida completa del espesor de piel grasa visible.",
+              "- Pérdida parcial del espesor de piel aparición de ampolla.",
+              "- Piel íntegra con eritema no blanqueante.",
+              "- Pérdida completa del espesor de los tejidos."
+          ],
+          answer: "- Pérdida completa del espesor de piel grasa visible."
+      },
+      {
+          question: "Según  el  Ministerio  de  Salud  Pública  del  Ecuador.  ¿Cómo  se  define  la  muerte materna?",
+          choices: [
+              "- Muerte de una mujer mientras está embarazada o dentro de los 42 días siguientes a la terminación del embarazo, independientemente de la duración y sitio del embarazo, debida a cualquier causa relacionada con o agravada por el embarazo mismo, o su atención, pero no por causas accidentales o incidentales.",
+              "- Muerte de una mujer mientras está embarazada o dentro de los 45 días siguientes a la terminación del embarazo, independientemente de la causa de la defunción.",
+              "- Muerte de una mujer en período del embarazo, parto, o puerperio que se pudo evitar si se hubiera tomado la decisión oportuna de acudir a los servicios de salud a tiempo y haber recibido atención oportuna y adecuada.",
+              "- Muerte que resulta de  las complicaciones obstétricas del embarazo (embarazo, parto y puerperio), de  las intervenciones,  o de las omisiones de la aplicación de un  tratamiento incorrecto o de una cadena de acontecimientos que se producen en cualquiera de las circunstancias mencionadas."
+          ],
+          answer: "- Muerte de una mujer mientras está embarazada o dentro de los 42 días siguientes a la terminación del embarazo, independientemente de la duración y sitio del embarazo, debida a cualquier causa relacionada con o agravada por el embarazo mismo, o su atención, pero no por causas accidentales o incidentales."
+      },{
+          question: "¿Cuál es el sitio con más rápida absorción para la administración de insulina?",
+          choices: [
+              "- Región peri-umbilical.",
+              "- Cara anterolateral del músculo vasto externo.",
+              "- Región anterior del brazo.",
+              "- Glúteos."
+          ],
+          answer: "- Región peri-umbilical."
+      },
+      {
+          question: "¿Cómo se denomina al embarazo en edad gestacional entre 37 a 38 semanas y 6 días?",
+          choices: [
+              "- Término precoz.",
+              "- A término.",
+              "- Término tardío.",
+              "- Postérmino."
+          ],
+          answer: "- Término precoz."
+      },
+      {
+          question: "Al  brindar  cuidados  de  enfermería  a  pacientes  con  Hipotiroidismo.  ¿Cuál  de  las siguientes intervenciones usted realiza?",
+          choices: [
+              "- Proporcionar una capa adicional de ropa adecuada y evitar la exposición al frío.",
+              "- Promover el uso de fuentes de calor externas para mantener la temperatura corporal.",
+              "- Incrementar el uso de laxantes en los pacientes para prevenir la constipación.",
+              "- Incentivar y orientar sobre el uso de hipnóticos y sedantes para aliviar el insomnio y el nerviosismo."
+          ],
+          answer: "- Proporcionar una capa adicional de ropa adecuada y evitar la exposición al frío."
+      },
+      {
+          question: "¿Cuál es la escala de valoración utilizada para medir el dolor?",
+          choices: [
+              "- Escala visual análoga.",
+              "- Escala de Aldrete.",
+              "- Escala de Cincinnati.",
+              "- Esacala de Bromage."
+          ],
+          answer: "- Escala visual análoga."
+      },
+      {
+          question: "Paciente de 65 años que presenta en los últimos meses intolerancia al frío, está más estreñida  de  lo  habitual  y  se  encuentra  muy  cansada,  su  voz  es  ronca.  En  la exploración física llama la atención la presencia de edema palpebral. Considerando estos datos. ¿Cuál es el diagnóstico probable?",
+          choices: [
+              "- Hipotiroidismo.",
+              "- Hipertiroidismo.",
+              "- Hipoparatiroidismo.",
+              "- Enfermedad de Addison."
+          ],
+          answer: "- Hipotiroidismo."
+      },
+      {
+          question: "En sala de partos nace un recién nacido prematuro con dificultad respiratoria por déficit de surfactante, presenta una palidez periférica (cianosis), el médico le indica al profesional en enfermería de guardia que realice la valoración aplicando la escala de DOWNES. ¿Qué parámetros mide la escala de Downes?",
+          choices: [
+              "- Frecuencia respiratoria, cianosis central, entrada de aire, quejido espiratorio, retracciones subcostal o subxifoideas.",
+              "- Frecuencia respiratoria, cianosis distal, entrada de aire, quejido respiratorio, llanto fuerte.",
+              "- Frecuencia cardíaca, cianosis central, entrada de aire, quejido espiratorio, retracciones subcostal o subxifoideas.",
+              "- Frecuencia respiratoria, cianosis central, entrada de aire, actividad física, retracciones subcostal o subxifoideas.",
+              ""
+          ],
+          answer: "- Frecuencia respiratoria, cianosis central, entrada de aire, quejido espiratorio, retracciones subcostal o subxifoideas."
+      },
+      {
+          question: "¿El déficit de qué vitamina es uno de los responsables de provocar defectos del tubo neural en el recién nacido?",
+          choices: [
+              "- Ácido fólico.",
+              "- Vitamina A.",
+              "- Vitamina D.",
+              "- Vitamina C."
+          ],
+          answer: "- Ácido fólico."
+      },
+      {
+          question: "¿Cuáles son los cuidados de enfermería sobre signos de alarma que la madre debe conocer sobre su recién nacido y por los que debe regresar de inmediato a la unidad de salud?",
+          choices: [
+              "- Se mueve poco, no puede lactar, vomita todo lo que come, está muy caliente o frío, no respira o le cuesta respirar, tiene secreción purulenta en los ojos o el ombligo, hay sangre en las heces, esta irritable, presenta ictericia o cianosis.",
+              "- Presenta ictericia o cianosis, se mueve mucho, no puede lactar, vomita todo lo que come, está muy caliente o frío, no respira o le cuesta respirar, tiene secreción purulenta en los ojos o el ombligo, hay sangre en las heces, está irritable.",
+              "- Puede lactar, se mueve poco, vomita todo lo que come, está muy caliente o frío, no respira o le cuesta respirar, tiene secreción purulenta en los ojos o el ombligo, hay sangre en las heces, está irritable, presenta ictericia o cianosis",
+              "- Ausencia de secreción purulenta en los ojos o el ombligo, se mueve poco, no puede lactar, vomita todo lo que come. Está muy caliente o se pone frío, no respira o le cuesta respirar, hay sangre en las heces, está irritable, presenta ictericia o cianosis."
+          ],
+          answer: "- Se mueve poco, no puede lactar, vomita todo lo que come, está muy caliente o frío, no respira o le cuesta respirar, tiene secreción purulenta en los ojos o el ombligo, hay sangre en las heces, esta irritable, presenta ictericia o cianosis."
+      },
+      {
+          question: "En el control prenatal, para reducir las complicaciones materno neonatales, se deben identificar los factores de riesgo obstétrico modificables y no modificables. ¿Cuál es modificable?",
+          choices: [
+              "- Síntomas neurovegetativos.",
+              "- Endocrinopatía controlada.",
+              "- Polihidramnios u oligoamnios.",
+              "- Incompetencia cervical."
+          ],
+          answer: "- Síntomas neurovegetativos."
+      },
+      {
+          question: "¿Cuál es el orden correcto para retirar los métodos de barrera una vez utilizados?",
+          choices: [
+              "- Guantes, bata, mascarilla, protección ocular y gorro.",
+              "- Bata, guantes, mascarilla, protección ocular y gorro.",
+              "- Guantes, mascarilla, protección ocular, gorro y bata.",
+              "- Guantes, gorro, mascarilla, bata y protección ocular."
+          ],
+          answer: "- Guantes, bata, mascarilla, protección ocular y gorro."
+      },
+      {
+          question: `Seleccione  las  intervenciones  de  enfermería  en  la  preparación  al  paciente  para  la ergometría:
+          <br>1.  Solicitar que se retire las prótesis dentales.
+          <br>2.  Instruirle que debe mantenerse en ayuno 4 horas previas al examen.
+          <br>3.  Informarle que previo al examen debe evitar el uso de estimulantes como tabaco y cafeína.
+          <br>4.  Monitorizar al paciente durante 10 - 15 minutos.
+          <br>5.  Informarle que estará ligeramente somnoliento.
+          <br>6.  Indicarle que debe llevar ropa adecuada para realizar ejercicio.`,
+          choices: [
+              "- 2, 3, 6",
+              "- 1, 4, 5",
+              "- 2, 4, 6",
+              "- 1, 3, 5"
+          ],
+          answer: "- 2, 3, 6"
+      },
+      {
+          question: "Paciente de 57 años, diagnosticada de Hipotiroidismo, es atendida en el servicio de Medicina Interna. En el momento de la valoración se encuentra con reposo en cama, presenta letargia, Tº = 35º C, FC=5OX’, no ha realizado la deposición por 2 días. ¿Cuál es el diagnóstico de enfermería prioritario en este caso?",
+          choices: [
+              "- Hipotermia R/C enfermedad M/P temperatura 35º C.",
+              "- Intolerancia a la actividad R/C inmovilidad M/P debilidad generalizada.",
+              "- Riesgo de estreñimiento crónico funcional R/C hipotiroidismo.",
+              "- Riesgo de confusión aguda R/C deterioro del funcionamiento metabólico."
+          ],
+          answer: "- Hipotermia R/C enfermedad M/P temperatura 35º C."
+      },
+      {
+          question: `Usted como enfermero del subcentro de salud, debe planificar un evento educativo para un grupo de mujeres embarazadas primigestas. Ordene en forma secuencial las acciones que debe realizar para desarrollar dicho evento:
+          <br>1.  Selección de medios.
+          <br>2.  Datos generales del grupo.
+          <br>3.  Evaluación.
+          <br>4.  Establecimiento de objetivos.
+          <br>5.  Contenidos.
+          <br>6.  Ejecución.`,
+          choices: [
+              "- 2, 4, 5, 1, 6, 3",
+              "- 1, 2, 3, 5, 4, 6",
+              "- 2, 3, 5, 4, 6, 1",
+              "- 4, 5, 2, 1, 3, 6"
+          ],
+          answer: "- 2, 4, 5, 1, 6, 3"
+      },
+      {
+          question: "Las políticas integrales de salud del adulto mayor del Ministerio de Salud Pública, establecen  las  principales  causas  de  muerte  en  adultos  mayores  de  65  años  en adelante. ¿Cuál es la causa número 1 de muerte?",
+          choices: [
+              "- Insuficiencia Cardíaca.",
+              "- Neumonía de órgano no especificado.",
+              "- Infarto agudo de miocardio.",
+              "- Hipertensión arterial."
+          ],
+          answer: "- Insuficiencia Cardíaca."
+      },
+      {
+          question: "Seleccione  los  factores  causales  de  los  efectos  adversos  que  afectan  la  cultura  de seguridad en los servicios de salud:",
+          choices: [
+              "- Comunicación deficiente, incorrecta ejecución de procedimientos, turnos excesivos.",
+              "- Estados del paciente, funcionamiento deficiente de equipos, ambiente desfavorable.",
+              "- Escases de materiales hospitalarios, personal no profesional, poco mantenimiento.",
+              "- Co-morbilidad del paciente, poca tecnología de equipos, desmotivación del personal."
+          ],
+          answer: "- Comunicación deficiente, incorrecta ejecución de procedimientos, turnos excesivos."
+      },
+      {
+          question: "El  profesional  enfermero  del  centro  de  salud  valora  a  un  lactante  para  evaluar  la pertinencia y adecuación de sus habilidades. Evidencia que cuando está boca abajo, levanta la cabeza y el pecho, y soporta el peso con los antebrazos. En el desarrollo del motor grueso ¿A qué edad del lactante corresponde esta habilidad?",
+          choices: [
+              "- De 2 a 4 meses.",
+              "- De 4 a 6 meses.",
+              "- De 6 a 8 meses.",
+              "- De 8 a 10 meses."
+          ],
+          answer: "- De 2 a 4 meses."
+      },
+      {
+          question: `De las siguientes opciones, seleccione las especificaciones técnicas del brazalete que se recomienda: 
+          <br>1.  Fabricados en polipropileno, antialérgicos e inocuos para el paciente.
+          <br>2.  Rígido, con bordes bien acentuados.
+          <br>3.  Cierre de fácil manipulación.
+          <br>4.  Rotulado con cualquier tipo de tinta.
+          <br>5.  Resistente a la tensión y ruptura en cualquier dirección.
+          <br>6.  Imposibilidad de reutilización tras la rotura del cierre de seguridad.`,
+          choices: [
+              "- 1, 5, 6",
+              "- 2, 3, 5",
+              "- 1, 3, 4",
+              "- 2, 4, 6"
+          ],
+          answer: "- 1, 5, 6"
+      },
+      {
+          question: `Relacione la notificación del evento con su definición:
+          <br>Notificación del evento
+          <br>1. Cuasi eventos.
+          <br>2. Eventos adversos.
+          <br>3. Eventos centinela.
+          <hr>
+          <br>Definición
+          <br>a. Evento que causa un daño involuntario al paciente por un acto de comisión o de omisión, no por la enfermedad o el trastorno de fondo del paciente.
+          <br>b. Todo evento adverso que haya derivado en la muerte del paciente o la pérdida importante o permanente de una función, de carácter imprevisto y sin relación con la enfermedad del paciente.
+          <br>c. Error de comisión o por omisión que podría haber causado daño al paciente, pero no produjo un daño grave gracias a la casualidad, a la prevención o a la atenuación.`,
+          choices: [
+              "- 1c, 2a, 3b",
+              "- 1b, 2c, 3a",
+              "- 1a, 2b, 3c",
+              "- 1b, 2a, 3c"
+          ],
+          answer: "- 1c, 2a, 3b"
+      },
+      {
+          question: "Con relación al infarto agudo del miocardio, señale el enunciado correcto:",
+          choices: [
+              "- En el electrocardiograma se aprecian ondas Q anormales.",
+              "- Las manifestaciones clínicas incluyen disnea paroxística nocturna y ortopnea.",
+              "- Un examen específico para su diagnóstico es el ecocardiograma.",
+              "- En la fase temprana suele haber estertores en ambas bases pulmonares."
+          ],
+          answer: "- En el electrocardiograma se aprecian ondas Q anormales."
+      },
+      {
+          question: "Paciente  primigesta  de  16  años,  tuvo  un  parto  céfalo  vaginal  sin  complicaciones, dando un recién nacido de 2700 gr de peso, talla 50 cm, perímetro cefálico 33 cm, perímetro  braquial  9  cm  y  perímetro  toráxico  31  cm.  La  madre  tiene  mamas secretantes  agrietadas,  con  pezones  evertidos  y  siente  mucho  dolor  al  dar  el  seno.\n¿Cuál  es  la  técnica  de  agarre  recomendada  por  el  MSP  para  un  correcto amamantamiento?",
+          choices: [
+              "- La boca del recién nacido está bien abierta, el labio inferior está evertido, el mentón está tocando el pecho, areola y pezón dentro de la boca.",
+              "- La boca del recién nacido está bien abierta, el labio superior está evertido, el mentón está tocando el pecho, areola dentro de la boca.",
+              "- La boca del recién nacido está abierta, el labio inferior está invertido, el mentón está tocando el pecho, pezón dentro de la boca.",
+              "- La boca del recién nacido está semi abierta, el labio inferior está invertido, el mentón está tocando el pecho, areola dentro de la boca."
+          ],
+          answer: "- La boca del recién nacido está bien abierta, el labio inferior está evertido, el mentón está tocando el pecho, areola y pezón dentro de la boca."
+      },
+      {
+          question: "Entre  las  definiciones  y  conceptos  básicos  de  la  Psicoprofilaxis  Obstétrica  y Estimulación Prenatal, se aplican diferentes técnicas para el logro de la preparación integral,   teórica,   física   y   psico-afectiva   con   enfoque   familiar,   comunitario   e intercultural.  ¿Cómo  se  define  al  conjunto  de  procedimientos  organizados  para  la estimulación  de  los  sensorios  fetales  que  permiten  potencializar  los  sentidos intraútero?",
+          choices: [
+              "- Técnicas de estimulación prenatal.",
+              "- Técnicas de relajación.",
+              "- Técnicas de respiración.",
+              "- Técnicas de vinculación prenatal."
+          ],
+          answer: "- Técnicas de estimulación prenatal."
+      },
+      {
+          question: "Le piden administrar 500 mg de eritromicina intravenosa, y se dispone en el servicio de 250 mg en 5ml. ¿Cuántos ml debe administrar?",
+          choices: [
+              "- 10 ml.",
+              "- 2.5 ml.",
+              "- 25 ml.",
+              "- 10.5 ml."
+          ],
+          answer: "- 10 ml."
+      },
+      {
+          question: "Al realizar la valoración a una paciente de 37 años, la misma refiere que hace un tiempo viene presentando nerviosismo, palpitaciones, que su piel se le enrojece y que siente que las manos le tiemblan, todo esto acompañado de pérdida de peso. Ante estos signos y síntomas, usted interpreta estas manifestaciones como un cuadro de:",
+          choices: [
+              "- Hipertiroidismo.",
+              "- Síndrome de Cushing.",
+              "- Aldosteronismo primario.",
+              "- Hipotiroidismo."
+          ],
+          answer: "- Hipertiroidismo."
+      },
+      {
+          question: "La  calidad  es  un  concepto  que  ha  evolucionado  hasta  nuestros  días,  existe  un pensador que hace referencia a la calidad como la satisfacción del cliente. ¿Cuál es el autor que hace referencia al enunciado?",
+          choices: [
+              "- W. Edwards Deming.",
+              "- Joseph M. Juran.",
+              "- Walter A. Shewhart.",
+              "- Avedis Donabedian."
+          ],
+          answer: "- W. Edwards Deming."
+      },
+      {
+          question: "En el nivel local de la cadena de frío. ¿Cuál es la temperatura de conservación de las vacunas?",
+          choices: [
+              "- +2 °C a +8 °C",
+              "- +8 °C  a +12 °C",
+              "- -2 °C  a +8 °C",
+              "- +4 °C a +7 °C",
+              ""
+          ],
+          answer: "- +2 °C a +8 °C"
+      },
+      {
+          question: "Paciente de 85 años, fue dada de alta después de un evento cerebro vascular, tiene afectación neuromuscular. Egresa en compañía de la hija. ¿Cuál debe ser el plan de egreso utilizando el modelo de Dorotea Orem?",
+          choices: [
+              "- Enseñar a la paciente a utilizar los recursos adaptativos para favorecer su autosuficiencia.",
+              "- Atender a la paciente en su domicilio cada vez que tenga necesidades insatisfechas.",
+              "- Minimizar el riesgo de lesiones, utilizando compañía permanente.",
+              "- Entrenar a la hija para que realice el soporte óptimo de los sistemas afectados."
+          ],
+          answer: "- Enseñar a la paciente a utilizar los recursos adaptativos para favorecer su autosuficiencia."
+      },
+      {
+          question: "Al aplicar enemas de limpieza con el objetivo de eliminar las heces, se emplean varias soluciones. ¿Qué tipo de solución estimula el peristaltismo aumentando el volumen en el colon e irritando la mucosa?",
+          choices: [
+              "- Espumosa.",
+              "- Hipotónica.",
+              "- Hipertónica.",
+              "- Isotónica."
+          ],
+          answer: "- Espumosa."
+      },
+      {
+          question: "Al realizar la valoración de Enfermería a un paciente de 45 años, el mismo refiere que desde hace más de 15 minutos presenta dolor agudo intenso en el pecho, localizado a nivel subesternal que irradia al cuello, brazos y espalda que no cede con reposo. Este dolor   se   acompaña   de   sudoración,   fatiga   y   náuseas.   Estas   manifestaciones corresponden a un cuadro de:",
+          choices: [
+              "- Síndrome coronario agudo.",
+              "- Angina de pecho.",
+              "- Pericarditis.",
+              "- Trastornos de ansiedad."
+          ],
+          answer: "- Síndrome coronario agudo."
+      },
+      {
+          question: "Un niño de 5 años presenta un crecimiento lento en su talla, es física y mentalmente parsimonioso,  se  muestra  cansado  y  friolento.  ¿A  qué  tipo  de  alteración  de crecimiento se refiere el caso descrito?",
+          choices: [
+              "- Deficiencia de hormona tiroidea.",
+              "- Talla baja familiar.",
+              "- Deficiencia de hormona de crecimiento.",
+              "- Retraso del crecimiento y la pubertad."
+          ],
+          answer: "- Deficiencia de hormona tiroidea."
+      },
+      {
+          question: "¿Cuál de las siguientes condiciones constituye una causa prerrenal de la insuficiencia renal aguda?",
+          choices: [
+              "- Hemorragia.",
+              "- Cálculos.",
+              "- Pielonefritis.",
+              "- Glomerulonefritis."
+          ],
+          answer: "- Hemorragia."
+      },
+      {
+          question: "En una visita domiciliaria a una comunidad indígena, usted se integra a la comunidad reconociendo que la salud y los cuidados se ven influidos por elementos como valores culturales, estructura social y que el cuidado humano varía de unas culturas a otras en sus expresiones, procesos y pautas.  ¿Cuál teorizante utiliza este enfoque?",
+          choices: [
+              "- Madeleine Leininger.",
+              "- Virginia Henderson.",
+              "- Martha Rogers.",
+              "- Dorothea Orem."
+          ],
+          answer: "- Madeleine Leininger."
+      },
+      {
+          question: "El estado de homeostasis fetal se traduce clínicamente en presencia de movimientos fetales, aceleraciones de la frecuencia cardiaca fetal. ¿A qué opción corresponde esta definición?",
+          choices: [
+              "- Bienestar fetal.",
+              "- Compromiso del bienestar fetal.",
+              "- Sufrimiento fetal.",
+              "- Amenaza de parto prematuro."
+          ],
+          answer: "- Bienestar fetal."
+      },
+      {
+          question: "Hombre de 52 años con tumor cerebral, que debe someterse a una exéresis del tumor, el  neurocirujano  explica  a  profundidad  el  procedimiento  quirúrgico,  riesgos  y beneficios.  El  paciente  lee  el  consentimiento  y  firma  antes  de  la  cirugía.  ¿Qué principio de la Bioética se cumple en este caso?",
+          choices: [
+              "-  Autonomía.",
+              "- Beneficencia.",
+              "- Justicia.",
+              "- No maleficencia."
+          ],
+          answer: "-  Autonomía."
+      },
+      {
+          question: `Relacione las habilidades de liderazgo con las características que debe tener el líder del servicio de enfermería:
+          <br>HABILIDADES
+          <br>1. Técnicas.
+          <br>2. Humanas.
+          <br>3. Conceptuales.
+          <br>CARACTERÍSTICAS
+          <br>a) Habilidad en procedimientos.
+          <br>b) Planteamiento objetivo.
+          <br>c) Trabajo en equipo.
+          <br>d) Entrenamiento continuo.
+          <br>e) Diagnóstico situacional.
+          <br>f) Clima organizacional favorable`,
+          choices: [
+              "- 1ad, 2cf, 3be.",
+              "- 1ac, 2ef, 3bd.",
+              "- 1bc, 2de, 3af.",
+              "- 1ae, 2bc, 3df."
+          ],
+          answer: "- 1ad, 2cf, 3be."
+      },
+      {
+          question: `Le han solicitado que realice una programación educativa para un grupo de padres de familia de una unidad educativa que se encuentra en el área de influencia del centro de salud tipo B. Identifique las etapas de programación educativa que debe seguir en forma secuencial:
+          <br>1.  Objetivos y contenidos.
+          <br>2.  Análisis de la situación.
+          <br>3.  Evaluación del aprendizaje.
+          <br>4.  Metodología de enseñanza.`,
+          choices: [
+              "- 2, 1, 4, 3",
+              "- 1, 2, 3, 4",
+              "- 2, 3, 4, 1",
+              "- 2, 3, 1, 4"
+          ],
+          answer: "- 2, 1, 4, 3"
+      },
+      {
+          question: "De acuerdo a la longitud de la aguja, ¿cuál es el ángulo correcto de administración de medicamentos por vía subcutánea?",
+          choices: [
+              "- 45° o 90°",
+              "- 5° o 15°",
+              "- 15° o 45°",
+              "- 5° o 90°"
+          ],
+          answer: "- 45° o 90°"
+      },
+      {
+          question: "Seleccione los elementos que constituyen el Componente de Provisión de Servicios de Salud del Sistema Nacional de Salud: <br>1.  Niveles de atención; homologación y tipología de establecimientos de salud.<br>2.  Grupos de población a quienes se entregará la atención.<br>3.  Herramientas de diagnóstico y monitoreo de las condiciones de salud.<br>4.  Conjunto de prestaciones por ciclos de vida.<br>5.  Organización territorial y funcionamiento de la Red Pública y complementaria.<br>6.  Escenarios y modalidades de atención.<br>7.  Estrategias y herramientas para brindar prestaciones integrales de salud.",
+          choices: [
+              "- 2, 4, 6, 7",
+              "- 2, 3, 5, 6",
+              "- 1, 5, 6, 7",
+              "- 1, 3, 4, 6"
+          ],
+          answer: "- 2, 4, 6, 7"
+      },
+      {
+          question: "El determinante de la salud en donde hay una interacción entre elementos naturales y sociales que contribuyen a la generación de condiciones de protección o riesgo para la salud se refiera a:",
+          choices: [
+              "- Ambientales.",
+              "- Sistema sanitario.",
+              "- Sociales.",
+              "-  Biológicos."
+          ],
+          answer: "- Ambientales."
+      },
+      {
+          question: "Seleccione los cuidados de Enfermería que se relacionan con la diabetes gestacional:<br>1.  Control de glicemia.<br>2.  Dieta hipoproteica.<br>3.  Control de cetonuria.<br>4.  Administración de insulina.<br>5.  Control de tensión arterial.<br>6.  Control de test de Sullivan.<br>7.  Administrar multivitamínicos orales.",
+          choices: [
+              "- 1, 3, 4, 5",
+              "- 2, 5, 6, 7",
+              "- 1, 2, 5, 7",
+              "- 2, 3,  6, 7"
+          ],
+          answer: "- 1, 3, 4, 5"
+      },
+      {
+          question: "Sujeto  de  cuidado  que  laboró  durante  20  años  como  operario  en  la  industria cementera   y   desde   hace   aproximadamente   3   años   manifiesta   cuadro   clínico caracterizado  por  disnea,  tos  irritativa  y  estertores  secos;  en  su  visita  al  médico ocupacional se le diagnóstica neumoconiosis por asbesto. ¿Qué teórica explica este tipo de cambio en el proceso salud y enfermedad?",
+          choices: [
+              "- Florence Nightingale.",
+              "- Virginia Henderson.",
+              "- Dorothea Orem.",
+              "- Nola Pender."
+          ],
+          answer: "- Florence Nightingale."
+      },
+      {
+          question: "Paciente atendido en emergencia luego de accidente de tránsito, es diagnosticado de shock  hipovolémico,  médico  prescribe  la  administración  de  paquetes  globulares. Durante la administración, el paciente presenta un shock anafiláctico, paro cardio respiratorio que no revierte pese a maniobras de RCP, por colocar paquete globular equivocado. ¿Cómo se denomina la situación descrita?",
+          choices: [
+              "- Evento centinela.",
+              "- Evento adverso.",
+              "- Reacción adversa.",
+              "- Fallas latentes."
+          ],
+          answer: "- Evento centinela."
+      },
+      {
+          question: "Seleccione los conceptos que usted debe aplicar para fomentar el pensamiento crítico en su práctica diaria: <br>1.  Dirección.<br>2.  Sistematicidad.<br>3.  Búsqueda de la verdad.<br>4.  Organización.<br>5.  Capacidad de análisis.<br>6.  Autoconfianza.<br>7.  Negociación.<br>8.  Control.",
+          choices: [
+              "- 2, 3, 5, 6",
+              "- 1, 3, 6, 8",
+              "- 2, 4, 6, 7",
+              "- 1, 2, 4, 7"
+          ],
+          answer: "- 2, 3, 5, 6"
+      },
+      {
+          question: "Paciente de 26 años secundigesta, con antecedente de diabetes mellitus, embarazo a término  llega  a  la  emergencia  en  período  expulsivo,  refiere  mucho  dolor.  En  la valoración presenta dilatación del cuello uterino de 10 cm y las contracciones uterinas son regulares, a intervalos de 3 min, con una duración de 70 segundos, se traslada para  sala  de  parto,  se  realiza  parto  distócico  por  desproporción  cefalopélvica, obteniendo recién nacido con peso de 4000 gramos. En la revisión de cavidad presenta desgarro  que  afecta  a  la  horquilla  perineal,  la  piel  perineal,  mucosa  vaginal,  piel, aponeurosis  y  los  músculos  del  periné,  sin  llegar  al  esfínter  anal.  ¿Cuál  de  las clasificaciones de los desgarros pertenece a este caso?\t",
+          choices: [
+              "- Desgarro perineal grado II.",
+              "- Desgarro perineal grado I.",
+              "- Desgarro perineal grado III.",
+              "- Desgarro perineal grado IV.",
+              ""
+          ],
+          answer: "- Desgarro perineal grado II."
+      },
+      {
+          question: "¿Qué alteración es característica de la fisiopatología de la gastroenteritis?",
+          choices: [
+              "- Alteración de la absorción intestinal.",
+              "- Alteración en el metabolismo de los alimentos.",
+              "- Alteración en la absorción de líquidos.",
+              "- Alteración en la absorción del sodio."
+          ],
+          answer: "- Alteración de la absorción intestinal."
+      },
+      {
+          question: "La función de la gestión de enfermería comunitaria, que trata de asegurar que su trabajo responda en forma sistemática, racional y ordenada a las necesidades de la comunidad asegurando el uso adecuado de los recursos, corresponde a:",
+          choices: [
+              "- Función administrativa.",
+              "- Función investigadora.",
+              "- Función asistencial.",
+              "- Función educador."
+          ],
+          answer: "- Función administrativa."
+      },
+      {
+          question: "De  las  siguientes  técnicas  de  muestreo,  seleccione  aquella  que  se  utiliza  cuando  la población es muy grande y dispersa:",
+          choices: [
+              "- Conglomerado.",
+              "- Aleatorio simple.",
+              "- Estratificado.",
+              "- Aleatorio sistemático."
+          ],
+          answer: "- Conglomerado."
+      },
+      {
+          question: "Paciente con antecedentes de hipertensión arterial, acude a la consulta de Medicina Interna  por  presentar:  dificultad  respiratoria,  edema  de  miembros  inferiores  y oliguria. Para su diagnóstico, el médico le solicita exámenes de laboratorio donde se evidencia  los  siguientes  datos:  Na  135  mEq/L;  K  3.5  mEq/L,  Crea  1.8  mg/dL, Nitrógeno  Ureico  10  mg/dl,  Ca  9.0  mg/dl.  ¿Cuál  es  el  dato  de  laboratorio  que  se encuentra alterado en el paciente?",
+          choices: [
+              "- Creatinina.",
+              "- Sodio.",
+              "- Potasio.",
+              "- Nitrógeno Ureico."
+          ],
+          answer: "- Creatinina."
+      },
+      {
+          question: "Son derechos humanos universales la libertad, dignidad e igualdad inherentes a todas las personas, están relacionados entre sí y coexisten en la vida de los seres humanos en sus cuerpos y mentes. ¿A qué enfoque corresponde?",
+          choices: [
+              "- Enfoque de derechos sexuales y reproductivos.",
+              "- Enfoque de igualdad.",
+              "- Enfoque de género.",
+              "- Enfoque de sexualidad integral."
+          ],
+          answer: "- Enfoque de derechos sexuales y reproductivos."
+      },
+      {
+          question: "En  el  preoperatorio,  usted  recibe  a  un  paciente  con  antecedentes  de  hipertensión arterial controlada con tratamiento. ¿Cuál es la Escala de Riesgo Anestésico (ASA) en este caso?",
+          choices: [
+              "- ASA 2",
+              "- ASA 1",
+              "- ASA 3",
+              "- ASA 4"
+          ],
+          answer: "- ASA 2"
+      },
+      {
+          question: "¿Cuál  es  la  sanción  a  quien  incurra  en  homicidio  culposo  por  mala  práctica profesional según el Artículo 146 del Código Orgánico Integral Penal del Ecuador?",
+          choices: [
+              "- De 1 a 3 años con pena privativa de libertad.",
+              "- De 3 a 5 años con pena privativa de libertad.",
+              "- De 1 a 2 años con pena privativa de libertad.",
+              "- De 2 a 3 años con pena privativa de libertad."
+          ],
+          answer: "- De 1 a 3 años con pena privativa de libertad."
+      },
+      {
+          question: "Al realizar un baño en cama a un paciente con yeso pelvipédico. ¿Qué sistema está aplicando según Dorothea Orem?",
+          choices: [
+              "- Totalmente compensador.",
+              "- Parcialmente compensador.",
+              "- Apoyo educativo.",
+              "- Orientación al autocuidado."
+          ],
+          answer: "- Totalmente compensador."
+      },
+      {
+          question: "Un  paciente  de  58  años  hospitalizado,  con  diagnóstico  de  Insuficiencia  Cardíaca Congestiva, presenta un paro cardíaco. ¿Qué acción inmediata se realiza en este caso?",
+          choices: [
+              "- Reconocimiento del paro cardíaco y activación del sistema de respuesta a emergencias.",
+              "- Reanimación Cardiopulmonar precoz con énfasis en las compresiones torácicas.",
+              "- Desfibrilación rápida con desfibrilador externo automático.",
+              "- Brindar cuidados posparto cardíaco multidisciplinares."
+          ],
+          answer: "- Reconocimiento del paro cardíaco y activación del sistema de respuesta a emergencias."
+      },
+      {
+          question: "En   la   visita   domiciliaria   se   identifica   un   paciente   con   Diabetes   tipo   2.   Al interrogatorio manifiesta que está preocupado actualmente por el problema de salud que  enfrenta  y  considera  cambiar  su  conducta  alimentaria,  además,  solicita información sobre la dieta. ¿Cuál es la fase del cambio de la conducta de salud que presenta el paciente?",
+          choices: [
+              "- Fase de contemplación.",
+              "- Fase de precontemplación.",
+              "- Fase de preparación.",
+              "- Fase de acción."
+          ],
+          answer: "- Fase de contemplación."
+      },
+      {
+          question: "Paciente permanece hospitalizado en el área crítica con ventilación mecánica invasiva, una de las funciones de enfermería en este paciente es manejar el tubo endotraqueal para evitar complicaciones como la micro-aspiración y prevenir la neumonía asociada por  la  ventilación.  ¿Cuál  es  el  método  principal  que  utiliza  para  evitar  estas complicaciones?",
+          choices: [
+              "- Comprobar con el Endotest.",
+              "- Medir con la Capnografía.",
+              "- Valorar con la oximetría de pulso.",
+              "- Utilizar métodos colorímetros."
+          ],
+          answer: "- Comprobar con el Endotest."
+      },
+      {
+          question: "La paciente NN es asmática y fumadora desde hace 15 años.  Al realizar la Valoración como  primera  etapa  del  Proceso  de  Atención  de  Enfermería,  en  la  necesidad  de respirar normalmente según Virginia Henderson, presenta disnea, cianosis, sonidos respiratorios adventicios, produce esputo con frecuencia y tos inefectiva. ¿Cuál es el dominio  alterado  de  la  Taxonomía  NANDA  que  usted  debe  identificar  previo  a  la construcción del diagnóstico de Enfermería con formato PES?",
+          choices: [
+              "- Dominio Seguridad/protección.",
+              "- Dominio Confort.",
+              "- Dominio Principios vitales.",
+              "- Dominio Percepción/cognición."
+          ],
+          answer: "- Dominio Seguridad/protección."
+      },
+      {
+          question: "Paciente hospitalizado presenta picos febriles entre 39 ºC y 40 ºC a las 16 horas de su hospitalización la temperatura desciende a los 36.5 ºC. ¿Cuál es el patrón de fiebre?\t",
+          choices: [
+              "- Intermitente.",
+              "- Continua.",
+              "- Remitente.",
+              "- Recurrente."
+          ],
+          answer: "- Intermitente."
+      },
+      {
+          question: "Una  madre  acude  con  su  niño  de  4  meses  al  centro  de  salud  para  vacunación,  la misma  refiere  que  a  los  2  meses  luego  de  la  aplicación  del  esquema,  presentó reacciones  neurológicas  (convulsiones)  por  el  componente  pertussis.  ¿Cuál  es  la vacuna indicada para este caso?",
+          choices: [
+              "- DT.",
+              "- Pentavalente.",
+              "- DPT.",
+              "- SRP."
+          ],
+          answer: "- DT."
+      },
+      {
+          question: "El personal de enfermería que labora en un centro de salud de atención primaria, realiza visitas domiciliarias a María de 14 años, la cual se encuentra en estado de gestación, esto ha desencadenado conflictos familiares. El personal de enfermería ha analizado  los  objetivos  de  la  visita  y  detectado  dificultades  que  ponen  en  riesgo  el bienestar de la adolescente. Por tanto, requieren replanificar los cuidados y modificar los objetivos. ¿Qué etapa de la visita domiciliaria describe este caso?",
+          choices: [
+              "- Evaluación.",
+              "- Presentación.",
+              "- Preparación.",
+              "- Valoración."
+          ],
+          answer: "- Evaluación."
+      },
+      {
+          question: "¿Cuál de los siguientes cuidados de enfermería debe aplicarse después de retirar una vía periférica heparinizada a un paciente de 54 años?\t",
+          choices: [
+              "- Presionar fuerte al menos durante 5 min, observando si hay signos de hemorragia.",
+              "- Dar masaje de manera circular suave para disminuir el dolor.",
+              "- Poner compresas de agua fría para evitar edema.",
+              "- Ocluir fuertemente con un parche el sitio de punción."
+          ],
+          answer: "- Presionar fuerte al menos durante 5 min, observando si hay signos de hemorragia."
+      },
+      {
+          question: "¿Cuáles son los valores normales de las constantes vitales para un adulto?",
+          choices: [
+              "- Frecuencia cardíaca 60-100 L/min, frecuencia respiratoria 14-20 R/min, tensión arterial 120/80 mmHg, temperatura 36.5 - 37 °C y oximetría >90 %",
+              "- Frecuencia cardíaca 50 - 70 L/min, frecuencia respiratoria 12 - 20 R/min, tensión arterial 100/60 mmHg, temperatura 36.5 - 37 °C y oximetría >90 %",
+              "- Frecuencia cardíaca 60 - 100 L/min, frecuencia respiratoria 14 - 22 R/min, tensión arterial 120/80 mmHg, temperatura 37 °C y oximetría < 95 %",
+              "- Frecuencia cardíaca 60 - 120 L/min, frecuencia respiratoria 18 - 22 R/min, tensión arterial 120/80 mmHg, temperatura 36. 5 - 37 °C y oximetría > 95 %"
+          ],
+          answer: "- Frecuencia cardíaca 60-100 L/min, frecuencia respiratoria 14-20 R/min, tensión arterial 120/80 mmHg, temperatura 36.5 - 37 °C y oximetría >90 %"
+      },
+      {
+          question: "Al  realizar  la  valoración  de  enfermería  a  un  paciente,  usted  observa  que  presenta crisis de tetania y según datos de laboratorio: Ca = 5 mg/dL, Na=140 mEq/l, K=4 mEq\n/l. ¿Qué trastorno electrolítico presenta el paciente?",
+          choices: [
+              "- Hipocalcemia.",
+              "- Hipopotasemia.",
+              "- Hipernatremia.",
+              "- Hipercalcemia."
+          ],
+          answer: "- Hipocalcemia."
+      },
+      {
+          question: "Seleccione las manifestaciones clínicas de la insuficiencia cardíaca: <br>1.  Disminución de la tolerancia a la actividad.<br>2.  Dolor torácico de inicio súbito.<br>3.  Disnea durante el ejercicio.<br>4.  Arritmias.<br>5.  Ortopnea.<br>6.  Piel pálida y diaforética.",
+          choices: [
+              "- 1, 3, 5",
+              "-  2, 4, 5",
+              "- 1, 4, 6",
+              "- 4, 5, 6"
+          ],
+          answer: "- 1, 3, 5"
+      },
+      {
+          question: "Paciente  con  12  semanas  de  gestación,  acude  a  la  consulta  de  Emergencia  de  un hospital de segundo nivel, por presentar: fiebre de 38.5 grados, escalofríos, malestar general, náuseas, vómito, refiere dolor costo vertebral y deshidratación. El médico la valora y diagnóstica pielonefritis. ¿Qué medicamento de primera elección debe tener listo la enfermera, en este caso?",
+          choices: [
+              "- Nitrofurantoina.",
+              "- Fosfomicina.",
+              "- Cefalosporina.",
+              "- Ampicilina."
+          ],
+          answer: "- Nitrofurantoina."
+      },
+      {
+          question: "¿Cuál es el autor de la teoría que se refiere a cuidar y ayudar al paciente a lograr el autocuidado?",
+          choices: [
+              "- Dorothea Orem.",
+              "- Virginia Henderson.",
+              "- Nola Pender.",
+              "- Martha Rogers.",
+              ""
+          ],
+          answer: "- Dorothea Orem."
+      },
+      {
+          question: "¿A  qué  alteración  de  la  respiración  corresponde  la  siguiente  definición?  Tipo  de respiración que se caracteriza por cambios de ritmo en la intensidad respiratoria y presenta  un  período  de  apnea  más  o  menos  largo  seguido  de  una  serie  de respiraciones  que  van  aumentando  de  amplitud  y  otra  serie  de  respiraciones  de amplitud decreciente hasta un nuevo período de apnea.",
+          choices: [
+              "- Respiración de Cheyne Stokes.",
+              "- Respiración de Kussmaul.",
+              "- Respiración de Biot.",
+              "- Respiración de Apneusis."
+          ],
+          answer: "- Respiración de Cheyne Stokes."
+      },
+      {
+          question: "Paciente  embarazada  de  32  semanas  de  gestación  que  acude  al  control  prenatal; dentro  de  la  valoración  a  la  gestante  debe  realizar  las  maniobras  de  Leopold.\n¿Qué valora la segunda maniobra?",
+          choices: [
+              "- Situación en relación del eje longitudinal del feto con el útero.",
+              "- La presentación del feto.",
+              "- El encajamiento y movilidad de la cabeza del feto en la entrada de la pelvis materna.",
+              "- Si la cabeza esta encajada en relación con los planos de Hodge."
+          ],
+          answer: "- Situación en relación del eje longitudinal del feto con el útero."
+      },
+      {
+          question: "En la sala de patología obstétrica, usted atiende a una mujer de 25 años con embarazo de 37 semanas que presenta tensión arterial de 170/110 mm Hg, agitación psicomotriz y proteinuria con tirilla reactiva ++. Luego de aplicar la herramienta SCORE MAMÁ activa  clave  azul.  De  acuerdo  al  protocolo  para  eclampsia  y  de  acuerdo  con  la prescripción   médica.   ¿Qué   dosis   de   sulfato   de   magnesio   administra   para mantenimiento?",
+          choices: [
+              "- 2gr / hora en infusión continua.",
+              "- 1gr / hora en infusión continua.",
+              "- 2gr en bolo en 20 minutos.",
+              "- 4gr IV en 20 minutos."
+          ],
+          answer: "- 2gr / hora en infusión continua."
+      },
+      {
+          question: "Adulto mayor en la consulta de Geriatría presenta deterioro de la función cognitiva que  conduce  a  una  disminución  de  la  memoria,  cambios  en  el  estado  de  ánimo  y dificultad para comunicarse. Usted debe realizar una valoración del paciente. ¿Cuál es la escala que utiliza para este caso?",
+          choices: [
+              "- Escala de Pfeiffer.",
+              "- Escala de Katz.",
+              "- Escala de Yesavage.",
+              "- Escala de Guijón."
+          ],
+          answer: "- Escala de Pfeiffer."
+      },
+      {
+          question: "Durante  la  guerra  civil  (1861-1865),  hubo  la  participación  de  una  notable  líder enfermera, quien se preocupó de las relaciones entre culturas y razas, dio luz a una conciencia de la diversidad cultural y respeto por la persona, sin tener en cuenta su procedencia, raza, color o religión. ¿A cuál de las siguientes enfermeras se le atribuye este enunciado?",
+          choices: [
+              "- Mary Mahoney.",
+              "- Isabel Hampton.",
+              "- Dorothea Dix.",
+              "- Harriet Tubman."
+          ],
+          answer: "- Mary Mahoney."
+      },
+      {
+          question: "¿Cuáles son las Modalidades de Atención del Modelo Integral de Salud?",
+          choices: [
+              "- Atención extramural, atención intramural, atención en unidades móviles y atención prehospitalaria.",
+              "- Promoción, prevención, curación, rehabilitación, cuidados paliativos e integración social.",
+              "- Atención individual, atención familiar, atención a la comunidad y atención al ambiente o entorno natural.",
+              "- Aparentemente sano, con riesgo, con patología, con deficiencia y discapacidad o secuela."
+          ],
+          answer: "- Atención extramural, atención intramural, atención en unidades móviles y atención prehospitalaria."
+      },
+      {
+          question: "Al realizar la evaluación del adulto mayor, se identifica un deterioro de la memoria a corto y largo plazo, presenta gran esfuerzo para encontrar respuestas a preguntas referentes  a  su  familia  y  de  manera  reiterada  solicita  retroalimentación  sobre  su trabajo.  Señale  con  qué  patología  está  asociada  para  gestionar  los  cuidados enfermeros:",
+          choices: [
+              "- Demencia.",
+              "- Delirio.",
+              "- Parkinson.",
+              "- Demencia vascular."
+          ],
+          answer: "- Demencia."
+      },
+      {
+          question: "Seleccione la teorizante fundadora en los cuidados de la diversidad y la universalidad de la Enfermería transcultural.",
+          choices: [
+              "- Madeleine Leininger.",
+              "- Hildegard Peplau.",
+              "- Martha Rogers.",
+              "- Virginia Henderson."
+          ],
+          answer: "- Madeleine Leininger."
+      },
+      {
+          question: "¿En qué consiste el APGAR familiar?",
+          choices: [
+              "- Constituye un instrumento para detectar el grado de funcionalidad o disfunción de la familia.",
+              "- Secuencia de etapas interconectadas que atraviesa el individuo y la familia a lo largo del tiempo.",
+              "- Es un instrumento que permite valorar la dinámica, la composición, estructura, el tipo de familia, relaciones, los roles que asumen y el ciclo evolutivo por el cual está cursando la familia en un momento determinado.",
+              "- Conjuntos de personas que conviven bajo el mismo techo, organizadas en roles fijos (padre, madre, hermanos, etc.) con vínculos consanguíneos o no, con un modo de existencia económico y social comunes, con sentimientos afectivos que los une y los aglutinan."
+          ],
+          answer: "- Constituye un instrumento para detectar el grado de funcionalidad o disfunción de la familia."
+      },
+      {
+          question: "El campo de acción de los Equipos de salud de acuerdo al MAIS-FCI, en el cual  les permite construir la base del perfil epidemiológico como herramienta fundamental, para  mantener  la  salud  mediante  acciones  dirigidas  a  grupos  desagregados  por género, etnia y por ciclos de vida corresponde al nivel:",
+          choices: [
+              "- Epidemiológico.",
+              "- De enfermedad.",
+              "- Familiar y comunitario.",
+              "- Social."
+          ],
+          answer: "- Epidemiológico."
+      },
+      {
+          question: "El  personal  de  enfermería  está  realizando  una  investigación  sobre  adherencia  al Papanicolau,  la  situación  de  pareja  es  una  variable  de  influencia  importante  que requiere ser relacionada y se la distingue como: mujeres con pareja o mujeres sin pareja. Para determinar las pruebas estadísticas es necesario identificar el tipo de variable \"situación de pareja\". ¿A qué tipo de variable corresponde?",
+          choices: [
+              "- Cualitativa nominal.",
+              "- Cuantitativa discreta.",
+              "- Cualitativa ordinal.",
+              "- Cuantitativa continua."
+          ],
+          answer: "- Cualitativa nominal."
+      },
+      {
+          question: "Considerando los procesos utilizados para sintetizar evidencia científica. ¿Cuál es el que tiene como objetivo la síntesis o agrupación de resultados de diversos estudios previos, utilizando el análisis estadístico para determinar el efecto de una intervención y la consistencia de las relaciones?",
+          choices: [
+              "- Metaanálisis.",
+              "- Revisión sistemática.",
+              "- Metasíntesis.",
+              "- Revisión sistemática de métodos mixtos."
+          ],
+          answer: "- Metaanálisis."
+      },
+      {
+          question: "\"Complete el enunciado: La parotiditis es una enfermedad que se transmite por vía _____________________, las partículas son _____________________. En este caso, como medida de bioseguridad, se utiliza _____________________.",
+          choices: [
+              "-  Directa – mayores de 5 micras – mascarilla quirúrgica.",
+              "- Directa – menores de 5 micras – mascarilla N95.",
+              "- Indirecta – mayores de 5 micras – mascarilla N95.",
+              "- Indirecta – menores de 5 micras – mascarilla quirúrgica."
+          ],
+          answer: "-  Directa – mayores de 5 micras – mascarilla quirúrgica."
+      },
+      {
+          question: "A las mujeres que se realizan una cesárea bajo anestesia regional, requieren de una sonda  vesical.  ¿Cuál  de  las  siguientes  razones  fundamenta  esta  intervención  de enfermería?",
+          choices: [
+              "- Evitar el exceso de distensión de la vejiga.",
+              "- Medir diuresis cada una hora.",
+              "- Facilitar la toma de muestra para cultivo de orina.",
+              "- Favorecer la contractilidad uterina."
+          ],
+          answer: "- Evitar el exceso de distensión de la vejiga."
+      },
+      {
+          question: "Paciente de 41 años, con diagnóstico reciente desde hace 2 meses de demencia senil, con tratamiento, que acude a urgencias por presentar alucinaciones y agitación. Se ingresa  en  el  servicio  de  neurocirugía  para  valoración  evidenciándose  torpeza progresiva para la marcha, disfunción de esfínteres y desorientación de una semana de evolución. Al interrogatorio con antecedentes personales hipertensión arterial y familiares,   dos   hermanos   con   demencia   tipo   Alzheimer,   además   exploración complementaria una analítica normal. ¿Cuál es la etiqueta diagnóstica de enfermería que priorizaría en el paciente?",
+          choices: [
+              "- 00128 Confusión aguda.",
+              "- 00129 Confusión crónica.",
+              "- 00131 Deterioro de la memoria.",
+              "- 00222 Control de impulsos ineficaz."
+          ],
+          answer: "- 00128 Confusión aguda."
+      },
+      {
+          question: "¿Cuáles  son  las  características  de  la  comunicación  terapéutica  en  el  entorno quirúrgico?",
+          choices: [
+              "- Está dirigida a un objetivo, es única para cada paciente, exige compromiso activo, requiere de habilidades de observación y escucha.",
+              "- Ayuda a controlar el temor, controla el dolor, explica los pasos de la cirugía, alienta al paciente a comunicarse con el equipo de salud.",
+              "- Mantiene la seguridad en el acto quirúrgico, verifica el grado de bienestar, alienta a que el paciente comunique sus emociones, explica el procedimiento.",
+              "- Está dirigida a mantener el interés en la comunicación con los miembros del equipo quirúrgico, ayuda  a evitar accidentes quirúrgicos."
+          ],
+          answer: "- Está dirigida a un objetivo, es única para cada paciente, exige compromiso activo, requiere de habilidades de observación y escucha."
+      },
+      {
+          question: "Se deben crear espacios de gestión y autogestión, donde los conjuntos sociales y los trabajadores de la salud concierten sobre los procesos de identificación de problemas, el  establecimiento  de  prioridades  y  la  búsqueda  de  soluciones”.  ¿A  qué  tipo  de integralidad corresponde el enunciado?",
+          choices: [
+              "- Integralidad en la participación de la comunidad.",
+              "- Integralidad en las acciones intersectoriales.",
+              "- Integralidad en la atención individual y familiar.",
+              "- Integralidad en la gestión institucional."
+          ],
+          answer: "- Integralidad en la participación de la comunidad."
+      },
+      {
+          question: "En el tratamiento de la tuberculosis sensible infantil con drogas de primera línea, es importante  considerar  todos  los  aspectos  inherentes  a  la  farmacoterapia  con isoniacida (H). Señale. ¿Cuál de las siguientes complicaciones indican toxicidad por el uso de esta droga?",
+          choices: [
+              "- Convulsiones.",
+              "- Nefritis intersticial.",
+              "- Hiperuricemia.",
+              "- Neuritis óptica."
+          ],
+          answer: "- Convulsiones."
+      },
+      {
+          question: "Son medidas que involucran a todos los pacientes, trabajadores y profesionales de todos los servicios, independientemente de conocer o no su serología. ¿A qué principio básico de Bioseguridad se refiere este enunciado?",
+          choices: [
+              "- Universalidad.",
+              "- Uso de barreras.",
+              "- Medios de eliminación de material contaminado.",
+              "- Equipos de seguridad."
+          ],
+          answer: "- Universalidad."
+      },
+      {
+          question: "Mujer embarazada de 22 años, multípara que acude al servicio de emergencia del hospital, es valorada por el médico de turno, el cual diagnóstica un parto en expulsivo. Se realiza la admisión y se prepara a la paciente e ingresa a sala de partos y da a luz en condiciones normales. ¿Cuáles son los medicamentos que aplica el profesional en enfermería como medida profiláctica al recién nacido?",
+          choices: [
+              "- Administración de ungüento oftálmico con eritromicina al 0.5% o tetraciclina al 1% y de 1 mg de vitamina K vía intramuscular.",
+              "- Aplicación de profilaxis oftálmica ungüento de gentamicina y administración de 1 mg de vitamina K vía intramuscular.",
+              "- Administración de profilaxis oftálmica ungüento de garamicina y administración de 2 mg de vitamina K vía intramuscular.",
+              "- Aplicación de profilaxis oftálmica ungüento de mupirocina y administración de 1 mg de vitamina K vía intramuscular."
+          ],
+          answer: "- Administración de ungüento oftálmico con eritromicina al 0.5% o tetraciclina al 1% y de 1 mg de vitamina K vía intramuscular."
+      },
+      {
+          question: "¿A qué principio del Modelo de Atención Integral de Salud se refiere la transferencia de   competencias   de   una   entidad   administrativa   del   nivel   nacional   a   otra jerárquicamente dependiente (nivel zonal, distrital, local)?",
+          choices: [
+              "- Desconcentrado.",
+              "- Participativo.",
+              "- Integralidad.",
+              "- Universalidad."
+          ],
+          answer: "- Desconcentrado."
+      },
+      {
+          question: "Profesional en enfermería atiende un infante de seis meses de edad, al revisar el carné de vacunación, tiene las siguientes vacunas: BCG, HB, primera dosis de Rotavirus, de Pentavalente y de fIPV. ¿Qué vacunas deberá empezar para completar el esquema según su edad?",
+          choices: [
+              "- Segunda dosis de Rotavirus, de Pentavalente y de fIPV, primera de Neumococo más Influenza.",
+              "- Segunda dosis de HB, de Rotavirus, de Pentavalente y de fIPV, primera de Neumococo, más Influenza.",
+              "- Segunda dosis de fIPV, bOPV, segunda dosis de Pentavalente y de Neumococo, más Influenza.",
+              "- Segunda dosis de Rotavirus, de Pentavalente, de fOPV, de fIPV y de Neumococo, más Influenza."
+          ],
+          answer: "- Segunda dosis de Rotavirus, de Pentavalente y de fIPV, primera de Neumococo más Influenza."
+      },
+      {
+          question: "Paciente masculino de 72 años, con diagnóstico de Enfermedad Pulmonar Obstructiva Crónica (EPOC) grave y que requiere oxígeno complementario de por vida. Tras la administración de una concentración elevada de oxígeno comienza con un cuadro de Insuficiencia Respiratoria Aguda y Acidosis. ¿Cuál es la complicación que presenta el paciente?",
+          choices: [
+              "- Supresión de la ventilación.",
+              "- Toxicidad del oxígeno.",
+              "- Hipoxia hipoxémica.",
+              "- Hipoxia histotóxica."
+          ],
+          answer: "- Supresión de la ventilación."
+      },
+      {
+          question: "¿Qué componente del Modelo Integral de Salud Familiar Comunitario e Intercultural MAIS-FCI se relaciona con la oferta de los servicios integrales e integrados de salud, garantizando la continuidad en la atención y respondiendo a las necesidades de salud de la población, a nivel individual, familiar y comunitario?",
+          choices: [
+              "- Componente de provisión de servicios.",
+              "- Componente de organización.",
+              "- Componente de gestión.",
+              "- Componente de financiamiento."
+          ],
+          answer: "- Componente de provisión de servicios."
+      },
+      {
+          question: "Paciente  de  17  años  cursa  un  embarazo  de  15  semanas  de  gestación,  acude  a  su segundo  control  prenatal  al  Centro  de  Salud  más  cercano,  con    los  siguientes resultados: Hemoglobina de 10.2 mg/dl y un hematocrito de 32 %. La prescripción médica es hierro: 30 a 60 mg y ácido fólico: 400 ug (0.4 mg). ¿Que recomienda usted como enfermero/a en la postconsulta?",
+          choices: [
+              "- Alimentación saludable rica en hierro en cinco tomas al día, ingerir el hierro prescrito 1 hora antes de las comidas, consumir frutas cítricas, no ingerir antiácidos, advertir la coloración de las heces.",
+              "- Dieta hiper calórica, cinco tomas al día, ingerir el hierro prescrito 1 hora después de las comidas, consumir frutas cítricas, ingerir antiácidos, advertir la coloración de las heces.",
+              "- Dieta rica en proteínas vegetales, en tres tomas al día, ingerir el hierro prescrito 1 hora antes de las comidas, consumir frutas cítricas, ingerir antiácidos, advertir que presentará deposiciones blandas.",
+              "- Alimentación rica en calcio, tres tomas al día, ingerir el hierro prescrito 2 horas después de las comidas, consumir lácteos, ingerir antiácidos, advertir que presentará estreñimiento."
+          ],
+          answer: "- Alimentación saludable rica en hierro en cinco tomas al día, ingerir el hierro prescrito 1 hora antes de las comidas, consumir frutas cítricas, no ingerir antiácidos, advertir la coloración de las heces."
+      },
+      {
+          question: "De  acuerdo  con  las  etapas  del  ciclo  vital  familiar,  ¿a  qué  se  refiere  la  familia  en contracción?",
+          choices: [
+              "- Desde que el primer hijo abandona el hogar hasta que lo hace el último hijo.",
+              "- Desde la formación de pareja hasta el nacimiento del primer hijo/a.",
+              "- Desde que nace el primer hijo hasta que el primer hijo abandona el hogar.",
+              "- Desde que muere el primer cónyuge hasta la muerte del superviviente."
+          ],
+          answer: "- Desde que el primer hijo abandona el hogar hasta que lo hace el último hijo."
+      },
+      {
+          question: `Relacione los niveles del pensamiento crítico con sus características:
+          <br>Niveles del pensamiento crítico
+          <br>1. Básico.
+          <br>2. Complejo.
+          <br>3. Compromiso.
+          <hr>
+          <br>Características
+          <br>a. Las personas comienzan a separarse de los expertos.
+          <br>b. Las personas toman las decisiones sin la ayuda de otras.
+          <br>c. Las personas piensan que los expertos tienen las respuestas.
+          `,
+          choices: [
+              "- 1c, 2a, 3b",
+              "- 1a, 2b, 3c",
+              "- 1c, 2b, 3a",
+              "- 1a, 2c, 3b"
+          ],
+          answer: "- 1c, 2a, 3b"
+      },
+      {
+          question: "Paciente de 26 años ingresa al servicio de terapia intensiva con diagnóstico de trauma craneoencefálico  grave.  Durante  la  valoración  usted  observa  salida  de  líquido cefalorraquídeo por conducto auditivo externo. ¿Cuál es la alteración que presenta el paciente?",
+          choices: [
+              "- Otorraquía.",
+              "- Otorrea.",
+              "- Otalgia.",
+              "- Otorragia."
+          ],
+          answer: "- Otorraquía."
+      },
+      {
+          question: "Seleccione las áreas que son consideradas semirrestringidas en un centro quirúrgico:<br> 1.  Sala de procedimientos menores.<br>2.  Áreas de almacenamiento.<br>3.  Área de materiales estériles.<br>4.  Corredores ubicados entre quirófanos.<br>5.  Vestidores del centro quirúrgico.<br>6.  Áreas de procesamiento de instrumental.",
+          choices: [
+              "-  2, 4, 6",
+              "-  1, 5, 6",
+              "-  2, 3, 5",
+              "-  1, 3, 4"
+          ],
+          answer: "-  2, 4, 6"
+      },
+      {
+          question: "Como  enfermera/o  del  Servicio  de  Urología,  usted  debe  brindar  orientaciones  a pacientes  que  egresan  con  sondas  permanentes.  Entre  las  medidas  dietéticas  está orientar sobre el consumo de algunos alimentos que acidifican la orina para reducir el riesgo  de  infección  de  las  vías  urinarias.  ¿Cuál  de  los  siguientes  alimentos  son  los adecuados para este tipo de pacientes?",
+          choices: [
+              "- Cereales integrales y carnes.",
+              "- Frutas y productos lácteos.",
+              "- Verduras y frutas.",
+              "- Legumbres y verduras."
+          ],
+          answer: "- Cereales integrales y carnes."
+      },
+      {
+          question: "Varón  de  65  años  atendido  en  emergencia,  con  diagnóstico  de  deshidratación.  Le prescriben  Solución  salina  al  0.9%,  83  ml/hora.  ¿A  qué  goteo  le  administra  esta solución?",
+          choices: [
+              "- 28 gotas por minuto.",
+              "- 42 gotas por minuto.",
+              "- 20 gotas por minuto.",
+              "- 35 gotas por minuto."
+          ],
+          answer: "- 28 gotas por minuto."
+      },
+      {
+          question: "¿Cuál es el porcentaje de agua corporal que le corresponde al adulto mayor?",
+          choices: [
+              "- 45 %",
+              "- 78 %",
+              "- 50 %",
+              "- 60 %"
+          ],
+          answer: "- 45 %"
+      },
+      {
+          question: "La  dermatitis  atópica  (DA),  es  una  enfermedad  alérgica  de  la  piel.  ¿Cuál  es  la principal manifestación de la DA en el lactante o primera infancia?",
+          choices: [
+              "- Enrojecimiento de las mejillas.",
+              "- Prurito intenso que afecta el sueño.",
+              "- Liquenificación en forma de placa.",
+              "- Piel seca y áspera en otras zonas."
+          ],
+          answer: "- Enrojecimiento de las mejillas."
+      },
+      {
+          question: "Seleccione las características de la Epidemiología Comunitaria:<br>1.  Es una herramienta de uso popular.<br>2.  Concibe  a  la  comunidad  solamente  como  un  lugar  delimitado  geográfica  y demográficamente.<br>3.  No excluye el uso de la tecnología informática y de las telecomunicaciones.<br>4.  Concibe  a  la  comunidad  como  un  conjunto  de  personas  que  comparten  un interés común.<br>5.  Los datos epidemiológicos tienen un camino unidireccional.<br>6.  Da  mucha  importancia  al  papel  de  la  comunidad  en  el  campo  de  la investigación.",
+          choices: [
+              "- 1, 3, 4, 6",
+              "- 1, 2, 5, 6",
+              "- 2, 3, 5, 6",
+              "- 3, 4, 5, 6"
+          ],
+          answer: "- 1, 3, 4, 6"
+      },
+      {
+          question: "Seleccione las manifestaciones sospechosas de sífilis congénitas tempranas en el recién nacido:<br>1.  Rinorrea sanguinolenta.<br>2.  Gomas en pie.<br>3.  Queratitis intersticial.<br>4.  Erupción maculopapular.<br>5.  Nariz en silla de montar.<br>6.  Linfadenopatía generalizada.<br>7.  Trombocitopenia.",
+          choices: [
+              "- 1, 4, 6, 7",
+              "- 2, 4, 5, 7",
+              "- 2, 3, 5, 6",
+              "- 3, 5, 6, 7"
+          ],
+          answer: "- 1, 4, 6, 7"
+      },
+      {
+          question: "El trabajo de parto es un proceso mediante el cual, el personal de salud debe tener en consideración aspectos a valorar, la monitorización materno fetal es una de ellas, la monitorización fetal electrónica es un proceso que se realizará en casos específicos. ¿Cuál de las siguientes situaciones se debería realizar?<br>a.  Presencia de líquido amniótico teñido de meconio.<br>b.  Madre con diabetes gestacional.<br>c.  Alteración del latido cardíaco fetal por auscultación.<br>d.  Fiebre materna.<br>e.  Madre adolescente.<br>f.  Uso de oxitocina.",
+          choices: [
+              "- a, c, d, f",
+              "- a, c, d, e",
+              "- b, d, e, f",
+              "- b, c, d, f"
+          ],
+          answer: "- a, c, d, f"
+      }
 ];
 
