@@ -30,7 +30,7 @@ export class UI {
   showScores(score) {
     const gameOverHTML = `
       <h1>Result</h1>
-      <h2 id="score">Your scores: ${score}</h2>
+      <h2 id="score">Tu Puntaje: ${score}</h2>
     `;
 
     const element = document.getElementById("quiz");
